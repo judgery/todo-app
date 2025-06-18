@@ -2,3 +2,5 @@ Fix the car
 Walk Bruce
 learn python
 make dinner
+Wash the car
+Go to work
