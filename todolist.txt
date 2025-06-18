@@ -1,6 +1,8 @@
 Fix the car
 Walk Bruce
-learn python
-make dinner
+Learn python
+Make breakfast
 Wash the car
 Go to work
+Check cameras
+Add task

@@ -4,9 +4,13 @@ import FreeSimpleGUI as sg
 label = sg.Text("Enter a task")
 input_box = sg.InputText(tooltip="Enter Task", key="todo")
 add_button = sg.Button("Add")
+list_box = sg.Listbox(values=functions.get_todolist(),
+                      key='todos',
+                      enable_events=True, size=[45, 10])
+edit_button = sg.Button("Edit")
 
 window = sg.Window('Planner App',
-                   layout=[[label], [input_box, add_button]],
+                   layout=[[label], [input_box, add_button], [list_box, edit_button]],
                    font=('Arial', 12),
                    resizable=True)
 
@@ -20,6 +24,18 @@ while True:
             new_task = values['todo'] + "\n"
             tasks.append(new_task)
             functions.write_tolist(tasks)
+            window['todos'].update(values=tasks)
+        case "Edit":
+            task_to_edit = values['todos'][0]
+            new_task = values['todo'] + "\n"
+
+            tasks = functions.get_todolist()
+            index = tasks.index(task_to_edit)
+            tasks[index] = new_task
+            functions.write_tolist(tasks)
+            window['todos'].update(values=tasks)
+        case 'todos':
+            window['todo'].update(value=values['todos'][0])
         case sg.WIN_CLOSED:
             break
 
