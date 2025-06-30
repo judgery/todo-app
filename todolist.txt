@@ -1,5 +1,4 @@
 Fix the car
 Walk Bruce
 Learn python
-Wax the car
 Change the theme

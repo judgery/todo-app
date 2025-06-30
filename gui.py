@@ -7,12 +7,14 @@ sg.theme("DarkBlue")
 clock = sg.Text("", key="clock")
 label = sg.Text("Enter a task")
 input_box = sg.InputText(tooltip="Enter Task", key="todo")
-add_button = sg.Button("Add")
+add_button = sg.Button(size=10, image_source="add.png", mouseover_colors="LightBlue2",
+                       tooltip="Add Task", key="Add")
 list_box = sg.Listbox(values=functions.get_todolist(),
                       key='todos',
                       enable_events=True, size=[35, 15])
 edit_button = sg.Button("Edit")
-complete_button = sg.Button("Complete")
+complete_button = sg.Button(size=10, image_source="complete.png", mouseover_colors="LightBlue2",
+                       tooltip="Complete Task", key="Complete")
 exit_button = sg.Button("Exit")
 
 window = sg.Window('Planner App',
