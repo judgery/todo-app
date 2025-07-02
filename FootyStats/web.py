@@ -1,15 +1,23 @@
+import streamlit as st
 import pandas as pd
-import polars as pl
 import soccerdata as sd
-from pathlib import Path
+import polars as pl
 
-from FootyStats.WriteToDatabase import teams
 
-filepath = Path('xG.csv')
-filepath.parent.mkdir(parents=True, exist_ok=True)
+select_league = [st.selectbox(
+    "Select League",
+    ["ENG-Premier League",
+    'ESP-La Liga',
+    'FRA-Ligue 1',
+    'GER-Bundesliga',
+    'ITA-Serie A'],
+    index=None
+)]
+leagues = select_league
 
-leagues = ['ENG-Premier League', 'ESP-La Liga', 'FRA-Ligue 1',
-           'GER-Bundesliga', 'ITA-Serie A']
+
+
+#leagues = ['ENG-Premier League']
 seasons = ['2021/2022','2022/2023', '2023/2024', '2024/2025']
 
 dfs_shots = []
@@ -66,31 +74,52 @@ df_shots = (
         (pl.col("xg_total")/pl.col("shots_total")).alias("xg_per_shot"))
 )
 
-
 # Top Scorers
-# (
-#     df_shots
-#     .filter(pl.col("goals_total") > 100)
-#     .sort("goals_total", descending=True)
-#     .head(10)
-# )
+df_topscorers=pd.DataFrame(
+    df_shots
+    .filter(pl.col("goals_total") > 20)
+    .sort("goals_total", descending=True)
+    .head(30)
+)
+
 
 # Best Goal / xG ratio
 df=pd.DataFrame(
     df_shots
-    .filter(pl.col("goals_total") > 30)
+    .filter(pl.col("goals_total") > 20)
     .sort("goals_to_xg", descending=True)
-    .head(50)
+    .head(30)
+
 )
 
-print(df)
+st.subheader("Top Scorers")
+
+st.dataframe(
+    df_topscorers,
+    column_config={
+        "0": "Player",
+        "1": "xG Total",
+        "2": "Total Goals",
+        "3": "Total Shots",
+        "4": "Goals to xG Ratio",
+        "5": "xG per Shot"
+    },
+    hide_index=True
+)
+
+st.subheader("Best Goal / xG Ratio")
+
+st.dataframe(
+    df,
+    column_config={
+        "0": "Player",
+        "1": "xG Total",
+        "2": "Total Goals",
+        "3": "Total Shots",
+        "4": "Goals to xG Ratio",
+        "5": "xG per Shot"
+    },
+    hide_index=True
+)
 
 
-
-# Worst Goal / xG ratio
-# (
-#     df_shots
-#     .filter(pl.col("goals_total") > 100)
-#     .sort("goals_to_xg")
-#     .head(10)
-# )
