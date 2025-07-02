@@ -3,22 +3,30 @@ import pandas as pd
 import soccerdata as sd
 import polars as pl
 
-
-select_league = [st.selectbox(
+select_league = [st.sidebar.selectbox(
     "Select League",
     ["ENG-Premier League",
     'ESP-La Liga',
     'FRA-Ligue 1',
     'GER-Bundesliga',
     'ITA-Serie A'],
-    index=None
+    index=None,
+    width=250
 )]
 leagues = select_league
 
+select_seasons = [st.sidebar.multiselect(
+    "Select Seasons",
+    ['2021/2022','2022/2023','2023/2024','2024/2025'],
+    max_selections=5,
+    accept_new_options=False,
+    default='2024/2025'
+)]
+seasons = select_seasons
 
+min_goals = int(st.sidebar.text_input("Enter minimum number of goals", 10))
 
-#leagues = ['ENG-Premier League']
-seasons = ['2021/2022','2022/2023', '2023/2024', '2024/2025']
+num_of_results = int(st.sidebar.text_input("Enter number of results", 10))
 
 dfs_shots = []
 for season in seasons:
@@ -77,23 +85,29 @@ df_shots = (
 # Top Scorers
 df_topscorers=pd.DataFrame(
     df_shots
-    .filter(pl.col("goals_total") > 20)
+    .filter(pl.col("goals_total") >= min_goals)
     .sort("goals_total", descending=True)
-    .head(30)
+    .head(num_of_results)
 )
 
 
 # Best Goal / xG ratio
 df=pd.DataFrame(
     df_shots
-    .filter(pl.col("goals_total") > 20)
+    .filter(pl.col("goals_total") >= min_goals)
     .sort("goals_to_xg", descending=True)
-    .head(30)
+    .head(num_of_results)
+)
 
+# Worst Goal / xG ratio
+df_flops=pd.DataFrame(
+    df_shots
+    .filter(pl.col("goals_total") >= min_goals)
+    .sort("goals_to_xg")
+    .head(num_of_results)
 )
 
 st.subheader("Top Scorers")
-
 st.dataframe(
     df_topscorers,
     column_config={
@@ -108,7 +122,6 @@ st.dataframe(
 )
 
 st.subheader("Best Goal / xG Ratio")
-
 st.dataframe(
     df,
     column_config={
@@ -122,4 +135,16 @@ st.dataframe(
     hide_index=True
 )
 
-
+st.subheader("Worst Goal / xG Ratio")
+st.dataframe(
+    df_flops,
+    column_config={
+        "0": "Player",
+        "1": "xG Total",
+        "2": "Total Goals",
+        "3": "Total Shots",
+        "4": "Goals to xG Ratio",
+        "5": "xG per Shot"
+    },
+    hide_index=True
+)
