@@ -5,7 +5,7 @@ import polars as pl
 
 select_league = [st.sidebar.selectbox(
     "Select League",
-    ["ENG-Premier League",
+    ['ENG-Premier League',
     'ESP-La Liga',
     'FRA-Ligue 1',
     'GER-Bundesliga',
@@ -13,7 +13,6 @@ select_league = [st.sidebar.selectbox(
     index=None,
     width=250
 )]
-leagues = select_league
 
 select_seasons = [st.sidebar.multiselect(
     "Select Seasons",
@@ -22,15 +21,14 @@ select_seasons = [st.sidebar.multiselect(
     accept_new_options=False,
     default='2024/2025'
 )]
-seasons = select_seasons
 
 min_goals = int(st.sidebar.text_input("Enter minimum number of goals", 10))
 
 num_of_results = int(st.sidebar.text_input("Enter number of results", 10))
 
 dfs_shots = []
-for season in seasons:
-    for league in leagues:
+for season in select_seasons:
+    for league in select_league:
         understat = sd.Understat(leagues=league, seasons=season)
         df_shots = understat.read_shot_events()
         df_shots = pl.from_pandas(df_shots, include_index=True)
