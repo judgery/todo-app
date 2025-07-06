@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 import soccerdata as sd
 import polars as pl
+import math
 
 # select_league = st.sidebar.selectbox(
 #     "Select League",
@@ -75,4 +76,34 @@ unique_clubs = df['h.title'].unique()
 a_unique_clubs = sorted(unique_clubs)
 #print(a_unique_clubs)
 
-# Calculate home xG based on team_selection variable
+# Calculate xG
+
+# Sum xG based on home/away status and combined
+club = df[(df['h.title'] == team_selection)]
+club_h_xG = club['xG.h'].astype(float)
+club_h_xG_sum = math.fsum(club_h_xG)
+# print(club_h_xG_sum)
+
+club = df[(df['a.title'] == team_selection)]
+club_a_xG = club['xG.a'].astype(float)
+club_a_xG_sum = math.fsum(club_a_xG)
+# print(club_a_xG_sum)
+
+club_c_xG_sum = math.fsum([club_h_xG_sum, club_a_xG_sum])
+# print(club_c_xG_sum)
+
+
+# Calculate H/A/C goals similar to xG
+
+club = df[(df['h.title'] == team_selection)]
+club_h_goals = club['goals.h'].astype(float)
+club_h_goals_sum = math.fsum(club_h_goals)
+print(club_h_goals_sum)
+
+club = df[(df['a.title'] == team_selection)]
+club_a_goals = club['goals.a'].astype(float)
+club_a_goals_sum = math.fsum(club_a_goals)
+print(club_a_goals_sum)
+
+club_c_goals_sum = sum((club_h_goals_sum, club_a_goals_sum))
+print(club_c_goals_sum)
