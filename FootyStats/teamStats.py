@@ -1,8 +1,6 @@
 import json
 import streamlit as st
 import pandas as pd
-import soccerdata as sd
-import polars as pl
 import math
 
 

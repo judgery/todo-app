@@ -10,7 +10,7 @@ select_league = [st.sidebar.selectbox(
     'FRA-Ligue 1',
     'GER-Bundesliga',
     'ITA-Serie A'],
-    index=None,
+    index=0,
     width=250
 )]
 
