@@ -3,8 +3,6 @@ import polars as pl
 import soccerdata as sd
 from pathlib import Path
 
-from FootyStats.WriteToDatabase import teams
-
 filepath = Path('xG.csv')
 filepath.parent.mkdir(parents=True, exist_ok=True)
 
