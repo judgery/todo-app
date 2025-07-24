@@ -6,11 +6,11 @@ import math
 
 select_league = st.sidebar.selectbox(
     "Select League",
-    ['ENG-Premier League',
-    'ESP-La Liga',
-    'FRA-Ligue 1',
-    'GER-Bundesliga',
-    'ITA-Serie A'],
+    ['Premier League',
+    'La Liga',
+    'Ligue 1',
+    'Bundesliga',
+    'Serie A'],
     index=0,
     width=250
 )
@@ -21,15 +21,15 @@ select_season = st.sidebar.selectbox(
     width=250
 )
 
-if select_league == 'ENG-Premier League':
+if select_league == 'Premier League':
     league = 'EPL'
-if select_league == 'ESP-La Liga':
+if select_league == 'La Liga':
     league = 'LaLiga'
-if select_league == 'FRA-Ligue 1':
+if select_league == 'Ligue 1':
     league = 'Ligue1'
-if select_league == 'GER-Bundesliga':
+if select_league == 'Bundesliga':
     league = 'Bundesliga'
-if select_league == 'ITA-Serie A':
+if select_league == 'Serie A':
     league = 'SerieA'
 else:
     pass
@@ -132,13 +132,51 @@ with col6:
     st.header("xG Total", divider="green")
     st.subheader(club_c_xG_sum)
 
+df = pd.read_csv("FootyStats/Player_SeasonStats/all_"+season+".csv")
+
+league = ''.join(select_league)
+league_df = df[(df['Comp'] == league)]
+
+unique_clubs = league_df['Squad'].unique()
+a_unique_clubs = sorted(unique_clubs)
 
 
-#
-#
-# st.write(f"Home xG: ")
-# st.markdown(club_h_xG_sum)
-# st.write(f"Away xG")
-# st.markdown(club_a_xG_sum)
-# st.write(f"Total xG")
-# st.markdown(club_c_xG_sum)
+club = df[(df['Squad'] == select_team)]
+filter_players = club[['Player','Squad','Comp','TCmp','TAtt','TCmp%','Ast','xAG','xA','A-xAG','Matches']]
+
+st.markdown("###")
+st.subheader("Team Passing Stats")
+st.dataframe(filter_players,
+             hide_index=True,
+             column_order=["Player",
+                            "Squad",
+                            "TCmp",
+                            "TAtt",
+                            "TCmp%"],
+             column_config={"Player":("Player"),
+                            "Squad":("Team"),
+                            "TCmp":("Total Completed"),
+                            "TAtt":("Total Attempted"),
+                            "TCmp%":("Completed %")
+                            }
+             )
+
+st.markdown("###")
+st.subheader("Team Assist Stats")
+st.dataframe(filter_players,
+             hide_index=True,
+             column_order=["Player",
+                           "Squad",
+                           "Ast",
+                           "xAG",
+                           "xA",
+                           "A-xAG"],
+             column_config={"Player":("Player"),
+                            "Squad":("Team"),
+                            "Ast":("Assists"),
+                            "xAG":("xAssist-Goal"),
+                            "xA%":("xAssist %"),
+                            "A-xAG":("Assist/xAssist")
+                            }
+             )
+
