@@ -4,7 +4,7 @@ import pandas as pd
 import soccerdata as sd
 import polars as pl
 import math
-
+import os
 
 # select_league = st.sidebar.selectbox(
 #     "Select League",
@@ -121,10 +121,10 @@ import math
 # print(df)
 
 
-df = pd.read_csv("Player_SeasonStats/all_2024.csv")
-
-unique_clubs = df['Squad'].unique()
-a_unique_clubs = sorted(unique_clubs)
+# df = pd.read_csv("Player_SeasonStats/all_2024.csv")
+#
+# unique_clubs = df['Squad'].unique()
+# a_unique_clubs = sorted(unique_clubs)
 
 
 # select_team = st.sidebar.selectbox(
@@ -152,3 +152,47 @@ a_unique_clubs = sorted(unique_clubs)
 #                             }
 #              )
 #
+
+
+with open("TeamStats/EPL_2024.json", "r") as file:
+    id_data = json.load(file)
+
+n_data = pd.json_normalize(id_data['datesData'])
+df = pd.DataFrame(n_data)
+
+unique_id = df['id'].unique()
+a_unique_id = sorted(unique_id)
+
+
+# Folder where the JSON files are located
+match_folder = "Player_MatchStats/"
+
+# Initialize list to store Bruno Fernandes's shots
+shots_all = []
+
+# Loop through the list of IDs
+for match_id in a_unique_id:
+    file_path = os.path.join(match_folder, f"match_{match_id}.json")
+    if os.path.exists(file_path):
+        with open(file_path, "r") as file:
+            try:
+                data = json.load(file)
+                shots = data.get("shotsData", {}).get("h", []) + data.get("shotsData", {}).get("a", [])
+                for shot in shots:
+                    if shot.get("player") == "Bruno Fernandes":
+                        shots_all.append({
+                            "X": float(shot["X"]),
+                            "Y": float(shot["Y"]),
+                            "xG": float(shot["xG"]),
+                            "result": shot["result"]
+                        })
+            except Exception as e:
+                print(f"Error reading {file_path}: {e}")
+    else:
+        print(f"File not found: {file_path}")
+
+# Create a combined DataFrame
+df = pd.DataFrame(shots_all)
+
+print(f"Collected {len(df)} shots from {len(a_unique_id)} matches.")
+print(df)
