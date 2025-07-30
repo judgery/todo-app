@@ -73,22 +73,7 @@ select_team = st.sidebar.selectbox(
     width=250
 )
 
-dfPlayer = pd.read_csv("FootyStats/Player_SeasonStats/all_"+season+".csv")
-
-unique_players = dfPlayer['Player'].unique()
-a_unique_players = sorted(unique_players)
-
-club = dfPlayer[(dfPlayer['Squad'] == select_team)]
-filter_players = club[['Player']]
-
-select_player = st.sidebar.selectbox(
-    "Select Player",
-    filter_players
-)
-
-getIDjson = league+"_"+season+".json"
-
-with open("FootyStats/TeamStats/"+getIDjson, "r") as file:
+with open("FootyStats/TeamStats/"+json_to_open, "r") as file:
     id_data = json.load(file)
 
 n_data = pd.json_normalize(id_data['datesData'])
@@ -99,6 +84,41 @@ a_unique_id = sorted(unique_id)
 
 match_folder = "FootyStats/Player_MatchStats/"
 
+teams = set()
+
+for match_id in a_unique_id:
+    file_path = os.path.join(match_folder, f"match_{match_id}.json")
+    if os.path.exists(file_path):
+        with open(file_path, "r") as file:
+            match_data = json.load(file)
+            match_info = match_data.get("match_info", {})
+            if "team_h" in match_info:
+                teams.add(match_info["team_h"])
+            if "team_a" in match_info:
+                teams.add(match_info["team_a"])
+
+a_unique_clubs = sorted(teams)
+
+players = set()
+
+for match_id in a_unique_id:
+    file_path = os.path.join(match_folder, f"match_{match_id}.json")
+    if os.path.exists(file_path):
+        with open(file_path, "r") as file:
+            match_data = json.load(file)
+            rosters = match_data.get("rostersData", {})
+            for side in ['h', 'a']:
+                for player in rosters.get(side, {}).values():
+                    if player.get("team_id") and match_data.get("match_info", {}).get(f"team_{side}") == select_team:
+                        players.add(player["player"])
+
+a_unique_players = sorted(players)
+
+# Select player
+select_player = st.sidebar.selectbox(
+    "Select Player",
+    a_unique_players
+)
 shots_all = []
 
 # Loop through the list of IDs
@@ -124,48 +144,49 @@ for match_id in a_unique_id:
 
 df = pd.DataFrame(shots_all)
 
-# Convert coordinates for UEFA pitch
-df["x"] = df["X"] * 105
-df["y"] = df["Y"] * 65
-
-result_colour = {
-    "Goal": "green",
-    "SavedShot": "blue",
-    "MissedShots": "red",
-    "BlockedShot": "gray"
-}
-
-df["color"] = df["result"].map(result_colour).fillna("black")
-
 # Create pitch
-pitch = VerticalPitch(pitch_type='uefa', half=True, line_color='white', pitch_color='grass', stripe=True)
+pitch = VerticalPitch(pitch_type='uefa', half=True, line_color='white', pitch_color='#9CE0AB', stripe=False)
 fig, ax = pitch.draw(figsize=(8, 5))
 
-# Plot shots
-pitch.scatter(
-    df["x"], df["y"],
-    ax=ax,
-    s=df["xG"] * 1000,  # scale xG to size
-    color=df["color"],
-    edgecolors='black',
-    alpha=0.8,
-    zorder=2
-)
+# Convert coordinates for UEFA pitch
+if not df.empty:
+    df["x"] = df["X"] * 105
+    df["y"] = df["Y"] * 65
 
-# Create legend
-legend_elements = [
-    Line2D([0], [0], marker='o', color='w', label='Goal',
-           markerfacecolor='green', markeredgecolor='black', markersize=10),
-    Line2D([0], [0], marker='o', color='w', label='Saved',
-           markerfacecolor='blue', markeredgecolor='black', markersize=10),
-    Line2D([0], [0], marker='o', color='w', label='Missed',
-           markerfacecolor='red', markeredgecolor='black', markersize=10),
-    Line2D([0], [0], marker='o', color='w', label='Blocked',
-           markerfacecolor='gray', markeredgecolor='black', markersize=10)
-]
+    result_colour = {
+        "Goal": "green",
+        "SavedShot": "blue",
+        "MissedShots": "red",
+        "BlockedShot": "gray"
+    }
 
-ax.legend(handles=legend_elements, loc='lower left', fontsize=10, frameon=True)
+    df["colour"] = df["result"].map(result_colour).fillna("black")
+
+    # Plot shots
+    pitch.scatter(
+        df["x"], df["y"],
+        ax=ax,
+        s=df["xG"] * 1000,  # scale xG to size
+        color=df["colour"],
+        edgecolors='black',
+        alpha=0.8,
+        zorder=2
+    )
+
+    # Create legend
+    legend_elements = [
+        Line2D([0], [0], marker='o', color='w', label='Goal',
+               markerfacecolor='green', markeredgecolor='black', markersize=10),
+        Line2D([0], [0], marker='o', color='w', label='Saved',
+               markerfacecolor='blue', markeredgecolor='black', markersize=10),
+        Line2D([0], [0], marker='o', color='w', label='Missed',
+               markerfacecolor='red', markeredgecolor='black', markersize=10),
+        Line2D([0], [0], marker='o', color='w', label='Blocked',
+               markerfacecolor='gray', markeredgecolor='black', markersize=10)
+    ]
+
+    ax.legend(handles=legend_elements, loc='lower left', fontsize=10, frameon=True)
 
 ax.set_title(f'{select_player}'" Shot Map", fontsize=16)
 
-plt.show()
+st.pyplot(plt.gcf())
