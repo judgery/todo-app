@@ -2,3 +2,6 @@ streamlit
 pandas
 soccerdata
 polars
+matplotlib
+mplsoccer
+os
