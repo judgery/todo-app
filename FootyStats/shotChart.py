@@ -6,8 +6,6 @@ import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
 import os
 
-# Select league
-
 select_league = st.sidebar.selectbox(
     "Select League",
     ['Premier League',
@@ -18,8 +16,6 @@ select_league = st.sidebar.selectbox(
     index=0,
     width=250
 )
-
-# Select season
 
 select_season = st.sidebar.selectbox(
     "Select Seasons",
@@ -52,8 +48,6 @@ if select_season == '2024/2025':
 else:
     pass
 
-# Open JSON based on above variables
-
 json_to_open = league+"_"+season+".json"
 
 with open("FootyStats/TeamStats/"+json_to_open) as json_file:
@@ -65,7 +59,6 @@ df = pd.DataFrame(n_data)
 unique_clubs = df['h.title'].unique()
 a_unique_clubs = sorted(unique_clubs)
 
-# Select unique team from list created above
 select_team = st.sidebar.selectbox(
     "Select Team",
     a_unique_clubs,
@@ -114,14 +107,12 @@ for match_id in a_unique_id:
 
 a_unique_players = sorted(players)
 
-# Select player
 select_player = st.sidebar.selectbox(
     "Select Player",
     a_unique_players
 )
 shots_all = []
 
-# Loop through the list of IDs
 for match_id in a_unique_id:
     file_path = os.path.join(match_folder, f"match_{match_id}.json")
     if os.path.exists(file_path):
@@ -144,14 +135,12 @@ for match_id in a_unique_id:
 
 df = pd.DataFrame(shots_all)
 
-# Create pitch
-pitch = VerticalPitch(pitch_type='uefa', half=True, line_color='white', pitch_color='#9CE0AB', stripe=False)
+pitch = VerticalPitch(pitch_type='statsbomb', half=True, line_color='white', pitch_color='#86bd6d', stripe=False)
 fig, ax = pitch.draw(figsize=(8, 5))
 
-# Convert coordinates for UEFA pitch
 if not df.empty:
-    df["x"] = df["X"] * 105
-    df["y"] = df["Y"] * 65
+    df["x"] = df["X"] * 120
+    df["y"] = df["Y"] * 80
 
     result_colour = {
         "Goal": "green",
@@ -162,7 +151,6 @@ if not df.empty:
 
     df["colour"] = df["result"].map(result_colour).fillna("black")
 
-    # Plot shots
     pitch.scatter(
         df["x"], df["y"],
         ax=ax,
@@ -187,6 +175,6 @@ if not df.empty:
 
     ax.legend(handles=legend_elements, loc='lower left', fontsize=10, frameon=True)
 
-ax.set_title(f'{select_player}'" Shot Map", fontsize=16)
+ax.set_title(f'{select_player}'f" Shot Map {select_season}", fontsize=16)
 
 st.pyplot(plt.gcf())

@@ -1,148 +1,117 @@
 import streamlit as st
 import pandas as pd
-import soccerdata as sd
-import polars as pl
+import json
 
-select_league = [st.sidebar.selectbox(
+select_league = st.sidebar.selectbox(
     "Select League",
-    ['ENG-Premier League',
-    'ESP-La Liga',
-    'FRA-Ligue 1',
-    'GER-Bundesliga',
-    'ITA-Serie A'],
+    ['Premier League',
+    'La Liga',
+    'Ligue 1',
+    'Bundesliga',
+    'Serie A'],
     index=0,
     width=250
-)]
-
-select_seasons = [st.sidebar.multiselect(
+)
+select_season = st.sidebar.selectbox(
     "Select Seasons",
     ['2021/2022','2022/2023','2023/2024','2024/2025'],
-    max_selections=5,
-    accept_new_options=False,
-    default='2024/2025'
-)]
+    index=0,
+    width=250
+)
+
+if select_league == 'Premier League':
+    league = 'EPL'
+if select_league == 'La Liga':
+    league = 'LaLiga'
+if select_league == 'Ligue 1':
+    league = 'Ligue1'
+if select_league == 'Bundesliga':
+    league = 'Bundesliga'
+if select_league == 'Serie A':
+    league = 'SerieA'
+else:
+    pass
+
+if select_season == '2021/2022':
+    season = '2021'
+if select_season == '2022/2023':
+    season = '2022'
+if select_season == '2023/2024':
+    season = '2023'
+if select_season == '2024/2025':
+    season = '2024'
+else:
+    pass
+
+json_to_open = league+"_"+season+".json"
 
 min_goals = int(st.sidebar.text_input("Enter minimum number of goals", 10))
-
 num_of_results = int(st.sidebar.text_input("Enter number of results", 10))
 
-dfs_shots = []
-for season in select_seasons:
-    for league in select_league:
-        understat = sd.Understat(leagues=league, seasons=season)
-        df_shots = understat.read_shot_events()
-        df_shots = pl.from_pandas(df_shots, include_index=True)
-        df_shots = df_shots.with_columns([
-            pl.lit(league).alias("league"),
-            pl.lit(season).alias("season")
-            ])
-        dfs_shots.append(df_shots)
+with open("./FootyStats/TeamStats/"+json_to_open) as json_file:
+    data = json.load(json_file)
 
-col_order_shots = []
-for df in dfs_shots:
-    for c in df.columns:
-        if c not in col_order_shots:
-            col_order_shots.append(c)
+players_list = []
 
-aligned_shots = []
-for df in dfs_shots:
-    missing = [c for c in col_order_shots if c not in df.columns]
-    if missing:
-        df = df.with_columns([pl.lit(None).alias(c) for c in missing])
-    aligned_shots.append(df.select(col_order_shots))
+for player in data["playersData"]:
+    player_name = player.get("player_name", "Unknown")
+    team_title = player.get("team_title")
+    goals = float(player.get("goals", 0.0))
+    xG = float(player.get("xG", 0.0))
+    shots = float(player.get("shots", 0.0))
 
-shot_events = pl.concat(aligned_shots, how="vertical")
+    players_list.append({
+        "Player": player_name,
+        "Team": team_title,
+        "Goals": goals,
+        "xG": xG,
+        "Shots": shots
+    })
 
-(
-    shot_events
-    .with_columns(
-        (pl.col("result") == "Goal").alias("goal"))
-    .select(
-        pl.col("xg").sum().alias("xg_total"),
-        pl.col("goal").sum().alias("goals_total"),
-        pl.col("shot_id").count().alias("shots_total"))
-    .with_columns(
-        (pl.col("goals_total")/pl.col("xg_total")).alias("goals_to_xg"),
-        (pl.col("xg_total")/pl.col("shots_total")).alias("xg_per_shot"))
-)
+df_shots = pd.DataFrame(players_list)
 
-df_shots = (
-    shot_events
-    .with_columns(
-        (pl.col("result") == "Goal").alias("goal"))
-    .group_by(["player"])
-    .agg(
-        pl.col("xg").sum().alias("xg_total"),
-        pl.col("goal").sum().alias("goals_total"),
-        pl.col("shot_id").count().alias("shots_total"))
-    .with_columns(
-        (pl.col("goals_total")/pl.col("xg_total")).alias("goals_to_xg"),
-        (pl.col("xg_total")/pl.col("shots_total")).alias("xg_per_shot"))
-)
+df_shots['xG'] = df_shots['xG'].round(2)
+df_shots['G to xG'] = df_shots['Goals'] / df_shots['xG']
+df_shots['xG per shot'] = df_shots['xG'] / df_shots['Shots']
 
-# Top Scorers
+
+goals_df = df_shots.loc[df_shots["Goals"] >= min_goals]
+xg_df = df_shots.loc[df_shots["Goals"] >= min_goals].sort_values("G to xG", ascending=False)
+xg_df_asc = df_shots.loc[df_shots["Goals"] >= min_goals].sort_values("G to xG", ascending=True)
+
+
 df_topscorers=pd.DataFrame(
-    df_shots
-    .filter(pl.col("goals_total") >= min_goals)
-    .sort("goals_total", descending=True)
+    goals_df
+    .sort_values(by=["Goals", "G to xG"],ascending=False)
     .head(num_of_results)
 )
 
-
-# Best Goal / xG ratio
-df=pd.DataFrame(
-    df_shots
-    .filter(pl.col("goals_total") >= min_goals)
-    .sort("goals_to_xg", descending=True)
-    .head(num_of_results)
+df_bestxg = pd.DataFrame(
+    xg_df
+    .head(num_of_results)[df_shots.Goals>= min_goals]
+    .sort_values("G to xG", ascending=False)
 )
 
-# Worst Goal / xG ratio
-df_flops=pd.DataFrame(
-    df_shots
-    .filter(pl.col("goals_total") >= min_goals)
-    .sort("goals_to_xg")
-    .head(num_of_results)
+df_worstxg = pd.DataFrame(
+    xg_df_asc
+    .head(num_of_results)[df_shots.Goals>= min_goals]
+    .sort_values("G to xG", ascending=True)
 )
 
 st.subheader("Top Scorers")
 st.dataframe(
     df_topscorers,
-    column_config={
-        "0": "Player",
-        "1": "xG Total",
-        "2": "Total Goals",
-        "3": "Total Shots",
-        "4": "Goals to xG Ratio",
-        "5": "xG per Shot"
-    },
     hide_index=True
 )
 
 st.subheader("Best Goal / xG Ratio")
 st.dataframe(
-    df,
-    column_config={
-        "0": "Player",
-        "1": "xG Total",
-        "2": "Total Goals",
-        "3": "Total Shots",
-        "4": "Goals to xG Ratio",
-        "5": "xG per Shot"
-    },
+    df_bestxg,
     hide_index=True
 )
 
 st.subheader("Worst Goal / xG Ratio")
 st.dataframe(
-    df_flops,
-    column_config={
-        "0": "Player",
-        "1": "xG Total",
-        "2": "Total Goals",
-        "3": "Total Shots",
-        "4": "Goals to xG Ratio",
-        "5": "xG per Shot"
-    },
+    df_worstxg,
     hide_index=True
 )

@@ -2,7 +2,11 @@ import json
 import streamlit as st
 import pandas as pd
 import math
-
+import matplotlib
+import matplotlib.pyplot as plt
+from IPython.core.pylabtools import figsize
+from plottable import Table, ColumnDefinition
+from plottable.cmap import normed_cmap
 
 select_league = st.sidebar.selectbox(
     "Select League",
@@ -142,41 +146,87 @@ a_unique_clubs = sorted(unique_clubs)
 
 
 club = df[(df['Squad'] == select_team)]
-filter_players = club[['Player','Squad','Comp','TCmp','TAtt','TCmp%','Ast','xAG','xA','A-xAG','Matches']]
+filter_players = club[['Player','Squad','Comp','TCmp','TAtt','TCmp%','Ast','xAG','xA','A-xAG']]
 
-st.markdown("###")
-st.subheader("Team Passing Stats")
-st.dataframe(filter_players,
-             hide_index=True,
-             column_order=["Player",
-                            "Squad",
-                            "TCmp",
-                            "TAtt",
-                            "TCmp%"],
-             column_config={"Player":("Player"),
-                            "Squad":("Team"),
-                            "TCmp":("Total Completed"),
-                            "TAtt":("Total Attempted"),
-                            "TCmp%":("Completed %")
-                            }
-             )
+bg_colour = '#FFFFFF'
+text_colour = '#000000'
 
-st.markdown("###")
-st.subheader("Team Assist Stats")
-st.dataframe(filter_players,
-             hide_index=True,
-             column_order=["Player",
-                           "Squad",
-                           "Ast",
-                           "xAG",
-                           "xA",
-                           "A-xAG"],
-             column_config={"Player":("Player"),
-                            "Squad":("Team"),
-                            "Ast":("Assists"),
-                            "xAG":("xAssist-Goal"),
-                            "xA%":("xAssist %"),
-                            "A-xAG":("Assist/xAssist")
-                            }
-             )
+plt.rcParams["text.color"] = text_colour
+plt.rcParams["font.family"] = "monospace"
 
+# filter_players = club[['Player','Squad','Comp','TCmp','TAtt','TCmp%','Ast','xAG','xA','A-xAG','Matches']]
+
+col_defs = [
+    ColumnDefinition(
+        name="Player",
+        textprops={"ha": "left"},
+        width=3.4
+    ),
+    ColumnDefinition(
+        name="Squad",
+        textprops={"ha": "center"},
+        width=4
+    ),
+    ColumnDefinition(
+        name="Comp",
+        group="Passing Stats",
+        textprops={"ha": "center"},
+        width=1.75
+    ),
+    ColumnDefinition(
+        name="TAtt",
+        group="Passing Stats",
+        textprops={"ha": "center"},
+        width=1.75
+    ),
+    ColumnDefinition(
+        name="TCmp%",
+        group="Passing Stats",
+        textprops={"ha": "center"},
+        width=1.75,
+        cmap=normed_cmap(df["TCmp%"], cmap=matplotlib.cm.RdYlGn, num_stds=2)
+    ),
+    ColumnDefinition(
+        name="Ast",
+        group="Assists Stats",
+        textprops={"ha": "center"},
+        width=1.75,
+        cmap=normed_cmap(df["Ast"], cmap=matplotlib.cm.RdYlGn, num_stds=2)
+    ),
+    ColumnDefinition(
+        name="xAG",
+        group="Assists Stats",
+        textprops={"ha": "center"},
+        width=1.75
+    ),
+    ColumnDefinition(
+        name="xA",
+        group="Assists Stats",
+        textprops={"ha": "center"},
+        width=1.75,
+        cmap=normed_cmap(df["xA"], cmap=matplotlib.cm.RdYlGn, num_stds=2)
+    ),
+    ColumnDefinition(
+        name="A-xAG",
+        group="Assists Stats",
+        textprops={"ha": "center"},
+        width=1.75
+    )
+]
+
+fig, ax = plt.subplots(figsize=(20,22))
+fig.set_facecolor(bg_colour)
+ax.set_facecolor(bg_colour)
+
+table = Table(
+    filter_players,
+    column_definitions=col_defs,
+    index_col="Player",
+    row_dividers=True,
+    row_divider_kw={"linewidth": 1, "linestyle": (0, (1,5))},
+    footer_divider=True,
+    textprops={"fontsize": 14},
+    ax=ax
+).autoset_fontcolors(colnames=["TCmp%"])
+
+st.pyplot(plt.gcf())

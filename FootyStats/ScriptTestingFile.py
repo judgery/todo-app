@@ -1,10 +1,10 @@
-import json
-import streamlit as st
-import pandas as pd
-import soccerdata as sd
-import polars as pl
-import math
-import os
+# import json
+# import streamlit as st
+# import pandas as pd
+# import soccerdata as sd
+# import polars as pl
+# import math
+# import os
 
 # select_league = st.sidebar.selectbox(
 #     "Select League",
@@ -154,45 +154,74 @@ import os
 #
 
 
-with open("TeamStats/EPL_2024.json", "r") as file:
-    id_data = json.load(file)
-
-n_data = pd.json_normalize(id_data['datesData'])
-df = pd.DataFrame(n_data)
-
-unique_id = df['id'].unique()
-a_unique_id = sorted(unique_id)
+# with open("TeamStats/EPL_2024.json", "r") as file:
+#     id_data = json.load(file)
+#
+# n_data = pd.json_normalize(id_data['datesData'])
+# df = pd.DataFrame(n_data)
+#
+# unique_id = df['id'].unique()
+# a_unique_id = sorted(unique_id)
 
 
 # Folder where the JSON files are located
-match_folder = "Player_MatchStats/"
+# match_folder = "Player_MatchStats/"
 
 # Initialize list to store Bruno Fernandes's shots
-shots_all = []
+# shots_all = []
 
 # Loop through the list of IDs
-for match_id in a_unique_id:
-    file_path = os.path.join(match_folder, f"match_{match_id}.json")
-    if os.path.exists(file_path):
-        with open(file_path, "r") as file:
-            try:
-                data = json.load(file)
-                shots = data.get("shotsData", {}).get("h", []) + data.get("shotsData", {}).get("a", [])
-                for shot in shots:
-                    if shot.get("player") == "Bruno Fernandes":
-                        shots_all.append({
-                            "X": float(shot["X"]),
-                            "Y": float(shot["Y"]),
-                            "xG": float(shot["xG"]),
-                            "result": shot["result"]
-                        })
-            except Exception as e:
-                print(f"Error reading {file_path}: {e}")
-    else:
-        print(f"File not found: {file_path}")
+# for match_id in a_unique_id:
+#     file_path = os.path.join(match_folder, f"match_{match_id}.json")
+#     if os.path.exists(file_path):
+#         with open(file_path, "r") as file:
+#             try:
+#                 data = json.load(file)
+#                 shots = data.get("shotsData", {}).get("h", []) + data.get("shotsData", {}).get("a", [])
+#                 for shot in shots:
+#                     if shot.get("player") == "Bruno Fernandes":
+#                         shots_all.append({
+#                             "X": float(shot["X"]),
+#                             "Y": float(shot["Y"]),
+#                             "xG": float(shot["xG"]),
+#                             "result": shot["result"]
+#                         })
+#             except Exception as e:
+#                 print(f"Error reading {file_path}: {e}")
+#     else:
+#         print(f"File not found: {file_path}")
+#
+# # Create a combined DataFrame
+# df = pd.DataFrame(shots_all)
+#
+# print(f"Collected {len(df)} shots from {len(a_unique_id)} matches.")
+# print(df)
 
-# Create a combined DataFrame
-df = pd.DataFrame(shots_all)
+import json
+import pandas as pd
 
-print(f"Collected {len(df)} shots from {len(a_unique_id)} matches.")
-print(df)
+with open("TeamStats/EPL_2024.json", "r") as file:
+    data = json.load(file)
+
+players_list = []
+
+for player in data["playersData"]:
+    player_name = player.get("player_name", "Unknown")
+    goals = float(player.get("goals", 0.0))
+    xG = float(player.get("xG", 0.0))
+    shots = float(player.get("shots", 0.0))
+
+    players_list.append({
+        "Player": player_name,
+        "Goals": goals,
+        "xG": xG,
+        "Shots": shots
+    })
+
+df_shots = pd.DataFrame(players_list)
+
+df_shots['xG'] = df_shots['xG'].round(2)
+df_shots['xG_G'] = df_shots['Goals'] / df_shots['xG']
+df_shots['xG_shot'] = df_shots['xG'] / df_shots['Shots']
+
+print(df_shots.head())

@@ -20,7 +20,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 19,Junior Adamu,at AUT,FWMF,Freiburg,Bundesliga,22,2001,1.2,18,30,60.0,181,36,15,17,88.2,1,9,11.1,0,1,0.0,0,0.1,0.0,-0.1,1,0,1,0,1,Matches,82e12fe7
 20,Sargis Adamyan,am ARM,FWMF,FC Cologne,Bundesliga,30,1993,8.9,132,189,69.8,1883,483,73,94,77.7,44,64,68.8,5,9,55.6,2,2.0,1.1,0.0,12,16,3,0,18,Matches,22919e97
 21,Tosin Adarabioyo,eng ENG,DF,Fulham,Premier League,25,1997,18.0,1028,1216,84.5,21010,7956,277,307,90.2,627,699,89.7,115,177,65.0,0,0.1,0.3,-0.1,2,47,2,0,62,Matches,c81d773d
-22,Elijah Adebayo,eng ENG,FW,Luton Town,Premier League,25,1998,15.8,144,204,70.6,1847,385,94,122,77.0,41,60,68.3,3,6,50.0,0,0.7,0.4,-0.7,14,9,4,0,23,Matches,0480ebc7
+22,Elijah Adebayo,eng ENG,FW,Luton,Premier League,25,1998,15.8,144,204,70.6,1847,385,94,122,77.0,41,60,68.3,3,6,50.0,0,0.7,0.4,-0.7,14,9,4,0,23,Matches,0480ebc7
 23,Karim Adeyemi,de GER,FWMF,Borussia Dortmund,Bundesliga,21,2002,10.1,218,299,72.9,2929,719,135,162,83.3,61,83,73.5,8,18,44.4,1,2.0,1.6,-1.0,9,9,10,1,26,Matches,501055d8
 24,Simon Adingra,ci CIV,FW,Brighton,Premier League,21,2002,24.7,634,840,75.5,8828,1713,412,491,83.9,185,245,75.5,20,38,52.6,1,3.7,3.5,-2.7,33,17,33,11,50,Matches,4dcec659
 25,Nathaniel Adjei,gh GHA,DF,Lorient,Ligue 1,20,2002,13.8,578,669,86.4,10635,4097,216,246,87.8,294,323,91.0,52,73,71.2,0,0.1,0.5,-0.1,3,38,1,0,34,Matches,c55de1f5
@@ -36,12 +36,12 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 35,Felix Agu,ng NGA,DFMF,Werder Bremen,Bundesliga,23,1999,17.9,488,669,72.9,7657,2921,246,292,84.2,203,253,80.2,27,67,40.3,0,0.6,1.4,-0.6,7,18,16,7,32,Matches,cb6d81b3
 36,Nayef Aguerd,ma MAR,DF,West Ham,Premier League,27,1996,20.6,943,1177,80.1,19870,8804,335,360,93.1,452,493,91.7,143,297,48.1,0,0.3,0.4,-0.3,4,74,2,0,68,Matches,288e1e13
 37,Ruben Aguilar,fr FRA,DF,Lens,Ligue 1,30,1993,21.4,1044,1282,81.4,15383,5987,594,666,89.2,369,443,83.3,44,93,47.3,3,2.9,4.0,+0.1,26,73,42,14,110,Matches,3dd738a1
-38,Brandon Aguilera,cr CRC,FW,Nott'ham Forest,Premier League,20,2003,0.1,4,8,50.0,48,23,3,6,50.0,1,2,50.0,0,0,,0,0.0,0.0,0.0,0,1,0,0,0,Matches,938fa024
+38,Brandon Aguilera,cr CRC,FW,Nottingham Forest,Premier League,20,2003,0.1,4,8,50.0,48,23,3,6,50.0,1,2,50.0,0,0,,0,0.0,0.0,0.0,0,1,0,0,0,Matches,938fa024
 39,Naouirou Ahamada,fr FRA,MFFW,Crystal Palace,Premier League,21,2002,3.9,150,187,80.2,2455,628,76,89,85.4,59,69,85.5,10,14,71.4,0,0.0,0.1,0.0,1,12,0,0,25,Matches,a6c58494
 40,Anel Ahmedhodžić,ba BIH,DF,Sheffield United,Premier League,24,1999,29.4,749,993,75.4,12780,5078,334,386,86.5,348,425,81.9,54,137,39.4,0,0.8,0.6,-0.8,7,41,3,1,43,Matches,eab957a3
 41,Joseph Aidoo,gh GHA,DF,Celta Vigo,La Liga,27,1995,4.5,145,185,78.4,2918,1187,41,46,89.1,84,102,82.4,19,35,54.3,0,0.1,0.0,-0.1,1,8,1,0,12,Matches,18abe173
-42,Ola Aina,ng NGA,DF,Nott'ham Forest,Premier League,26,1996,18.8,605,803,75.3,9657,4065,329,375,87.7,217,284,76.4,46,99,46.5,1,0.9,1.0,+0.1,11,58,13,6,69,Matches,246d153b
-43,Rayan Aït-Nouri,dz ALG,DFMF,Wolves,Premier League,22,2001,25.9,1005,1190,84.5,13946,3935,627,688,91.1,297,344,86.3,38,72,52.8,1,2.4,1.7,-1.4,25,60,13,4,99,Matches,9b398aea
+42,Ola Aina,ng NGA,DF,Nottingham Forest,Premier League,26,1996,18.8,605,803,75.3,9657,4065,329,375,87.7,217,284,76.4,46,99,46.5,1,0.9,1.0,+0.1,11,58,13,6,69,Matches,246d153b
+43,Rayan Aït-Nouri,dz ALG,DFMF,Wolverhampton Wanderers,Premier League,22,2001,25.9,1005,1190,84.5,13946,3935,627,688,91.1,297,344,86.3,38,72,52.8,1,2.4,1.7,-1.4,25,60,13,4,99,Matches,9b398aea
 44,Tosin Aiyegun,bj BEN,MFFW,Lorient,Ligue 1,25,1998,10.0,154,203,75.9,2377,486,73,98,74.5,58,70,82.9,10,15,66.7,0,0.3,0.3,-0.3,7,7,2,0,16,Matches,9c4f39b3
 45,Kristoffer Ajer,no NOR,DF,Brentford,Premier League,25,1998,20.4,610,810,75.3,10210,3786,291,337,86.4,263,332,79.2,45,103,43.7,1,2.3,2.7,-1.3,12,56,10,3,61,Matches,a8c0acb7
 46,Ludovic Ajorque,fr FRA,FW,Mainz 05,Bundesliga,29,1994,15.1,318,453,70.2,4546,479,172,241,71.4,105,145,72.4,15,19,78.9,0,1.0,1.6,-1.0,16,21,3,0,21,Matches,462475ed
@@ -121,7 +121,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 120,Stredair Appuah,fr FRA,FWMF,Nantes,Ligue 1,19,2004,0.9,14,23,60.9,184,39,5,7,71.4,7,7,100.0,0,5,0.0,0,0.0,0.0,0.0,0,1,0,0,0,Matches,42f0113f
 121,Mauro Arambarri,uy URU,MF,Getafe,La Liga,27,1995,3.8,114,142,80.3,2299,646,48,55,87.3,48,56,85.7,18,25,72.0,0,0.0,0.1,0.0,2,17,2,2,20,Matches,58afe001
 122,Jon Aramburu,ve VEN,DF,Real Sociedad,La Liga,21,2002,6.0,254,321,79.1,4015,1243,126,141,89.4,114,137,83.2,11,27,40.7,0,0.0,0.1,0.0,0,25,2,1,26,Matches,dc7a172e
-123,Asaf Arania,il ISR,MF,Darmstadt 98,Bundesliga,17,2005,0.1,4,4,100.0,60,2,3,3,100.0,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,d61c07fd
+123,Asaf Arania,il ISR,MF,Darmstadt,Bundesliga,17,2005,0.1,4,4,100.0,60,2,3,3,100.0,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,d61c07fd
 124,Julian Araujo,mx MEX,DF,Las Palmas,La Liga,21,2001,16.2,680,831,81.8,11255,3943,328,367,89.4,297,352,84.4,43,75,57.3,0,1.2,0.9,-1.2,16,69,12,4,74,Matches,8f4541c2
 125,Ronald Araújo,uy URU,DF,Barcelona,La Liga,24,1999,22.2,1458,1641,88.8,27691,10325,543,578,93.9,769,818,94.0,136,218,62.4,2,1.4,1.7,+0.6,8,111,6,1,101,Matches,2bef2bca
 126,Oliver Arblaster,eng ENG,MF,Sheffield United,Premier League,19,2004,10.5,351,441,79.6,5920,1788,174,201,86.6,147,167,88.0,26,50,52.0,0,0.8,0.9,-0.8,11,37,6,0,43,Matches,afe1a491
@@ -159,10 +159,10 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 158,Tommaso Augello,it ITA,DF,Cagliari,Serie A,28,1994,26.9,919,1329,69.1,16120,7212,418,481,86.9,403,550,73.3,90,233,38.6,1,2.0,2.4,-1.0,27,68,31,20,96,Matches,3cd3b384
 159,Carlos Augusto,br BRA,DF,Inter,Serie A,24,1999,19.2,921,1099,83.8,14740,4852,466,509,91.6,369,422,87.4,61,95,64.2,3,2.8,2.1,+0.2,19,45,15,9,54,Matches,8d3cd59d
 160,Yann Aurel Bisseck,de GER,DF,Inter,Serie A,22,2000,10.0,590,641,92.0,10225,2915,238,253,94.1,296,313,94.6,47,55,85.5,0,0.5,0.4,-0.5,1,27,4,1,30,Matches,3963c25b
-161,Serge Aurier,ci CIV,DFMF,Nott'ham Forest,Premier League,30,1992,9.3,348,448,77.7,5238,2147,191,225,84.9,130,156,83.3,17,45,37.8,2,0.5,0.5,+1.5,4,31,9,4,47,Matches,5c2b4f07
+161,Serge Aurier,ci CIV,DFMF,Nottingham Forest,Premier League,30,1992,9.3,348,448,77.7,5238,2147,191,225,84.9,130,156,83.3,17,45,37.8,2,0.5,0.5,+1.5,4,31,9,4,47,Matches,5c2b4f07
 162,Ezequiel Ávila,ar ARG,FWMF,Osasuna,La Liga,29,1994,9.6,232,371,62.5,5068,1419,94,122,77.0,75,118,63.6,59,109,54.1,3,2.3,2.7,+0.7,21,25,18,7,39,Matches,253a06b9
 163,Ezequiel Ávila,ar ARG,FW,Real Betis,La Liga,29,1994,3.3,55,91,60.4,914,180,26,30,86.7,18,30,60.0,6,17,35.3,0,0.1,0.1,-0.1,2,2,2,0,6,Matches,253a06b9
-164,Taiwo Awoniyi,ng NGA,FW,Nott'ham Forest,Premier League,25,1997,11.6,127,175,72.6,1594,312,88,111,79.3,34,47,72.3,3,5,60.0,3,1.7,0.9,+1.3,10,6,3,0,14,Matches,e5478b87
+164,Taiwo Awoniyi,ng NGA,FW,Nottingham Forest,Premier League,25,1997,11.6,127,175,72.6,1594,312,88,111,79.3,34,47,72.3,3,5,60.0,3,1.7,0.9,+1.3,10,6,3,0,14,Matches,e5478b87
 165,André Ayew,gh GHA,FW,Le Havre,Ligue 1,33,1989,12.3,197,266,74.1,2678,655,127,157,80.9,55,72,76.4,5,9,55.6,0,0.8,0.5,-0.8,8,26,4,1,23,Matches,5dbefa9d
 166,Jordan Ayew,gh GHA,FWMF,Crystal Palace,Premier League,31,1991,28.3,681,920,74.0,9753,1856,417,478,87.2,213,285,74.7,24,74,32.4,7,4.2,2.7,+2.8,25,43,26,10,63,Matches,da052c14
 167,Neil El Aynaoui,fr FRA,MF,Lens,Ligue 1,22,2001,17.4,576,670,86.0,8486,2193,302,344,87.8,209,230,90.9,25,43,58.1,2,0.8,0.9,+1.2,16,66,10,1,59,Matches,17e1261b
@@ -177,7 +177,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 176,Aliou Badara Baldé,gn GUI,FWDF,Nice,Ligue 1,20,2002,0.8,15,30,50.0,183,33,12,17,70.6,2,9,22.2,0,1,0.0,0,0.0,0.0,0.0,0,0,0,0,2,Matches,7362a6f2
 177,Loïc Bade,fr FRA,DF,Sevilla,La Liga,23,2000,25.3,1113,1346,82.7,21547,8244,373,411,90.8,623,701,88.9,106,199,53.3,1,0.5,0.5,+0.5,9,79,1,0,76,Matches,114bbdee
 178,AC Milan Badelj,hr CRO,MF,Genoa,Serie A,34,1989,28.2,1136,1407,80.7,19451,6788,504,579,87.0,474,547,86.7,110,189,58.2,3,1.1,1.4,+1.9,18,140,23,4,151,Matches,e8c930bb
-179,Matthias Bader,de GER,DFMF,Darmstadt 98,Bundesliga,26,1997,20.0,687,912,75.3,12501,4100,280,323,86.7,330,394,83.8,67,137,48.9,2,2.3,3.5,-0.3,18,38,22,6,67,Matches,3489184e
+179,Matthias Bader,de GER,DFMF,Darmstadt,Bundesliga,26,1997,20.0,687,912,75.3,12501,4100,280,323,86.7,330,394,83.8,67,137,48.9,2,2.3,3.5,-0.3,18,38,22,6,67,Matches,3489184e
 180,Benoît Badiashile,fr FRA,DF,Chelsea,Premier League,22,2001,14.9,1065,1173,90.8,18737,7087,442,463,95.5,543,584,93.0,71,106,67.0,1,1.5,0.9,-0.5,6,48,4,0,46,Matches,06df8256
 181,Alex Baena,es ESP,MFFW,Villarreal,La Liga,22,2001,28.7,893,1255,71.2,16899,5861,394,460,85.7,351,467,75.2,129,244,52.9,14,9.2,9.5,+4.8,83,95,59,15,165,Matches,518f2234
 182,Jaime Báez,uy URU,FWMF,Frosinone,Serie A,28,1995,5.6,141,202,69.8,2309,920,68,87,78.2,50,64,78.1,16,33,48.5,0,0.5,0.8,-0.5,8,12,9,0,29,Matches,dfd24c07
@@ -217,7 +217,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 216,Melvin Bard,fr FRA,DF,Nice,Ligue 1,22,2000,29.5,1457,1784,81.7,23609,6956,719,805,89.3,607,702,86.5,86,192,44.8,2,2.8,2.3,-0.8,18,77,26,14,111,Matches,1ddbc7ca
 217,Nicolò Barella,it ITA,MF,Inter,Serie A,26,1997,31.6,1835,2168,84.6,30143,9590,958,1045,91.7,678,762,89.0,155,246,63.0,3,3.4,4.5,-0.4,42,212,78,11,278,Matches,6928979a
 218,Kike Barja,es ESP,FWMF,Osasuna,La Liga,26,1997,3.4,83,114,72.8,1232,240,44,50,88.0,24,34,70.6,8,17,47.1,0,0.5,0.4,-0.5,5,0,6,3,8,Matches,aad53e64
-219,Ross Barkley,eng ENG,MF,Luton Town,Premier League,29,1993,29.1,1218,1474,82.6,21602,6544,550,611,90.0,473,533,88.7,147,226,65.0,4,3.7,2.7,+0.3,44,138,27,1,163,Matches,3a24769f
+219,Ross Barkley,eng ENG,MF,Luton,Premier League,29,1993,29.1,1218,1474,82.6,21602,6544,550,611,90.0,473,533,88.7,147,226,65.0,4,3.7,2.7,+0.3,44,138,27,1,163,Matches,3a24769f
 220,Aymen Barkok,ma MAR,MFFW,Mainz 05,Bundesliga,25,1998,3.6,118,184,64.1,1842,639,64,90,71.1,39,59,66.1,9,20,45.0,0,0.3,0.6,-0.3,5,11,4,1,16,Matches,a2a85828
 221,Harvey Barnes,eng ENG,FWMF,Newcastle United,Premier League,25,1997,8.9,208,272,76.5,2981,750,128,147,87.1,68,84,81.0,7,16,43.8,3,3.2,1.9,-0.2,13,11,17,3,34,Matches,3ea50f67
 222,Leandro Barreiro Martins,lu LUX,MF,Mainz 05,Bundesliga,23,2000,29.0,679,925,73.4,10846,3124,338,425,79.5,267,344,77.6,54,92,58.7,1,1.1,1.1,-0.1,20,74,12,2,93,Matches,00242b75
@@ -256,11 +256,11 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 255,Jérémie Bela,ao ANG,MFFW,Clermont Foot,Ligue 1,30,1993,2.3,70,100,70.0,1031,311,37,46,80.4,26,38,68.4,4,8,50.0,0,0.1,0.2,-0.1,3,7,3,1,10,Matches,5680bf3f
 256,Reda Belahyane,ma MAR,MF,Verona,Serie A,19,2004,1.0,23,25,92.0,298,88,14,14,100.0,6,6,100.0,1,2,50.0,0,0.0,0.0,0.0,0,2,0,0,4,Matches,705a1642
 257,Reda Belahyane,ma MAR,MF,Nice,Ligue 1,19,2004,0.3,13,15,86.7,183,17,9,10,90.0,4,4,100.0,0,0,,0,0.0,0.0,0.0,0,1,1,0,1,Matches,705a1642
-258,Amari'i Bell,jm JAM,DF,Luton Town,Premier League,29,1994,19.1,645,835,77.2,10680,4470,324,372,87.1,270,315,85.7,44,108,40.7,0,0.5,0.4,-0.5,8,63,8,0,76,Matches,399e9474
+258,Amari'i Bell,jm JAM,DF,Luton,Premier League,29,1994,19.1,645,835,77.2,10680,4470,324,372,87.1,270,315,85.7,44,108,40.7,0,0.5,0.4,-0.5,8,63,8,0,76,Matches,399e9474
 259,Stefan Bell,de GER,DF,Mainz 05,Bundesliga,31,1991,7.4,297,370,80.3,5526,2509,122,137,89.1,141,163,86.5,31,60,51.7,0,0.1,0.3,-0.1,1,16,3,1,23,Matches,857a5abe
 260,Alaa Bellaarouch,ma MAR,GK,Strasbourg,Ligue 1,21,2002,15.0,352,504,69.8,9261,5681,63,63,100.0,189,196,96.4,97,238,40.8,0,0.0,0.0,0.0,1,11,1,0,0,Matches,0595569d
 261,Raoul Bellanova,it ITA,DF,Torino,Serie A,23,2000,33.8,1232,1579,78.0,20583,5976,601,675,89.0,488,607,80.4,109,190,57.4,7,5.0,4.5,+2.0,52,61,47,37,98,Matches,e3756e72
-262,Jean-Ricner Bellegarde,fr FRA,MFFW,Wolves,Premier League,25,1998,10.6,241,314,76.8,3452,786,144,161,89.4,76,98,77.6,14,29,48.3,1,1.0,0.8,0.0,12,17,7,0,39,Matches,10f0fdd3
+262,Jean-Ricner Bellegarde,fr FRA,MFFW,Wolverhampton Wanderers,Premier League,25,1998,10.6,241,314,76.8,3452,786,144,161,89.4,76,98,77.6,14,29,48.3,1,1.0,0.8,0.0,12,17,7,0,39,Matches,10f0fdd3
 263,Jean-Ricner Bellegarde,fr FRA,MFFW,Strasbourg,Ligue 1,25,1998,3.0,67,96,69.8,1138,298,30,38,78.9,32,43,74.4,5,10,50.0,2,1.5,1.1,+0.5,3,10,1,0,11,Matches,10f0fdd3
 264,Héctor Bellerín,es ESP,DF,Real Betis,La Liga,28,1995,19.0,756,979,77.2,11447,4836,407,469,86.8,297,381,78.0,31,73,42.5,1,1.6,1.2,-0.6,15,56,15,4,81,Matches,f874dd44
 265,Jude Bellingham,eng ENG,MF,Real Madrid,La Liga,20,2003,25.7,1363,1543,88.3,19609,4025,856,930,92.0,387,428,90.4,76,90,84.4,6,5.3,4.3,+0.7,48,137,45,3,196,Matches,57d88cf9
@@ -279,7 +279,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 278,Ramy Bensebaini,dz ALG,DF,Borussia Dortmund,Bundesliga,28,1995,11.5,702,851,82.5,11465,3639,343,383,89.6,299,338,88.5,44,79,55.7,0,0.4,0.9,-0.4,6,62,9,1,75,Matches,378825c7
 279,Nabil Bentaleb,dz ALG,MF,Lille,Ligue 1,28,1994,21.9,1248,1454,85.8,22387,6885,519,584,88.9,545,606,89.9,144,199,72.4,3,0.9,0.8,+2.1,14,147,9,0,136,Matches,3189f61a
 280,Rodrigo Bentancur,uy URU,MF,Tottenham,Premier League,26,1997,11.2,674,800,84.3,10011,2610,384,426,90.1,244,282,86.5,29,41,70.7,1,0.5,1.1,+0.5,8,69,11,1,72,Matches,3b8674e6
-281,Daniel Bentley,eng ENG,GK,Wolves,Premier League,30,1993,4.3,96,144,66.7,2347,1661,30,30,100.0,37,37,100.0,28,76,36.8,0,0.0,0.0,0.0,0,2,0,0,0,Matches,68db6358
+281,Daniel Bentley,eng ENG,GK,Wolverhampton Wanderers,Premier League,30,1993,4.3,96,144,66.7,2347,1661,30,30,100.0,37,37,100.0,28,76,36.8,0,0.0,0.0,0.0,0,2,0,0,0,Matches,68db6358
 282,Lucas Beraldo,br BRA,DF,Paris Saint Germain,Ligue 1,19,2003,11.2,867,968,89.6,15514,5185,309,354,87.3,482,513,94.0,56,72,77.8,0,0.2,0.2,-0.2,4,65,2,0,44,Matches,b8aedf06
 283,Domenico Berardi,it ITA,FW,Sassuolo,Serie A,28,1994,15.9,409,641,63.8,8116,2265,185,241,76.8,140,204,68.6,73,140,52.1,3,3.0,2.5,0.0,27,48,29,6,83,Matches,53a0e358
 284,Yuri Berchiche,es ESP,DF,Athletic Club,La Liga,33,1990,21.4,1078,1304,82.7,17241,6651,559,622,89.9,438,508,86.2,57,111,51.4,1,1.6,2.0,-0.6,14,103,16,9,132,Matches,b6e50615
@@ -294,7 +294,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 293,Bernardo,br BRA,DF,Bochum,Bundesliga,28,1995,32.5,1167,1622,71.9,20655,8434,528,639,82.6,495,651,76.0,118,240,49.2,0,0.5,1.3,-0.5,13,122,14,10,127,Matches,17370b95
 294,Victor Bernth Kristiansen,dk DEN,DF,Bologna,Serie A,20,2002,25.6,1422,1688,84.2,21913,8191,776,838,92.6,548,643,85.2,60,130,46.2,3,2.4,1.3,+0.6,23,111,22,7,123,Matches,505486d6
 295,Matúš Bero,sk SVK,MFFW,Bochum,Bundesliga,27,1995,18.5,355,535,66.4,5487,1750,181,241,75.1,129,181,71.3,26,53,49.1,1,1.3,1.9,-0.3,11,37,11,2,48,Matches,b5e0af76
-296,Luke Berry,eng ENG,MFDF,Luton Town,Premier League,31,1992,3.6,64,99,64.6,984,310,38,45,84.4,18,32,56.3,6,15,40.0,1,0.3,0.1,+0.7,2,5,0,0,8,Matches,2aaadf33
+296,Luke Berry,eng ENG,MFDF,Luton,Premier League,31,1992,3.6,64,99,64.6,984,310,38,45,84.4,18,32,56.3,6,15,40.0,1,0.3,0.1,+0.7,2,5,0,0,8,Matches,2aaadf33
 297,Dimitry Bertaud,cd COD,GK,Montpellier,Ligue 1,25,1998,4.0,91,142,64.1,2762,1980,10,10,100.0,46,47,97.9,35,84,41.7,0,0.0,0.0,0.0,0,3,0,0,0,Matches,380a15e2
 298,Jan-Niklas Beste,de GER,FWMF,FC Heidenheim,Bundesliga,24,1999,28.9,543,947,57.3,10762,4487,242,316,76.6,168,292,57.5,116,256,45.3,11,5.7,6.3,+5.3,70,26,30,17,57,Matches,57382429
 299,Beto,gw GNB,FW,Everton,Premier League,25,1998,10.6,108,180,60.0,1451,323,66,98,67.3,34,53,64.2,5,7,71.4,0,0.9,0.3,-0.9,11,7,6,0,14,Matches,ed5c0319
@@ -331,7 +331,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 330,Emil Bohinen,no NOR,MF,Salernitana,Serie A,24,1999,5.9,262,333,78.7,4069,1031,130,153,85.0,103,121,85.1,16,24,66.7,0,0.2,0.1,-0.2,5,18,2,0,26,Matches,c83c203f
 331,Adama Bojang,gm GAM,FW,Reims,Ligue 1,19,2004,0.9,17,27,63.0,182,66,14,19,73.7,1,2,50.0,1,1,100.0,0,0.0,0.1,0.0,1,0,0,0,1,Matches,e606b6c0
 332,Daniel Boloca,ro ROU,MF,Sassuolo,Serie A,24,1998,22.5,956,1064,89.8,17430,4310,369,404,91.3,477,497,96.0,89,117,76.1,0,0.4,0.5,-0.4,14,97,5,1,109,Matches,85f7ed25
-333,Willy Boly,ci CIV,DF,Nott'ham Forest,Premier League,32,1991,16.0,502,671,74.8,9338,4056,201,229,87.8,238,303,78.5,49,110,44.5,1,1.3,0.8,-0.3,9,34,8,0,32,Matches,a4ac4b8f
+333,Willy Boly,ci CIV,DF,Nottingham Forest,Premier League,32,1991,16.0,502,671,74.8,9338,4056,201,229,87.8,238,303,78.5,49,110,44.5,1,1.3,0.8,-0.3,9,34,8,0,32,Matches,a4ac4b8f
 334,Giacomo Bonaventura,it ITA,MF,Fiorentina,Serie A,33,1989,25.3,928,1126,82.4,15645,3647,444,497,89.3,354,409,86.6,92,143,64.3,3,3.6,5.4,-0.6,41,81,45,11,140,Matches,d995ed27
 335,Federico Bonazzoli,it ITA,FWMF,Verona,Serie A,26,1997,11.3,242,314,77.1,4025,534,132,161,82.0,71,87,81.6,30,34,88.2,1,1.1,0.5,-0.1,8,21,7,0,26,Matches,bf57eaab
 336,Warren Bondo,fr FRA,MF,Monza,Serie A,19,2003,16.4,557,621,89.7,9504,1586,239,253,94.5,271,295,91.9,34,39,87.2,1,0.3,0.2,+0.7,7,40,2,1,43,Matches,0def2376
@@ -390,21 +390,21 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 389,David Brooks,wls WAL,FWMF,Bournemouth,Premier League,26,1997,3.1,95,132,72.0,1545,666,47,55,85.5,34,42,81.0,10,23,43.5,1,1.0,0.5,0.0,8,14,12,3,21,Matches,dc4cae05
 390,John Brooks,us USA,DF,Hoffenheim,Bundesliga,30,1993,17.1,740,892,83.0,15150,6266,230,255,90.2,400,447,89.5,103,170,60.6,0,0.1,0.3,-0.1,3,56,3,1,61,Matches,e27da244
 391,Moritz Broschinski,de GER,FW,Bochum,Bundesliga,22,2000,13.9,135,223,60.5,1682,261,96,132,72.7,30,50,60.0,4,8,50.0,3,1.8,0.9,+1.2,15,7,9,3,10,Matches,bbd79358
-392,Jacob Brown,sct SCO,MFFW,Luton Town,Premier League,25,1998,11.3,136,247,55.1,1865,626,91,127,71.7,35,56,62.5,6,24,25.0,0,0.7,0.4,-0.7,8,6,3,1,19,Matches,ca18c8f1
+392,Jacob Brown,sct SCO,MFFW,Luton,Premier League,25,1998,11.3,136,247,55.1,1865,626,91,127,71.7,35,56,62.5,6,24,25.0,0,0.7,0.4,-0.7,8,6,3,1,19,Matches,ca18c8f1
 393,Josh Brownhill,eng ENG,MF,Burnley,Premier League,27,1995,25.0,850,1106,76.9,13206,3449,451,532,84.8,311,393,79.1,55,114,48.2,2,2.1,2.1,-0.1,34,71,16,0,90,Matches,47369df8
-394,Alexander Brunst,de GER,GK,Darmstadt 98,Bundesliga,28,1995,3.0,103,150,68.7,3309,2597,19,20,95.0,36,37,97.3,47,92,51.1,0,0.0,0.0,0.0,0,7,0,0,0,Matches,99219195
+394,Alexander Brunst,de GER,GK,Darmstadt,Bundesliga,28,1995,3.0,103,150,68.7,3309,2597,19,20,95.0,36,37,97.3,47,92,51.1,0,0.0,0.0,0.0,0,7,0,0,0,Matches,99219195
 395,Jacob Bruun Larsen,dk DEN,MFFW,Burnley,Premier League,24,1998,13.9,378,526,71.9,6208,1406,208,257,80.9,120,162,74.1,39,64,60.9,0,1.5,1.8,-1.5,25,12,13,2,38,Matches,4e204552
 396,Tajon Buchanan,ca CAN,DF,Inter,Serie A,24,1999,1.8,58,72,80.6,787,103,36,39,92.3,16,21,76.2,3,6,50.0,0,0.3,0.1,-0.3,2,1,1,1,4,Matches,3aca6420
 397,Ante Budimir,hr CRO,FW,Osasuna,La Liga,32,1991,27.1,241,441,54.6,2893,814,170,249,68.3,54,127,42.5,4,12,33.3,2,1.8,1.8,+0.2,12,27,10,2,42,Matches,8f3565b3
-398,Hugo Bueno,es ESP,DFMF,Wolves,Premier League,20,2002,8.2,318,406,78.3,4380,1005,211,237,89.0,92,117,78.6,11,27,40.7,0,0.8,0.7,-0.8,6,11,8,8,8,Matches,bfc3b3a0
+398,Hugo Bueno,es ESP,DFMF,Wolverhampton Wanderers,Premier League,20,2002,8.2,318,406,78.3,4380,1005,211,237,89.0,92,117,78.6,11,27,40.7,0,0.8,0.7,-0.8,6,11,8,8,8,Matches,bfc3b3a0
 399,Manu Bueno,es ESP,MF,Sevilla,La Liga,19,2004,1.3,45,49,91.8,831,175,16,18,88.9,21,22,95.5,6,7,85.7,0,0.1,0.0,-0.1,2,1,1,0,3,Matches,c5642098
-400,Santiago Bueno,uy URU,DF,Wolves,Premier League,24,1998,9.1,426,480,88.8,7158,2158,177,192,92.2,223,237,94.1,18,37,48.6,0,0.1,0.0,-0.1,2,16,0,0,11,Matches,edc98fac
+400,Santiago Bueno,uy URU,DF,Wolverhampton Wanderers,Premier League,24,1998,9.1,426,480,88.8,7158,2158,177,192,92.2,223,237,94.1,18,37,48.6,0,0.1,0.0,-0.1,2,16,0,0,11,Matches,edc98fac
 401,Marius Bülter,de GER,DFFW,Hoffenheim,Bundesliga,30,1993,15.0,500,695,71.9,8626,3041,243,275,88.4,202,274,73.7,48,104,46.2,4,3.4,4.3,+0.6,21,35,22,11,60,Matches,ab5b7dc1
 402,Facundo Buonanotte,ar ARG,FWMF,Brighton,Premier League,18,2004,15.2,404,478,84.5,5038,1028,270,306,88.2,95,109,87.2,9,15,60.0,1,1.8,1.2,-0.8,18,26,14,1,42,Matches,468a7a91
 403,Alessandro Buongiorno,it ITA,DF,Torino,Serie A,24,1999,28.1,1012,1187,85.3,17567,5255,395,455,86.8,553,609,90.8,50,87,57.5,0,0.1,0.4,-0.1,4,28,4,1,62,Matches,4ae67f27
 404,Jonathan Burkardt,de GER,FWMF,Mainz 05,Bundesliga,23,2000,17.1,266,394,67.5,3883,771,161,207,77.8,73,113,64.6,20,35,57.1,2,2.1,1.0,-0.1,15,20,8,5,28,Matches,05f99a4a
 405,Oliver Burke,sct SCO,FW,Werder Bremen,Bundesliga,26,1997,0.4,6,12,50.0,98,18,2,4,50.0,4,6,66.7,0,1,0.0,0,0.0,0.0,0.0,0,0,0,0,0,Matches,f631c17f
-406,Reece Burke,eng ENG,DF,Luton Town,Premier League,26,1996,18.4,547,719,76.1,10396,4169,200,247,81.0,280,325,86.2,57,120,47.5,4,1.4,0.9,+2.6,13,58,9,3,67,Matches,a681b7b7
+406,Reece Burke,eng ENG,DF,Luton,Premier League,26,1996,18.4,547,719,76.1,10396,4169,200,247,81.0,280,325,86.2,57,120,47.5,4,1.4,0.9,+2.6,13,58,9,3,67,Matches,a681b7b7
 407,Dan Burn,eng ENG,DF,Newcastle United,Premier League,31,1992,30.3,1351,1667,81.0,22402,8237,606,702,86.3,676,788,85.8,54,111,48.6,2,1.1,1.1,+0.9,10,67,7,3,75,Matches,b2d31e83
 408,Rareș-Cătălin Burnete,ro ROU,FW,Lecce,Serie A,19,2004,0.1,1,1,100.0,8,0,1,1,100.0,0,0,,0,0,,1,0.1,0.0,+0.9,1,0,0,0,0,Matches,7c4b4e36
 409,Mason Burstow,eng ENG,FW,Chelsea,Premier League,19,2003,0.1,3,4,75.0,29,1,3,3,100.0,0,0,,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,dab84ad2
@@ -485,7 +485,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 484,Valentín Castellanos,ar ARG,FW,Lazio,Serie A,24,1998,18.7,272,452,60.2,3651,962,162,237,68.4,74,124,59.7,16,25,64.0,3,1.7,1.1,+1.3,19,27,15,1,47,Matches,da76bab4
 485,Jean-Charles Castelletto,cm CMR,DF,Nantes,Ligue 1,28,1995,27.4,1147,1340,85.6,20580,7724,429,470,91.3,590,661,89.3,93,161,57.8,0,0.8,1.2,-0.8,10,85,10,3,100,Matches,e0f3a1f6
 486,Samu Castillejo,es ESP,FWMF,Sassuolo,Serie A,28,1995,6.0,213,283,75.3,3239,693,109,120,90.8,86,107,80.4,10,37,27.0,0,1.0,0.9,-1.0,15,14,6,4,26,Matches,130a7a3f
-487,Jonny Castro,es ESP,MF,Wolves,Premier League,29,1994,0.1,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,e28868f3
+487,Jonny Castro,es ESP,MF,Wolverhampton Wanderers,Premier League,29,1994,0.1,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,e28868f3
 488,Santiago Castro,ar ARG,FW,Bologna,Serie A,18,2004,2.7,43,52,82.7,675,64,30,35,85.7,7,8,87.5,5,6,83.3,1,0.5,0.0,+0.5,1,2,0,0,1,Matches,ee5565ae
 489,Gaetano Castrovilli,it ITA,FWMF,Fiorentina,Serie A,26,1997,4.1,75,116,64.7,1164,320,41,51,80.4,26,41,63.4,6,10,60.0,2,0.6,0.1,+1.4,7,6,3,2,12,Matches,0728bebe
 490,Danilo Cataldi,it ITA,MF,Lazio,Serie A,28,1994,15.1,800,932,85.8,12545,3512,421,452,93.1,309,347,89.0,48,94,51.1,0,0.8,0.9,-0.8,11,79,8,2,69,Matches,ba3d3bea
@@ -522,10 +522,10 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 521,Fabio Chiarodia,it ITA,DF,Borussia M.Gladbach,Bundesliga,18,2005,1.7,78,87,89.7,1232,439,43,46,93.5,33,35,94.3,2,6,33.3,0,0.1,0.2,-0.1,1,3,1,1,4,Matches,48780156
 522,Federico Chiesa,it ITA,FW,Juventus,Serie A,25,1997,24.4,498,712,69.9,7884,2466,270,329,82.1,161,224,71.9,48,93,51.6,2,6.2,5.6,-4.2,54,42,45,18,70,Matches,b0f7e36c
 523,Ben Chilwell,eng ENG,DF,Chelsea,Premier League,26,1996,8.4,373,495,75.4,5230,1552,230,259,88.8,112,143,78.3,18,48,37.5,1,2.2,1.8,-1.2,14,29,2,2,25,Matches,d2424d1b
-524,Tawanda Chirewa,zw ZIM,MFFW,Wolves,Premier League,19,2003,1.6,46,58,79.3,664,151,29,31,93.5,14,18,77.8,2,3,66.7,0,0.0,0.1,0.0,1,3,3,2,7,Matches,34721c11
+524,Tawanda Chirewa,zw ZIM,MFFW,Wolverhampton Wanderers,Premier League,19,2003,1.6,46,58,79.3,664,151,29,31,93.5,14,18,77.8,2,3,66.7,0,0.0,0.1,0.0,1,3,3,2,7,Matches,34721c11
 525,Pedro Chirivella,es ESP,MF,Nantes,Ligue 1,26,1997,28.8,1494,1743,85.7,25864,7906,653,701,93.2,631,692,91.2,146,254,57.5,1,1.1,2.8,-0.1,19,168,22,7,192,Matches,68a26d51
-526,Leon Chiwome,eng ENG,FW,Wolves,Premier League,17,2006,1.9,19,22,86.4,244,59,12,13,92.3,6,6,100.0,1,1,100.0,0,0.0,0.0,0.0,0,2,0,0,2,Matches,a2852b4f
-527,Tahith Chong,nl NED,MFFW,Luton Town,Premier League,23,1999,22.0,428,550,77.8,6679,1643,227,257,88.3,149,189,78.8,32,54,59.3,0,0.5,1.4,-0.5,10,35,20,8,72,Matches,2696b6a9
+526,Leon Chiwome,eng ENG,FW,Wolverhampton Wanderers,Premier League,17,2006,1.9,19,22,86.4,244,59,12,13,92.3,6,6,100.0,1,1,100.0,0,0.0,0.0,0.0,0,2,0,0,2,Matches,a2852b4f
+527,Tahith Chong,nl NED,MFFW,Luton,Premier League,23,1999,22.0,428,550,77.8,6679,1643,227,257,88.3,149,189,78.8,32,54,59.3,0,0.5,1.4,-0.5,10,35,20,8,72,Matches,2696b6a9
 528,Joris Chotard,fr FRA,MF,Montpellier,Ligue 1,21,2001,28.7,961,1179,81.5,18558,6343,366,425,86.1,419,489,85.7,142,195,72.8,3,1.9,2.5,+1.1,14,111,15,5,111,Matches,7909ffa4
 529,Andreas Christensen,dk DEN,DFMF,Barcelona,La Liga,27,1996,22.0,1480,1569,94.3,25124,8496,669,699,95.7,700,724,96.7,87,108,80.6,2,1.1,0.8,+0.9,7,116,1,0,117,Matches,1cb49278
 530,Jacob Christensen,dk DEN,MF,FC Cologne,Bundesliga,22,2001,2.4,66,85,77.6,1160,453,28,32,87.5,31,38,81.6,6,13,46.2,0,0.1,0.1,-0.1,2,8,1,0,12,Matches,324ff0da
@@ -543,7 +543,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 542,Giorgio Cittadini,it ITA,DF,Genoa,Serie A,21,2002,1.2,19,31,61.3,392,117,6,11,54.5,9,14,64.3,4,5,80.0,0,0.0,0.0,0.0,0,2,0,0,1,Matches,e4ba67f2
 543,Patrick Ciurria,it ITA,DFMF,Monza,Serie A,28,1995,17.8,662,847,78.2,10671,3258,335,377,88.9,271,348,77.9,41,72,56.9,1,2.6,2.1,-1.6,30,46,28,10,68,Matches,5de3866c
 544,Bobby Clark,eng ENG,MF,Liverpool,Premier League,18,2005,1.0,38,49,77.6,465,64,23,29,79.3,11,12,91.7,1,2,50.0,0,0.0,0.0,0.0,0,3,0,0,3,Matches,73341ace
-545,Jordan Clark,eng ENG,MF,Luton Town,Premier League,29,1993,14.5,369,513,71.9,6108,1636,180,231,77.9,136,173,78.6,33,63,52.4,1,1.3,1.2,-0.3,12,19,18,4,51,Matches,7c5fa6cf
+545,Jordan Clark,eng ENG,MF,Luton,Premier League,29,1993,14.5,369,513,71.9,6108,1636,180,231,77.9,136,173,78.6,33,63,52.4,1,1.3,1.2,-0.3,12,19,18,4,51,Matches,7c5fa6cf
 546,Alexis Claude-Maurice,fr FRA,MF,Nice,Ligue 1,25,1998,5.6,202,253,79.8,2857,570,120,132,90.9,56,75,74.7,12,22,54.5,0,0.3,0.6,-0.3,7,15,6,3,21,Matches,741418c3
 547,Jonathan Clauss,fr FRA,DF,Marseille,Ligue 1,30,1992,23.0,1153,1526,75.6,19885,6946,545,642,84.9,480,598,80.3,103,214,48.1,4,4.6,5.3,-0.6,46,99,50,18,137,Matches,5219ab4a
 548,Silvi Clúa,es ESP,MF,Girona,La Liga,18,2005,0.0,5,5,100.0,85,41,1,1,100.0,4,4,100.0,0,0,,0,0.0,0.0,0.0,0,1,0,0,0,Matches,b793dea2
@@ -612,7 +612,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 611,Iván Cuéllar,es ESP,GK,Mallorca,La Liga,39,1984,1.0,24,35,68.6,612,461,3,4,75.0,14,14,100.0,7,17,41.2,0,0.0,0.0,0.0,0,0,0,0,0,Matches,75751c99
 612,Jorge Cuenca,es ESP,DF,Villarreal,La Liga,23,1999,21.8,957,1150,83.2,17344,6301,367,388,94.6,515,579,88.9,65,154,42.2,1,0.2,0.8,+0.8,6,62,10,6,78,Matches,0abc51f2
 613,Josh Cullen,ie IRL,MF,Burnley,Premier League,27,1996,22.9,1173,1373,85.4,18812,4917,617,667,92.5,466,521,89.4,69,127,54.3,3,1.8,2.3,+1.2,26,119,17,3,123,Matches,f6d7d690
-614,Matheus Cunha,br BRA,FWMF,Wolves,Premier League,24,1999,27.1,658,831,79.2,8887,2308,411,476,86.3,182,229,79.5,32,57,56.1,7,3.2,3.0,+3.8,28,56,31,1,87,Matches,dc62b55d
+614,Matheus Cunha,br BRA,FWMF,Wolverhampton Wanderers,Premier League,24,1999,27.1,658,831,79.2,8887,2308,411,476,86.3,182,229,79.5,32,57,56.1,7,3.2,3.0,+3.8,28,56,31,1,87,Matches,dc62b55d
 615,Marvin Cuni,al ALB,FW,Frosinone,Serie A,22,2001,5.9,82,115,71.3,988,167,48,60,80.0,20,28,71.4,3,4,75.0,0,0.3,0.2,-0.3,6,2,2,0,11,Matches,1d45fd81
 616,Eric Curbelo,es ESP,DFMF,Las Palmas,La Liga,29,1994,1.1,57,59,96.6,885,340,30,30,100.0,25,27,92.6,2,2,100.0,0,0.0,0.0,0.0,0,0,0,0,4,Matches,34e39a18
 617,Sam Curtis,ie IRL,DF,Sheffield United,Premier League,17,2005,0.3,6,10,60.0,98,37,3,4,75.0,3,3,100.0,0,2,0.0,0,0.0,0.0,0.0,0,0,0,0,1,Matches,7d42865e
@@ -628,7 +628,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 627,Diogo Dalot,pt POR,DF,Manchester United,Premier League,24,1999,35.3,1486,1830,81.2,24927,8066,729,817,89.2,574,701,81.9,139,213,65.3,3,2.9,2.4,+0.1,37,107,31,16,124,Matches,d9565625
 628,Mikkel Damsgaard,dk DEN,MF,Brentford,Premier League,23,2000,9.4,300,432,69.4,4940,1897,151,194,77.8,116,151,76.8,26,55,47.3,2,1.4,0.9,+0.6,10,50,11,1,61,Matches,215f3907
 629,Flavius Daniliuc,at AUT,DF,Salernitana,Serie A,22,2001,8.3,350,411,85.2,5932,2368,157,180,87.2,157,170,92.4,27,39,69.2,0,0.2,0.1,-0.2,5,31,2,0,37,Matches,7ef972c3
-630,Danilo,br BRA,MF,Nott'ham Forest,Premier League,22,2001,19.9,588,757,77.7,10476,3222,255,297,85.9,246,285,86.3,70,123,56.9,2,1.5,0.7,+0.5,20,74,14,0,82,Matches,a816dbfb
+630,Danilo,br BRA,MF,Nottingham Forest,Premier League,22,2001,19.9,588,757,77.7,10476,3222,255,297,85.9,246,285,86.3,70,123,56.9,2,1.5,0.7,+0.5,20,74,14,0,82,Matches,a816dbfb
 631,Danilo,br BRA,DF,Juventus,Serie A,32,1991,27.2,1591,1849,86.0,31356,11027,541,580,93.3,839,916,91.6,195,303,64.4,1,0.9,1.0,+0.1,21,148,14,4,161,Matches,94b2001f
 632,Arnaut Danjuma,nl NED,MFFW,Everton,Premier League,26,1997,6.6,102,152,67.1,1420,357,57,69,82.6,37,54,68.5,2,7,28.6,0,1.1,0.4,-1.1,6,6,2,0,9,Matches,f08490a6
 633,Jayden Danns,eng ENG,FW,Liverpool,Premier League,17,2006,0.1,5,7,71.4,73,16,3,4,75.0,2,3,66.7,0,0,,0,0.0,0.0,0.0,0,0,1,0,1,Matches,003cf4d1
@@ -650,7 +650,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 649,Tom Davies,eng ENG,MF,Sheffield United,Premier League,25,1998,2.5,68,99,68.7,901,310,41,50,82.0,20,27,74.1,2,7,28.6,0,0.1,0.2,-0.1,1,6,1,0,8,Matches,9228b07c
 650,Keinan Davis,eng ENG,FWMF,Udinese,Serie A,25,1998,2.1,36,50,72.0,512,122,20,26,76.9,14,16,87.5,1,1,100.0,0,0.1,0.2,-0.1,3,3,2,0,6,Matches,9deaf2c8
 651,Paweł Dawidowicz,pl POL,DF,Verona,Serie A,28,1995,23.8,972,1173,82.9,20339,7048,247,302,81.8,587,647,90.7,131,199,65.8,0,0.0,0.1,0.0,2,60,2,0,89,Matches,16bb656a
-652,Craig Dawson,eng ENG,DF,Wolves,Premier League,33,1990,24.5,1104,1277,86.5,23417,8062,296,333,88.9,640,679,94.3,158,237,66.7,1,1.4,0.6,-0.4,9,52,2,0,49,Matches,3e9e06cb
+652,Craig Dawson,eng ENG,DF,Wolverhampton Wanderers,Premier League,33,1990,24.5,1104,1277,86.5,23417,8062,296,333,88.9,640,679,94.3,158,237,66.7,1,1.4,0.6,-0.4,9,52,2,0,49,Matches,3e9e06cb
 653,Kevin De Bruyne,be BEL,MF,Manchester City,Premier League,32,1991,13.6,732,971,75.4,11555,3364,426,481,88.6,223,293,76.1,66,134,49.3,10,11.5,7.1,-1.5,59,67,56,12,111,Matches,e46012d4
 654,Bobby De Cordova-Reid,jm JAM,FW,Fulham,Premier League,30,1993,15.8,364,487,74.7,5129,1431,211,240,87.9,112,157,71.3,17,37,45.9,2,1.8,1.2,+0.2,17,25,17,5,47,Matches,0f7533cd
 655,Charles De Ketelaere,be BEL,FWMF,Atalanta,Serie A,22,2001,22.5,565,782,72.3,8690,2346,302,384,78.6,211,273,77.3,31,58,53.4,8,6.1,4.1,+1.9,49,44,42,7,126,Matches,2ef7c612
@@ -736,7 +736,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 735,Lewis Dobbin,eng ENG,MF,Everton,Premier League,20,2003,2.6,44,65,67.7,537,95,32,36,88.9,9,17,52.9,2,5,40.0,0,0.5,0.1,-0.5,4,0,3,1,3,Matches,e814e1cf
 736,Dodô,br BRA,DF,Fiorentina,Serie A,24,1998,5.8,278,347,80.1,5196,1670,105,120,87.5,141,168,83.9,29,42,69.0,0,0.8,0.6,-0.8,10,25,9,3,39,Matches,b5f7d10b
 737,Danilho Doekhi,nl NED,DF,Union Berlin,Bundesliga,25,1998,24.0,738,919,80.3,13735,5232,273,311,87.8,379,434,87.3,72,146,49.3,0,0.2,1.0,-0.2,4,67,9,1,65,Matches,f67c9d29
-738,Matt Doherty,ie IRL,DFMF,Wolves,Premier League,31,1992,12.8,515,653,78.9,7798,2105,296,348,85.1,174,212,82.1,31,55,56.4,0,1.3,0.9,-1.3,12,22,7,1,31,Matches,d557d734
+738,Matt Doherty,ie IRL,DFMF,Wolverhampton Wanderers,Premier League,31,1992,12.8,515,653,78.9,7798,2105,296,348,85.1,174,212,82.1,31,55,56.4,0,1.3,0.9,-1.3,12,22,7,1,31,Matches,d557d734
 739,Josh Doig,sct SCO,DF,Verona,Serie A,21,2002,9.2,251,338,74.3,4528,1565,103,123,83.7,119,143,83.2,24,50,48.0,0,0.3,0.4,-0.3,5,15,5,4,15,Matches,2f69d881
 740,Josh Doig,sct SCO,DF,Sassuolo,Serie A,21,2002,14.9,404,591,68.4,6365,2717,233,264,88.3,136,204,66.7,26,86,30.2,2,1.1,0.7,+0.9,14,39,9,7,33,Matches,2f69d881
 741,Jeremy Doku,be BEL,FWMF,Manchester City,Premier League,21,2002,17.7,693,852,81.3,9699,1538,452,507,89.2,198,254,78.0,26,33,78.8,8,4.6,5.9,+3.4,45,14,40,7,57,Matches,fffea3e5
@@ -744,7 +744,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 743,Jaume Doménech,es ESP,GK,Valencia,La Liga,32,1990,0.9,13,31,41.9,370,283,2,2,100.0,6,6,100.0,5,23,21.7,0,0.0,0.0,0.0,0,0,0,0,0,Matches,c9cb972b
 744,Carlos Dominguez,es ESP,DF,Celta Vigo,La Liga,22,2001,17.6,681,864,78.8,12595,4749,257,302,85.1,353,398,88.7,63,134,47.0,0,0.1,0.3,-0.1,3,72,3,0,63,Matches,3521abfe
 745,Mario Dominguez,es ESP,FW,Valencia,La Liga,19,2004,0.3,4,5,80.0,56,22,2,2,100.0,0,1,0.0,1,1,100.0,0,0.0,0.0,0.0,0,1,0,0,1,Matches,d709cd5c
-746,Nicolás Domínguez,ar ARG,MFFW,Nott'ham Forest,Premier League,25,1998,16.6,714,843,84.7,10894,3223,380,424,89.6,254,298,85.2,45,61,73.8,2,1.0,1.3,+1.0,10,61,16,1,91,Matches,20b3a502
+746,Nicolás Domínguez,ar ARG,MFFW,Nottingham Forest,Premier League,25,1998,16.6,714,843,84.7,10894,3223,380,424,89.6,254,298,85.2,45,61,73.8,2,1.0,1.3,+1.0,10,61,16,1,91,Matches,20b3a502
 747,Nicolás Domínguez,ar ARG,MF,Bologna,Serie A,25,1998,1.1,83,92,90.2,1276,370,45,49,91.8,36,40,90.0,2,2,100.0,0,0.0,0.1,0.0,1,5,1,0,9,Matches,20b3a502
 748,Giulio Donati,it ITA,DF,Monza,Serie A,33,1990,0.4,38,46,82.6,656,213,18,21,85.7,18,21,85.7,2,3,66.7,0,0.2,0.2,-0.2,3,0,1,1,3,Matches,22051fbe
 749,Jamie Donley,nir NIR,FW,Tottenham,Premier League,18,2005,0.0,1,1,100.0,14,0,1,1,100.0,0,0,,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,5e4d9b48
@@ -758,7 +758,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 757,Siriné Doucouré,ml MLI,FW,Lorient,Ligue 1,21,2002,4.7,71,94,75.5,913,208,44,54,81.5,15,22,68.2,4,7,57.1,3,1.3,0.6,+1.7,10,4,1,0,5,Matches,92d90c8f
 758,Désiré Doué,fr FRA,MFFW,Rennes,Ligue 1,18,2005,18.1,576,779,73.9,9991,3047,268,333,80.5,226,291,77.7,63,106,59.4,4,3.7,3.7,+0.3,31,64,45,8,121,Matches,9e7483ff
 759,Guela Doué,ci CIV,DF,Rennes,Ligue 1,20,2002,13.7,502,669,75.0,9050,2831,202,240,84.2,229,297,77.1,55,100,55.0,2,1.1,1.4,+0.9,17,47,13,6,53,Matches,b4ef3fb5
-760,Alfie Doughty,eng ENG,DF,Luton Town,Premier League,23,1999,32.5,1121,1686,66.5,20956,8325,496,571,86.9,431,571,75.5,166,426,39.0,8,6.3,5.4,+1.7,70,71,43,24,106,Matches,bf33b257
+760,Alfie Doughty,eng ENG,DF,Luton,Premier League,23,1999,32.5,1121,1686,66.5,20956,8325,496,571,86.9,431,571,75.5,166,426,39.0,8,6.3,5.4,+1.7,70,71,43,24,106,Matches,bf33b257
 761,Douglas,br BRA,MF,Nantes,Ligue 1,26,1997,19.7,904,1040,86.9,15549,4365,396,439,90.2,390,431,90.5,82,118,69.5,0,1.1,1.6,-1.1,17,85,11,1,105,Matches,301c287b
 762,Ismaël Doukouré,fr FRA,MFDF,Strasbourg,Ligue 1,20,2003,18.4,660,771,85.6,12844,3733,237,276,85.9,341,367,92.9,75,108,69.4,0,0.2,0.4,-0.2,9,62,5,0,80,Matches,0512a60a
 763,Kamory Doumbia,ml MLI,MF,Brest,Ligue 1,20,2003,9.8,420,487,86.2,6341,1497,213,234,91.0,161,184,87.5,23,34,67.6,5,0.9,0.7,+4.1,12,42,6,0,48,Matches,9226aa22
@@ -766,7 +766,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 765,Artem Dovbyk,ua UKR,FW,Girona,La Liga,26,1997,28.7,277,392,70.7,3272,471,186,235,79.1,62,89,69.7,5,6,83.3,8,6.2,3.7,+1.8,27,9,10,0,26,Matches,5b847bb0
 766,Nikola Dovedan,at AUT,MFFW,FC Heidenheim,Bundesliga,29,1994,7.3,125,204,61.3,2162,589,60,84,71.4,50,69,72.5,10,27,37.0,1,0.6,0.8,+0.4,8,12,3,0,22,Matches,57d9f511
 767,Damion Downs,us USA,FWMF,FC Cologne,Bundesliga,19,2004,2.0,24,36,66.7,316,48,14,18,77.8,3,5,60.0,3,4,75.0,0,0.0,0.1,0.0,0,0,1,1,0,Matches,640134d6
-768,Tommy Doyle,eng ENG,MF,Wolves,Premier League,21,2001,13.6,801,955,83.9,15164,4208,309,331,93.4,361,399,90.5,106,178,59.6,0,0.4,0.9,-0.4,8,86,7,2,81,Matches,5526deb1
+768,Tommy Doyle,eng ENG,MF,Wolverhampton Wanderers,Premier League,21,2001,13.6,801,955,83.9,15164,4208,309,331,93.4,361,399,90.5,106,178,59.6,0,0.4,0.9,-0.4,8,86,7,2,81,Matches,5526deb1
 769,Radu Drăgușin,ro ROU,DF,Tottenham,Premier League,21,2002,4.8,326,370,88.1,5633,1782,130,148,87.8,185,198,93.4,8,16,50.0,0,0.0,0.0,0.0,0,10,0,0,8,Matches,620922ed
 770,Radu Drăgușin,ro ROU,DF,Genoa,Serie A,21,2002,19.0,592,721,82.1,10460,3372,233,270,86.3,308,343,89.8,41,83,49.4,1,0.8,0.9,+0.2,7,22,2,0,29,Matches,620922ed
 771,Dion Drena Beljo,hr CRO,FWMF,Augsburg,Bundesliga,21,2002,6.5,115,160,71.9,1717,335,55,77,71.4,47,59,79.7,4,6,66.7,0,0.5,0.8,-0.5,8,5,8,1,20,Matches,9a2e3a23
@@ -803,7 +803,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 802,Hugo Ekitike,fr FRA,FW,Eintracht Frankfurt,Bundesliga,21,2002,8.0,131,193,67.9,1934,348,77,110,70.0,38,49,77.6,11,13,84.6,2,1.7,1.5,+0.3,12,13,3,1,9,Matches,5b92d896
 803,Emmanuel Ekong,se SWE,FW,Empoli,Serie A,21,2002,0.1,1,1,100.0,12,0,1,1,100.0,0,0,,0,0,,0,0.0,0.0,0.0,1,0,0,0,0,Matches,c20892ee
 804,Caleb Ekuban,gh GHA,FW,Genoa,Serie A,29,1994,12.6,138,211,65.4,1854,476,84,106,79.2,34,57,59.6,10,16,62.5,1,1.4,0.7,-0.4,16,8,6,0,15,Matches,7afbd2c3
-805,Anthony Elanga,se SWE,FWMF,Nott'ham Forest,Premier League,21,2002,27.0,498,712,69.9,6655,1569,313,391,80.1,143,211,67.8,15,28,53.6,9,6.7,4.0,+2.3,32,28,24,5,49,Matches,2fba6108
+805,Anthony Elanga,se SWE,FWMF,Nottingham Forest,Premier League,21,2002,27.0,498,712,69.9,6655,1569,313,391,80.1,143,211,67.8,15,28,53.6,9,6.7,4.0,+2.3,32,28,24,5,49,Matches,2fba6108
 806,Simon Elisor,fr FRA,FW,Metz,Ligue 1,24,1999,8.5,111,157,70.7,1583,387,56,79,70.9,45,61,73.8,3,4,75.0,0,0.9,0.4,-0.9,10,11,2,0,14,Matches,825ed0d1
 807,Harvey Elliott,eng ENG,MFFW,Liverpool,Premier League,20,2003,15.0,825,986,83.7,13081,3101,457,496,92.1,278,323,86.1,66,105,62.9,6,3.5,4.6,+2.5,37,76,45,11,128,Matches,b9e1436c
 808,Elif Elmas,mk MKD,FWMF,Napoli,Serie A,23,1999,3.8,167,191,87.4,2276,469,116,122,95.1,39,48,81.3,7,10,70.0,0,0.2,0.3,-0.2,6,14,1,0,16,Matches,cf007308
@@ -851,7 +851,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 850,Federico Fazio,ar ARG,DF,Salernitana,Serie A,36,1987,15.1,440,587,75.0,8392,3494,163,194,84.0,217,265,81.9,55,108,50.9,0,0.1,0.3,-0.1,3,26,1,0,27,Matches,4e358a2d
 851,Jacopo Fazzini,it ITA,MF,Empoli,Serie A,20,2003,13.7,343,499,68.7,5521,1816,167,205,81.5,134,180,74.4,27,72,37.5,1,2.3,1.7,-1.3,24,32,9,3,47,Matches,06b08c45
 852,Nabil Fekir,fr FRA,MFFW,Real Betis,La Liga,30,1993,11.7,482,611,78.9,6682,2256,272,312,87.2,131,151,86.8,33,71,46.5,2,2.3,2.7,-0.3,30,53,21,3,67,Matches,bece776f
-853,Felipe,br BRA,DF,Nott'ham Forest,Premier League,34,1989,4.2,183,215,85.1,3654,1412,61,70,87.1,97,105,92.4,21,33,63.6,0,0.1,0.0,-0.1,2,10,0,0,6,Matches,51a3c4c8
+853,Felipe,br BRA,DF,Nottingham Forest,Premier League,34,1989,4.2,183,215,85.1,3654,1412,61,70,87.1,97,105,92.4,21,33,63.6,0,0.1,0.0,-0.1,2,10,0,0,6,Matches,51a3c4c8
 854,Luiz Felipe,it ITA,DF,Real Betis,La Liga,26,1997,4.0,151,169,89.3,2591,996,59,62,95.2,78,86,90.7,9,14,64.3,0,0.2,0.2,-0.2,1,4,0,0,4,Matches,15d0c248
 855,João Félix,pt POR,FW,Barcelona,La Liga,23,1999,17.1,538,663,81.1,7329,1372,355,392,90.6,138,173,79.8,22,46,47.8,3,3.1,2.6,-0.1,19,31,20,1,68,Matches,8aafd64f
 856,Ohis Felix Uduokhai,de GER,DF,Augsburg,Bundesliga,25,1997,32.5,1349,1658,81.4,25826,9681,477,549,86.9,725,815,89.0,132,261,50.6,0,0.8,1.3,-0.8,9,93,5,0,101,Matches,677da306
@@ -900,9 +900,9 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 899,Dimitri Foulquier,fr FRA,DFMF,Valencia,La Liga,30,1993,20.5,766,1042,73.5,11858,4675,394,463,85.1,308,382,80.6,42,118,35.6,0,1.2,0.8,-1.2,14,47,14,6,72,Matches,45e17712
 900,Juan Foyth,ar ARG,DF,Villarreal,La Liga,25,1998,11.8,565,690,81.9,9309,3470,290,320,90.6,226,270,83.7,40,66,60.6,1,0.9,0.9,+0.1,5,50,7,2,51,Matches,6c7762c3
 901,Matheus França,br BRA,MFFW,Crystal Palace,Premier League,19,2004,2.6,51,79,64.6,910,256,20,29,69.0,24,29,82.8,5,13,38.5,1,0.9,0.5,+0.1,6,4,2,0,8,Matches,077faf72
-902,Bartol Franjić,hr CRO,MF,Darmstadt 98,Bundesliga,23,2000,13.7,462,556,83.1,8068,1949,203,240,84.6,211,234,90.2,40,56,71.4,1,0.2,0.3,+0.8,2,39,2,1,50,Matches,697dc00a
+902,Bartol Franjić,hr CRO,MF,Darmstadt,Bundesliga,23,2000,13.7,462,556,83.1,8068,1949,203,240,84.6,211,234,90.2,40,56,71.4,1,0.2,0.3,+0.8,2,39,2,1,50,Matches,697dc00a
 903,Przemysław Frankowski,pl POL,DF,Lens,Ligue 1,28,1995,24.4,1008,1320,76.4,16279,5614,503,580,86.7,406,525,77.3,70,137,51.1,2,3.8,5.0,-1.8,39,75,43,15,112,Matches,00a8d210
-904,Nathan Fraser,ie IRL,FW,Wolves,Premier League,18,2005,2.1,33,42,78.6,380,45,24,27,88.9,7,10,70.0,0,0,,0,0.1,0.1,-0.1,2,0,2,0,2,Matches,00b77ecf
+904,Nathan Fraser,ie IRL,FW,Wolverhampton Wanderers,Premier League,18,2005,2.1,33,42,78.6,380,45,24,27,88.9,7,10,70.0,0,0,,0,0.1,0.1,-0.1,2,0,2,0,2,Matches,00b77ecf
 905,Davide Frattesi,it ITA,MF,Inter,Serie A,23,1999,10.6,235,301,78.1,3468,1047,126,147,85.7,82,103,79.6,14,18,77.8,3,1.9,2.0,+1.1,10,18,13,1,37,Matches,2a7d27c1
 906,Morten Frendrup,dk DEN,MF,Genoa,Serie A,22,2001,34.9,979,1224,80.0,14254,3493,548,625,87.7,333,401,83.0,45,83,54.2,5,1.6,1.4,+3.4,13,69,14,1,105,Matches,f4d60499
 907,Remo Freuler,ch SUI,MF,Bologna,Serie A,31,1992,29.2,1710,1890,90.5,25295,6603,949,1009,94.1,653,696,93.8,50,86,58.1,1,1.1,1.3,-0.1,19,133,15,0,165,Matches,98d2c2c4
@@ -968,20 +968,20 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 967,Farés Ghedjemis,fr FRA,FWMF,Frosinone,Serie A,20,2002,2.0,48,61,78.7,638,71,29,32,90.6,15,19,78.9,1,4,25.0,0,0.1,0.1,-0.1,2,1,2,0,2,Matches,14aac43e
 968,Saman Ghoddos,ir IRN,DF,Brentford,Premier League,29,1993,8.2,325,448,72.5,5565,1748,164,187,87.7,131,167,78.4,27,78,34.6,0,1.1,1.0,-1.1,9,29,10,4,36,Matches,f7b1d4e0
 969,Lautaro Gianetti,ar ARG,DF,Udinese,Serie A,29,1993,7.0,263,300,87.7,5442,2072,73,80,91.3,151,164,92.1,36,48,75.0,0,0.1,0.1,-0.1,1,7,0,0,4,Matches,e08ac719
-970,Morgan Gibbs-White,eng ENG,MFFW,Nott'ham Forest,Premier League,23,2000,35.1,1046,1482,70.6,18447,6110,499,610,81.8,350,452,77.4,153,298,51.3,10,8.4,6.8,+1.6,74,114,39,13,171,Matches,32f60ed8
+970,Morgan Gibbs-White,eng ENG,MFFW,Nottingham Forest,Premier League,23,2000,35.1,1046,1482,70.6,18447,6110,499,610,81.8,350,452,77.4,153,298,51.3,10,8.4,6.8,+1.6,74,114,39,13,171,Matches,32f60ed8
 971,Samuel Gigot,fr FRA,DF,Marseille,Ligue 1,29,1993,19.2,846,964,87.8,14333,4728,349,383,91.1,436,480,90.8,36,64,56.3,0,0.9,0.5,-0.9,7,31,3,2,54,Matches,41eebdf5
 972,Bryan Gil,es ESP,FWMF,Tottenham,Premier League,22,2001,2.3,127,157,80.9,1809,344,69,81,85.2,54,62,87.1,1,2,50.0,0,0.2,0.3,-0.2,4,6,8,1,16,Matches,7b5ab7f2
 973,David Gil,es ESP,GK,Cadiz,La Liga,29,1994,4.1,78,152,51.3,3543,3208,4,4,100.0,18,18,100.0,55,129,42.6,0,0.0,0.0,0.0,0,1,0,0,0,Matches,fea23125
 974,Mario Gila,es ESP,DF,Lazio,Serie A,22,2000,20.1,1161,1294,89.7,21517,7790,454,483,94.0,545,583,93.5,135,181,74.6,0,0.5,0.8,-0.5,7,70,10,3,93,Matches,9c435456
 975,Alfie Gilchrist,eng ENG,DF,Chelsea,Premier League,19,2003,2.3,121,141,85.8,1893,468,63,73,86.3,55,61,90.2,3,6,50.0,0,0.0,0.0,0.0,0,5,1,0,7,Matches,d91f104d
-976,Ryan Giles,eng ENG,DFMF,Luton Town,Premier League,23,2000,5.6,140,218,64.2,2294,949,74,85,87.1,56,85,65.9,9,39,23.1,0,0.2,0.6,-0.2,5,10,10,6,17,Matches,73b1d65b
+976,Ryan Giles,eng ENG,DFMF,Luton,Premier League,23,2000,5.6,140,218,64.2,2294,949,74,85,87.1,56,85,65.9,9,39,23.1,0,0.2,0.6,-0.2,5,10,10,6,17,Matches,73b1d65b
 977,Billy Gilmour,sct SCO,MF,Brighton,Premier League,22,2001,23.6,1915,2107,90.9,29399,7671,1049,1093,96.0,703,759,92.6,106,170,62.4,1,2.0,2.5,-1.0,22,183,33,3,193,Matches,df10e27c
 978,Benedikt Gimber,de GER,DF,FC Heidenheim,Bundesliga,26,1997,22.5,681,846,80.5,14351,4173,160,192,83.3,429,476,90.1,91,156,58.3,1,1.1,1.1,-0.1,3,14,0,0,25,Matches,e5f76710
 979,Gvidas Gineitis,lt LTU,MF,Torino,Serie A,19,2004,6.0,227,284,79.9,3884,876,93,113,82.3,96,103,93.2,22,43,51.2,0,0.5,1.0,-0.5,8,18,4,1,25,Matches,548bd0de
 980,Matthias Ginter,de GER,DF,Freiburg,Bundesliga,29,1994,21.3,1039,1250,83.1,19708,7154,346,378,91.5,605,682,88.7,82,165,49.7,2,1.4,1.5,+0.6,5,86,9,2,136,Matches,f521b80a
 981,Olivier Giroud,fr FRA,FW,AC Milan,Serie A,36,1986,26.3,338,492,68.7,4151,758,229,312,73.4,74,108,68.5,9,11,81.8,8,4.7,2.4,+3.3,32,24,7,0,28,Matches,16ceb862
 982,Jamie Gittens,eng ENG,FWMF,Borussia Dortmund,Bundesliga,18,2004,11.8,284,363,78.2,3681,732,196,226,86.7,69,85,81.2,10,22,45.5,4,2.8,3.0,+1.2,18,14,15,2,26,Matches,10745192
-983,Klaus Gjasula,al ALB,DFMF,Darmstadt 98,Bundesliga,33,1989,15.1,615,746,82.4,12270,4995,211,237,89.0,308,354,87.0,86,128,67.2,0,0.2,0.8,-0.2,6,58,13,3,70,Matches,431c837b
+983,Klaus Gjasula,al ALB,DFMF,Darmstadt,Bundesliga,33,1989,15.1,615,746,82.4,12270,4995,211,237,89.0,308,354,87.0,86,128,67.2,0,0.2,0.8,-0.2,6,58,13,3,70,Matches,431c837b
 984,Serge Gnabry,de GER,FWMF,Bayern Munich,Bundesliga,28,1995,4.8,180,214,84.1,2540,485,107,117,91.5,61,70,87.1,6,11,54.5,1,1.2,2.0,-0.2,9,8,13,0,23,Matches,88e357ef
 985,Ben Godfrey,eng ENG,DF,Everton,Premier League,25,1998,12.4,336,484,69.4,5725,2373,147,180,81.7,157,204,77.0,23,62,37.1,0,0.3,0.5,-0.3,3,32,6,2,43,Matches,9f7c837d
 986,Edoardo Goldaniga,it ITA,DF,Cagliari,Serie A,29,1993,11.2,438,553,79.2,9533,3744,116,132,87.9,251,284,88.4,68,130,52.3,0,0.1,0.4,-0.1,4,37,6,3,50,Matches,4b029b31
@@ -989,8 +989,8 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 988,Aleksandr Golovin,ru RUS,MFFW,Monaco,Ligue 1,27,1996,23.9,935,1236,75.6,16293,5324,440,521,84.5,325,413,78.7,124,211,58.8,6,4.7,6.4,+1.3,50,99,62,5,172,Matches,3708e9fa
 989,André Gomes,pt POR,MFFW,Everton,Premier League,30,1993,5.6,223,291,76.6,3909,971,112,132,84.8,80,95,84.2,27,51,52.9,0,0.4,0.5,-0.4,4,24,6,1,36,Matches,1961b2aa
 990,Angel Gomes,eng ENG,MF,Lille,Ligue 1,22,2000,28.6,1566,1751,89.4,27874,7062,727,779,93.3,632,680,92.9,170,220,77.3,8,6.2,6.0,+1.8,48,164,45,1,204,Matches,645a3363
-991,João Gomes,br BRA,MF,Wolves,Premier League,22,2001,29.4,1051,1279,82.2,15291,4174,596,665,89.6,342,404,84.7,50,94,53.2,1,1.1,1.7,-0.1,20,73,23,5,101,Matches,8b57ad2c
-992,Toti Gomes,pt POR,DF,Wolves,Premier League,24,1999,30.8,1516,1847,82.1,23316,8336,782,859,91.0,631,748,84.4,60,153,39.2,3,1.2,0.6,+1.8,6,78,6,1,79,Matches,f0caab96
+991,João Gomes,br BRA,MF,Wolverhampton Wanderers,Premier League,22,2001,29.4,1051,1279,82.2,15291,4174,596,665,89.6,342,404,84.7,50,94,53.2,1,1.1,1.7,-0.1,20,73,23,5,101,Matches,8b57ad2c
+992,Toti Gomes,pt POR,DF,Wolverhampton Wanderers,Premier League,24,1999,30.8,1516,1847,82.1,23316,8336,782,859,91.0,631,748,84.4,60,153,39.2,3,1.2,0.6,+1.8,6,78,6,1,79,Matches,f0caab96
 993,Joe Gomez,eng ENG,DF,Liverpool,Premier League,26,1997,19.8,1114,1345,82.8,18984,5116,519,574,90.4,497,585,85.0,83,131,63.4,1,1.3,1.1,-0.3,22,83,20,7,100,Matches,7a11550b
 994,Maxi Gómez,uy URU,FW,Cadiz,La Liga,26,1996,12.9,132,255,51.8,1666,311,79,129,61.2,33,63,52.4,5,19,26.3,0,0.6,0.5,-0.6,9,16,4,2,11,Matches,4c2e9442
 995,Moi Gómez,es ESP,MFFW,Osasuna,La Liga,29,1994,22.3,953,1177,81.0,16451,3884,434,484,89.7,394,451,87.4,92,149,61.7,0,0.9,1.9,-0.9,24,116,12,5,127,Matches,5a626448
@@ -1000,7 +1000,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 999,Iron Gomis,fr FRA,MF,Salernitana,Serie A,23,1999,1.5,62,69,89.9,840,157,38,41,92.7,16,18,88.9,2,2,100.0,0,0.2,0.2,-0.2,3,3,2,1,4,Matches,1d50130f
 1000,Maxime Gonalons,fr FRA,MF,Clermont Foot,Ligue 1,34,1989,14.4,666,772,86.3,12023,3551,277,315,87.9,286,309,92.6,75,108,69.4,0,0.2,0.4,-0.2,7,67,4,0,81,Matches,b8c1de25
 1001,Édgar González,es ESP,DFMF,Almeria,La Liga,26,1997,28.0,1150,1350,85.2,21329,8387,404,445,90.8,629,697,90.2,100,172,58.1,0,0.3,0.3,-0.3,7,51,3,1,72,Matches,49d028db
-1002,Enso Gonzalez,py PAR,MFDF,Wolves,Premier League,18,2005,0.0,6,6,100.0,87,3,2,2,100.0,3,3,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,7e5bebeb
+1002,Enso Gonzalez,py PAR,MFDF,Wolverhampton Wanderers,Premier League,18,2005,0.0,6,6,100.0,87,3,2,2,100.0,3,3,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,7e5bebeb
 1003,Fabio González,es ESP,MF,Las Palmas,La Liga,26,1997,1.4,119,129,92.2,1859,356,70,75,93.3,39,41,95.1,8,9,88.9,0,0.0,0.1,0.0,0,11,0,0,9,Matches,5418d47c
 1004,Giovanni González,uy URU,DF,Mallorca,La Liga,28,1994,27.4,936,1244,75.2,15432,6464,485,549,88.3,342,448,76.3,90,176,51.1,1,1.4,1.9,-0.4,21,80,28,15,91,Matches,1fc474ae
 1005,Hugo González,es ESP,MFFW,Valencia,La Liga,20,2003,1.0,24,39,61.5,360,94,15,19,78.9,7,11,63.6,1,3,33.3,1,0.5,0.2,+0.5,4,2,1,1,2,Matches,2cfb6e88
@@ -1102,13 +1102,13 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1101,Jack Harrison,eng ENG,MFFW,Everton,Premier League,26,1996,24.6,409,631,64.8,5825,2378,243,291,83.5,127,195,65.1,23,73,31.5,3,3.4,3.3,-0.4,28,37,34,11,62,Matches,aa849a12
 1102,Abdou Harroui,nl NED,MFFW,Frosinone,Serie A,25,1998,11.3,303,383,79.1,4174,1016,186,216,86.1,84,106,79.2,15,25,60.0,3,1.2,1.4,+1.8,16,29,12,4,38,Matches,65fd099c
 1103,Makoto Hasebe,jp JPN,DFMF,Eintracht Frankfurt,Bundesliga,39,1984,2.4,166,189,87.8,3210,1037,52,56,92.9,100,109,91.7,14,23,60.9,0,0.0,0.2,0.0,0,7,2,0,10,Matches,9ab16552
-1104,Daiki Hashioka,jp JPN,DF,Luton Town,Premier League,24,1999,6.6,227,282,80.5,3875,1580,101,108,93.5,107,126,84.9,16,34,47.1,0,0.7,0.3,-0.7,3,14,4,3,21,Matches,10cb48b7
+1104,Daiki Hashioka,jp JPN,DF,Luton,Premier League,24,1999,6.6,227,282,80.5,3875,1580,101,108,93.5,107,126,84.9,16,34,47.1,0,0.7,0.3,-0.7,3,14,4,3,21,Matches,10cb48b7
 1105,Hans Hateboer,nl NED,DF,Atalanta,Serie A,29,1994,12.4,514,616,83.4,7813,2447,303,324,93.5,174,210,82.9,27,47,57.4,1,2.0,1.2,-1.0,22,27,17,13,42,Matches,3b333ac3
 1106,Pantelis Hatzidiakos,gr GRE,DF,Cagliari,Serie A,26,1997,9.5,328,405,81.0,6195,2526,125,129,96.9,159,190,83.7,40,68,58.8,0,0.0,0.2,0.0,1,31,3,1,34,Matches,78a3c38e
 1107,Kai Havertz,de GER,MFFW,Arsenal,Premier League,24,1999,29.3,764,955,80.0,9583,2405,525,609,86.2,195,245,79.6,7,15,46.7,7,4.4,4.3,+2.6,46,65,29,1,99,Matches,fed7cb61
 1108,Thorgan Hazard,be BEL,DF,Borussia Dortmund,Bundesliga,30,1993,0.1,7,9,77.8,113,45,4,6,66.7,2,2,100.0,1,1,100.0,0,0.0,0.0,0.0,0,0,0,0,2,Matches,50871bcc
 1109,Jan Paul van Hecke,nl NED,DF,Brighton,Premier League,23,2000,26.3,2225,2415,92.1,38300,14722,939,991,94.8,1109,1181,93.9,136,186,73.1,0,0.9,1.1,-0.9,10,156,10,1,147,Matches,4fd08daa
-1110,Hwang Hee-chan,kr KOR,FWMF,Wolves,Premier League,27,1996,23.5,424,551,77.0,5661,1028,256,312,82.1,131,162,80.9,13,21,61.9,3,3.0,2.9,0.0,17,19,7,2,37,Matches,169fd162
+1110,Hwang Hee-chan,kr KOR,FWMF,Wolverhampton Wanderers,Premier League,27,1996,23.5,424,551,77.0,5661,1028,256,312,82.1,131,162,80.9,13,21,61.9,3,3.0,2.9,0.0,17,19,7,2,37,Matches,169fd162
 1111,Silvan Hefti,ch SUI,MFDF,Genoa,Serie A,25,1997,1.3,24,39,61.5,356,119,15,20,75.0,6,11,54.5,2,4,50.0,0,0.0,0.0,0.0,0,1,0,0,2,Matches,f8342731
 1112,Silvan Hefti,ch SUI,DFFW,Montpellier,Ligue 1,25,1997,7.9,238,328,72.6,3494,1326,132,158,83.5,81,115,70.4,10,27,37.0,1,1.0,1.1,0.0,3,12,7,3,25,Matches,f8342731
 1113,Dominique HEintrachtz,de GER,DF,FC Cologne,Bundesliga,29,1993,6.3,349,423,82.5,6540,2053,130,144,90.3,186,205,90.7,31,63,49.2,0,0.5,0.7,-0.5,7,24,6,5,30,Matches,699fb8db
@@ -1148,20 +1148,20 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1147,Philipp Hofmann,de GER,FW,Bochum,Bundesliga,30,1993,17.5,266,416,63.9,3468,648,167,233,71.7,77,130,59.2,6,10,60.0,2,1.7,1.3,+0.3,19,17,11,0,36,Matches,877bc844
 1148,Lucas Höler,de GER,FWMF,Freiburg,Bundesliga,29,1994,25.6,494,739,66.8,6619,1500,301,419,71.8,127,182,69.8,24,36,66.7,2,2.1,2.0,-0.1,32,34,12,1,49,Matches,ca618d23
 1149,Mason Holgate,jm JAM,DF,Sheffield United,Premier League,26,1996,7.9,138,211,65.4,2552,1215,65,83,78.3,52,78,66.7,19,44,43.2,0,0.4,0.2,-0.4,1,17,2,2,13,Matches,d0042ab9
-1150,Fabian Holland,de GER,MFDF,Darmstadt 98,Bundesliga,33,1990,20.4,720,919,78.3,13141,4204,307,349,88.0,313,361,86.7,88,162,54.3,2,1.5,1.4,+0.5,17,84,9,2,87,Matches,017018d1
+1150,Fabian Holland,de GER,MFDF,Darmstadt,Bundesliga,33,1990,20.4,720,919,78.3,13141,4204,307,349,88.0,313,361,86.7,88,162,54.3,2,1.5,1.4,+0.5,17,84,9,2,87,Matches,017018d1
 1151,Benedict Hollerbach,de GER,FWMF,Union Berlin,Bundesliga,22,2001,14.2,253,398,63.6,3663,963,153,190,80.5,69,106,65.1,17,35,48.6,0,1.3,1.4,-1.3,14,18,18,5,39,Matches,2a158218
 1152,Emil Holm,se SWE,DF,Atalanta,Serie A,23,2000,10.5,304,457,66.5,4675,1618,171,214,79.9,107,153,69.9,21,55,38.2,1,0.8,1.0,+0.2,4,18,8,6,27,Matches,c2357b65
-1153,Gerrit Holtmann,ph PHI,MFFW,Darmstadt 98,Bundesliga,28,1995,4.4,113,155,72.9,1687,607,61,70,87.1,42,60,70.0,4,13,30.8,0,0.3,0.3,-0.3,5,12,4,0,18,Matches,2979c05a
+1153,Gerrit Holtmann,ph PHI,MFFW,Darmstadt,Bundesliga,28,1995,4.4,113,155,72.9,1687,607,61,70,87.1,42,60,70.0,4,13,30.8,0,0.3,0.3,-0.3,5,12,4,0,18,Matches,2979c05a
 1154,Martin Hongla,cm CMR,MF,Verona,Serie A,25,1998,12.0,391,474,82.5,7563,2018,135,157,86.0,199,223,89.2,48,74,64.9,0,0.3,0.1,-0.3,9,38,0,0,57,Matches,b85bf253
 1155,Martin Hongla,cm CMR,MFDF,Granada,La Liga,25,1998,6.2,237,283,83.7,4465,1179,87,95,91.6,118,131,90.1,29,48,60.4,0,0.0,0.1,0.0,0,20,1,0,16,Matches,b85bf253
 1156,Franck Honorat,fr FRA,DFFW,Borussia M.Gladbach,Bundesliga,26,1996,26.1,802,1207,66.4,13080,5175,432,520,83.1,246,365,67.4,84,211,39.8,9,9.3,9.4,-0.3,89,37,56,28,93,Matches,db7849ca
-1157,Mathias Honsak,at AUT,FWMF,Darmstadt 98,Bundesliga,26,1996,11.3,210,285,73.7,3092,747,120,147,81.6,66,84,78.6,14,22,63.6,1,0.7,0.7,+0.3,12,11,6,1,19,Matches,3dbdbb6a
+1157,Mathias Honsak,at AUT,FWMF,Darmstadt,Bundesliga,26,1996,11.3,210,285,73.7,3092,747,120,147,81.6,66,84,78.6,14,22,63.6,1,0.7,0.7,+0.3,12,11,6,1,19,Matches,3dbdbb6a
 1158,Sydney van Hooijdonk,nl NED,FW,Bologna,Serie A,23,2000,2.4,28,36,77.8,299,73,16,19,84.2,7,7,100.0,0,0,,0,0.1,0.0,-0.1,2,2,0,0,2,Matches,5b418e15
-1159,Fraser Hornby,sct SCO,FWMF,Darmstadt 98,Bundesliga,23,1999,2.4,35,63,55.6,503,71,24,35,68.6,7,13,53.8,3,3,100.0,0,0.3,0.5,-0.3,4,0,2,0,2,Matches,29aee77c
+1159,Fraser Hornby,sct SCO,FWMF,Darmstadt,Bundesliga,23,1999,2.4,35,63,55.6,503,71,24,35,68.6,7,13,53.8,3,3,100.0,0,0.3,0.5,-0.3,4,0,2,0,2,Matches,29aee77c
 1160,Lukáš Hrádecký,fi FIN,GK,Bayer Leverkusen,Bundesliga,33,1989,33.0,706,886,79.7,16511,12037,186,187,99.5,360,369,97.6,156,320,48.8,0,0.0,0.0,0.0,0,4,0,0,1,Matches,ad3389d5
 1161,Xabier Huarte Armendáriz,es ESP,MF,Osasuna,La Liga,22,2001,0.1,2,2,100.0,28,11,1,1,100.0,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,1,Matches,e83e8928
 1162,Timo Hübers,de GER,DF,FC Cologne,Bundesliga,27,1996,30.9,1473,1743,84.5,28520,10485,448,501,89.4,879,951,92.4,130,250,52.0,0,0.5,1.0,-0.5,6,105,7,1,104,Matches,94302c52
-1163,Callum Hudson-Odoi,eng ENG,FWMF,Nott'ham Forest,Premier League,22,2000,20.6,576,738,78.0,9055,1826,327,361,90.6,187,251,74.5,46,83,55.4,1,2.8,2.5,-1.8,36,20,32,8,58,Matches,15f3ec41
+1163,Callum Hudson-Odoi,eng ENG,FWMF,Nottingham Forest,Premier League,22,2000,20.6,576,738,78.0,9055,1826,327,361,90.6,187,251,74.5,46,83,55.4,1,2.8,2.5,-1.8,36,20,32,8,58,Matches,15f3ec41
 1164,Will Hughes,eng ENG,MF,Crystal Palace,Premier League,28,1995,21.0,731,878,83.3,10742,3108,389,436,89.2,281,317,88.6,27,62,43.5,1,1.1,1.8,-0.1,21,71,16,2,76,Matches,a0666d3e
 1165,Dean Huijsen,es ESP,DF,Roma,Serie A,18,2005,5.7,400,459,87.1,7151,2423,158,175,90.3,203,221,91.9,34,47,72.3,0,0.1,0.1,-0.1,1,16,1,0,18,Matches,87278bce
 1166,Dean Huijsen,es ESP,DF,Juventus,Serie A,18,2005,0.1,18,19,94.7,370,115,5,5,100.0,10,10,100.0,3,3,100.0,0,0.0,0.0,0.0,0,0,0,0,2,Matches,87278bce
@@ -1192,7 +1192,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1191,Alexander Isak,se SWE,FW,Newcastle United,Premier League,23,1999,25.1,385,493,78.1,5446,1167,237,280,84.6,117,142,82.4,15,22,68.2,2,3.7,2.8,-1.7,27,28,21,0,71,Matches,8e92be30
 1192,Gustav Isaksen,dk DEN,FW,Lazio,Serie A,22,2001,11.9,218,328,66.5,3100,676,121,143,84.6,73,110,66.4,11,38,28.9,1,2.6,2.0,-1.6,19,8,11,4,21,Matches,5715bb71
 1193,Isco,es ESP,MF,Real Betis,La Liga,31,1992,25.8,1201,1502,80.0,19453,6247,634,699,90.7,371,442,83.9,134,239,56.1,5,6.4,6.4,-1.4,81,130,58,7,216,Matches,a0b4bb3e
-1194,Thomas Isherwood,se SWE,DF,Darmstadt 98,Bundesliga,25,1998,7.1,223,268,83.2,4281,1293,75,80,93.8,127,142,89.4,18,35,51.4,0,0.0,0.1,0.0,1,13,4,0,11,Matches,2be28a0c
+1194,Thomas Isherwood,se SWE,DF,Darmstadt,Bundesliga,25,1998,7.1,223,268,83.2,4281,1293,75,80,93.8,127,142,89.4,18,35,51.4,0,0.0,0.1,0.0,1,13,4,0,11,Matches,2be28a0c
 1195,Ismaily,br BRA,DF,Lille,Ligue 1,33,1990,27.4,1262,1505,83.9,18690,6452,714,810,88.1,470,540,87.0,43,83,51.8,1,1.2,1.5,-0.2,10,90,23,7,114,Matches,cf182add
 1196,Ardian Ismajli,al ALB,DF,Empoli,Serie A,26,1996,22.7,864,1042,82.9,17451,6136,246,274,89.8,511,568,90.0,100,167,59.9,0,0.1,0.3,-0.1,4,46,5,1,49,Matches,6b635f5c
 1197,Yanis Issoufou,fr FRA,MF,Montpellier,Ligue 1,16,2006,0.1,2,2,100.0,71,7,1,1,100.0,0,0,,1,1,100.0,0,0.0,0.0,0.0,0,0,0,0,1,Matches,5d004b30
@@ -1236,8 +1236,8 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1235,Joelinton,br BRA,MFFW,Newcastle United,Premier League,26,1996,14.2,524,627,83.6,7295,1898,312,350,89.1,166,191,86.9,19,25,76.0,1,2.8,1.1,-1.8,23,38,9,0,56,Matches,c17bfb65
 1236,Ben Johnson,eng ENG,DFFW,West Ham,Premier League,23,2000,6.0,246,334,73.7,3816,1465,141,156,90.4,88,121,72.7,14,33,42.4,0,0.0,0.1,0.0,0,18,1,0,22,Matches,9319781b
 1237,Brennan Johnson,wls WAL,FW,Tottenham,Premier League,22,2001,23.2,519,728,71.3,7315,1778,333,405,82.2,158,217,72.8,15,45,33.3,10,8.1,4.5,+1.9,45,32,39,10,72,Matches,0cd31129
-1238,Brennan Johnson,wls WAL,FWMF,Nott'ham Forest,Premier League,22,2001,2.6,47,61,77.0,671,143,25,29,86.2,17,22,77.3,2,2,100.0,0,0.2,0.0,-0.2,1,2,0,0,1,Matches,0cd31129
-1239,Joseph Johnson,eng ENG,DF,Luton Town,Premier League,17,2006,0.9,30,36,83.3,646,228,9,9,100.0,16,17,94.1,5,9,55.6,0,0.0,0.0,0.0,0,1,0,0,2,Matches,d9e7c4da
+1238,Brennan Johnson,wls WAL,FWMF,Nottingham Forest,Premier League,22,2001,2.6,47,61,77.0,671,143,25,29,86.2,17,22,77.3,2,2,100.0,0,0.2,0.0,-0.2,1,2,0,0,1,Matches,0cd31129
+1239,Joseph Johnson,eng ENG,DF,Luton,Premier League,17,2006,0.9,30,36,83.3,646,228,9,9,100.0,16,17,94.1,5,9,55.6,0,0.0,0.0,0.0,0,1,0,0,2,Matches,d9e7c4da
 1240,Sam Johnstone,eng ENG,GK,Crystal Palace,Premier League,30,1993,20.0,343,599,57.3,11568,8793,45,46,97.8,143,147,97.3,155,401,38.7,0,0.0,0.0,0.0,0,13,0,0,0,Matches,9e5708be
 1241,Curtis Jones,eng ENG,MF,Liverpool,Premier League,22,2001,13.0,707,776,91.1,10366,2136,405,428,94.6,257,278,92.4,22,30,73.3,1,0.7,1.1,+0.3,11,64,14,1,74,Matches,4fb9c88f
 1242,Frenkie de Jong,nl NED,MF,Barcelona,La Liga,26,1997,18.2,1542,1674,92.1,23581,7114,872,905,96.4,558,608,91.8,80,104,76.9,0,2.2,4.9,-2.2,21,187,34,7,168,Matches,1bacc518
@@ -1254,7 +1254,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1253,Kamil Jóźwiak,pl POL,MF,Granada,La Liga,25,1998,6.3,128,180,71.1,1844,495,70,87,80.5,44,61,72.1,6,13,46.2,1,1.2,0.6,-0.2,5,9,11,1,21,Matches,bd4e3824
 1254,Juanmi,es ESP,FW,Cadiz,La Liga,30,1993,9.7,181,226,80.1,2358,371,113,132,85.6,53,64,82.8,5,9,55.6,1,1.6,0.6,-0.6,11,6,4,1,12,Matches,84399660
 1255,Juanpe,es ESP,DF,Girona,La Liga,32,1991,8.3,500,550,90.9,9290,3239,174,181,96.1,281,299,94.0,39,61,63.9,0,0.0,0.0,0.0,0,8,0,0,14,Matches,1633fc8a
-1256,Mads Juel Andersen,dk DEN,DF,Luton Town,Premier League,25,1997,4.4,87,117,74.4,1570,766,41,47,87.2,37,48,77.1,9,19,47.4,0,0.0,0.0,0.0,0,7,0,0,7,Matches,f098c03e
+1256,Mads Juel Andersen,dk DEN,DF,Luton,Premier League,25,1997,4.4,87,117,74.4,1570,766,41,47,87.2,37,48,77.1,9,19,47.4,0,0.0,0.0,0.0,0,7,0,0,7,Matches,f098c03e
 1257,Christopher Jullien,fr FRA,DF,Montpellier,Ligue 1,30,1993,13.7,441,512,86.1,8894,2972,114,135,84.4,256,278,92.1,56,81,69.1,0,0.1,0.1,-0.1,2,16,1,1,26,Matches,f323d995
 1258,Anthony Jung,de GER,DF,Werder Bremen,Bundesliga,31,1991,28.7,1553,1795,86.5,28008,10414,629,674,93.3,764,842,90.7,137,215,63.7,0,0.3,0.9,-0.3,6,90,10,4,107,Matches,de838f86
 1259,Eli Junior Kroupi,fr FRA,FWMF,Lorient,Ligue 1,17,2006,12.0,216,279,77.4,3455,537,108,132,81.8,76,95,80.0,18,26,69.2,3,1.8,1.1,+1.2,11,10,7,2,12,Matches,b2fe86e5
@@ -1264,14 +1264,14 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1263,Josip Juranović,hr CRO,DF,Union Berlin,Bundesliga,27,1995,14.4,513,725,70.8,10311,4748,191,215,88.8,224,291,77.0,89,182,48.9,2,2.3,3.0,-0.3,39,48,16,7,52,Matches,0a084b35
 1264,David Jurásek,cz CZE,DF,Hoffenheim,Bundesliga,22,2000,5.5,166,256,64.8,2795,1295,71,81,87.7,84,120,70.0,8,36,22.2,1,1.0,0.8,0.0,6,6,6,5,12,Matches,d7a03bf3
 1265,Julian Justvan,de GER,FWMF,Hoffenheim,Bundesliga,25,1998,0.5,35,55,63.6,560,223,20,27,74.1,12,19,63.2,3,5,60.0,0,0.0,0.1,0.0,0,4,3,1,5,Matches,ab1a72b4
-1266,Julian Justvan,de GER,MFFW,Darmstadt 98,Bundesliga,25,1998,11.4,294,408,72.1,5159,2012,147,172,85.5,105,139,75.5,35,67,52.2,2,2.5,3.5,-0.5,23,34,19,3,56,Matches,ab1a72b4
+1266,Julian Justvan,de GER,MFFW,Darmstadt,Bundesliga,25,1998,11.4,294,408,72.1,5159,2012,147,172,85.5,105,139,75.5,35,67,52.2,2,2.5,3.5,-0.5,23,34,19,3,56,Matches,ab1a72b4
 1267,Filip Jørgensen,dk DEN,GK,Villarreal,La Liga,21,2002,36.0,1052,1303,80.7,26376,18619,240,241,99.6,570,572,99.7,238,482,49.4,0,0.0,0.0,0.0,0,13,0,0,0,Matches,0107757e
 1268,Mathias Jørgensen,dk DEN,DF,Brentford,Premier League,33,1990,12.1,446,593,75.2,7338,3528,227,262,86.6,186,238,78.2,27,62,43.5,0,0.9,0.5,-0.9,7,52,9,1,50,Matches,0db5d2c8
 1269,Mohamed Kaba,fr FRA,MF,Lecce,Serie A,21,2001,15.3,349,438,79.7,5938,1877,158,190,83.2,159,183,86.9,24,37,64.9,0,0.9,0.8,-0.9,13,38,8,2,60,Matches,517cfb19
 1270,Sory Kaba,gn GUI,FW,Las Palmas,La Liga,28,1995,8.0,111,158,70.3,1644,224,61,82,74.4,31,40,77.5,9,13,69.2,1,0.3,0.4,+0.7,6,7,1,0,12,Matches,d29202c2
 1271,Ozan Kabak,tr TUR,DF,Hoffenheim,Bundesliga,23,2000,25.4,1159,1358,85.3,21139,7126,441,488,90.4,618,677,91.3,93,172,54.1,0,1.1,1.7,-1.1,8,92,16,2,110,Matches,2d61d13a
 1272,Christian Kabasele,be BEL,DF,Udinese,Serie A,32,1991,9.6,257,314,81.8,4608,1602,100,113,88.5,127,147,86.4,21,36,58.3,1,0.5,0.0,+0.5,2,22,0,0,22,Matches,914ab9a1
-1273,Issa Kaboré,bf BFA,DF,Luton Town,Premier League,22,2001,19.2,533,759,70.2,8402,3289,277,324,85.5,203,287,70.7,35,78,44.9,2,2.1,1.9,-0.1,16,30,18,13,54,Matches,c066d1a5
+1273,Issa Kaboré,bf BFA,DF,Luton,Premier League,22,2001,19.2,533,759,70.2,8402,3289,277,324,85.5,203,287,70.7,35,78,44.9,2,2.1,1.9,-0.1,16,30,18,13,54,Matches,c066d1a5
 1274,Abdoul Kader Bamba,fr FRA,FWMF,Nantes,Ligue 1,29,1994,6.8,267,336,79.5,4343,1133,127,151,84.1,103,128,80.5,22,36,61.1,1,1.0,1.1,0.0,11,18,10,2,31,Matches,32f3d97e
 1275,Yaya Kader Fofana,ml MLI,MFDF,Reims,Ligue 1,19,2004,0.4,12,21,57.1,143,59,8,13,61.5,2,3,66.7,0,3,0.0,0,0.0,0.0,0.0,0,0,0,0,3,Matches,cedc53d2
 1276,Pavel Kadeřábek,cz CZE,DFFW,Hoffenheim,Bundesliga,31,1992,26.8,888,1273,69.8,14192,5402,465,555,83.8,361,523,69.0,52,135,38.5,4,4.7,5.4,-0.7,36,70,31,21,88,Matches,79c90e45
@@ -1279,7 +1279,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1278,Tino Kadewere,zw ZIM,FWMF,Nantes,Ligue 1,27,1996,8.7,154,213,72.3,2092,639,83,102,81.4,54,73,74.0,5,15,33.3,0,1.8,0.9,-1.8,12,13,9,1,26,Matches,7d08063d
 1279,Kaiky,br BRA,DF,Almeria,La Liga,19,2004,5.8,217,263,82.5,4550,1819,58,67,86.6,122,133,91.7,30,52,57.7,0,0.0,0.0,0.0,1,18,1,0,24,Matches,55634fb8
 1280,Florian Kainz,at AUT,MFFW,FC Cologne,Bundesliga,30,1992,24.4,770,1119,68.8,14316,4837,322,379,85.0,328,419,78.3,100,248,40.3,4,3.3,4.5,+0.7,53,76,31,13,124,Matches,94c18565
-1281,Sasa Kalajdzic,at AUT,FW,Wolves,Premier League,26,1997,1.8,38,60,63.3,507,130,22,33,66.7,10,16,62.5,2,5,40.0,0,1.0,0.3,-1.0,4,1,2,0,5,Matches,15f24fe7
+1281,Sasa Kalajdzic,at AUT,FW,Wolverhampton Wanderers,Premier League,26,1997,1.8,38,60,63.3,507,130,22,33,66.7,10,16,62.5,2,5,40.0,0,1.0,0.3,-1.0,4,1,2,0,5,Matches,15f24fe7
 1282,Sasa Kalajdzic,at AUT,FW,Eintracht Frankfurt,Bundesliga,26,1997,3.6,61,79,77.2,887,179,32,38,84.2,18,27,66.7,5,6,83.3,1,0.5,0.1,+0.5,3,7,1,1,8,Matches,15f24fe7
 1283,Arnaud Kalimuendo,fr FRA,FW,Rennes,Ligue 1,21,2002,23.8,405,502,80.7,5966,893,222,265,83.8,137,155,88.4,24,26,92.3,1,2.7,2.3,-1.7,28,31,12,1,37,Matches,bf4c41f9
 1284,Yayah Kallon,sl SLE,FW,Verona,Serie A,22,2001,0.0,1,3,33.3,10,9,1,3,33.3,0,0,,0,0,,0,0.0,0.0,0.0,0,1,0,0,1,Matches,f95f49d2
@@ -1291,7 +1291,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1290,Hassane Kamara,ci CIV,DF,Udinese,Serie A,29,1994,24.7,600,818,73.3,9975,4049,293,337,86.9,239,311,76.8,52,114,45.6,1,2.8,1.8,-1.8,21,42,25,17,81,Matches,19a12bed
 1291,Willy Kambwala,fr FRA,DF,Manchester United,Premier League,18,2004,3.7,163,192,84.9,2765,960,74,78,94.9,85,95,89.5,3,14,21.4,0,0.0,0.0,0.0,0,7,0,0,8,Matches,6a7353d7
 1292,Jakub Kamiński,pl POL,FWMF,Wolfsburg,Bundesliga,21,2002,5.3,152,195,77.9,2424,587,84,95,88.4,60,74,81.1,8,20,40.0,2,0.7,1.7,+1.3,6,11,7,2,18,Matches,202b3b68
-1293,Thomas Kaminski,be BEL,GK,Luton Town,Premier League,30,1992,37.8,869,1468,59.2,27614,22188,173,175,98.9,329,344,95.6,362,937,38.6,0,0.0,0.1,0.0,1,44,2,0,1,Matches,1caa93a5
+1293,Thomas Kaminski,be BEL,GK,Luton,Premier League,30,1992,37.8,869,1468,59.2,27614,22188,173,175,98.9,329,344,95.6,362,937,38.6,0,0.0,0.1,0.0,1,44,2,0,1,Matches,1caa93a5
 1294,Kevin Kampl,si SVN,MF,RasenBallsport Leipzig,Bundesliga,32,1990,15.1,931,1019,91.4,15489,3486,424,446,95.1,428,460,93.0,58,76,76.3,0,1.8,1.5,-1.8,15,67,12,3,88,Matches,b825a650
 1295,Harry Kane,eng ENG,FW,Bayern Munich,Bundesliga,30,1993,31.5,474,664,71.4,8936,2715,216,266,81.2,166,222,74.8,74,114,64.9,8,6.4,5.9,+1.6,31,66,41,6,102,Matches,21a66f6a
 1296,Lee Kang-in,kr KOR,FWMF,Paris Saint Germain,Ligue 1,22,2001,16.3,835,1011,82.6,12568,3151,462,507,91.1,284,339,83.8,54,110,49.1,4,2.3,4.2,+1.7,27,58,31,8,103,Matches,8455ad90
@@ -1299,7 +1299,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1298,Yann Karamoh,fr FRA,FWMF,Montpellier,Ligue 1,25,1998,3.2,63,88,71.6,887,140,35,46,76.1,18,24,75.0,4,7,57.1,0,0.2,0.2,-0.2,5,3,3,1,3,Matches,8b66d9cc
 1299,Atakan Karazor,,MF,VfB Stuttgart,Bundesliga,26,1996,29.1,1698,1900,89.4,24791,6910,946,1027,92.1,637,684,93.1,55,75,73.3,4,2.6,2.5,+1.4,29,138,19,3,142,Matches,5762be5c
 1300,Ayman Kari,fr FRA,MF,Lorient,Ligue 1,18,2004,9.9,338,386,87.6,4814,925,181,204,88.7,118,131,90.1,13,19,68.4,1,0.8,1.0,+0.2,13,25,12,0,37,Matches,0e8d7b6c
-1301,Emir Karic,at AUT,DF,Darmstadt 98,Bundesliga,26,1997,19.8,953,1210,78.8,15725,6219,492,551,89.3,361,439,82.2,81,152,53.3,0,1.3,1.9,-1.3,21,89,27,9,115,Matches,7bbb0ac4
+1301,Emir Karic,at AUT,DF,Darmstadt,Bundesliga,26,1997,19.8,953,1210,78.8,15725,6219,492,551,89.3,361,439,82.2,81,152,53.3,0,1.3,1.9,-1.3,21,89,27,9,115,Matches,7bbb0ac4
 1302,Loris Karius,de GER,GK,Newcastle United,Premier League,30,1993,1.0,21,37,56.8,507,279,4,4,100.0,14,14,100.0,3,18,16.7,0,0.0,0.0,0.0,0,0,0,0,0,Matches,32e7ce92
 1303,Jesper Karlsson,se SWE,FW,Bologna,Serie A,25,1998,3.8,103,152,67.8,1738,429,49,61,80.3,38,52,73.1,11,25,44.0,0,0.3,0.4,-0.3,5,8,7,1,16,Matches,7952d0c2
 1304,Jon Karrikaburu,es ESP,MFFW,Alaves,La Liga,20,2002,0.2,2,5,40.0,58,9,0,2,0.0,1,1,100.0,1,1,100.0,0,0.0,0.0,0.0,0,0,0,0,0,Matches,211589b8
@@ -1324,7 +1324,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1323,Lloyd Kelly,eng ENG,DF,Bournemouth,Premier League,24,1998,17.3,673,906,74.3,13526,4407,234,277,84.5,341,400,85.3,90,191,47.1,1,1.2,0.8,-0.2,9,76,7,4,56,Matches,f31def1e
 1324,Omari Kellyman,eng ENG,FW,Aston Villa,Premier League,17,2005,0.4,6,7,85.7,78,11,4,5,80.0,2,2,100.0,0,0,,0,0.0,0.0,0.0,0,2,0,0,0,Matches,aa888da7
 1325,Aljoscha Kemlein,de GER,MF,Union Berlin,Bundesliga,18,2004,0.3,7,9,77.8,122,52,3,4,75.0,3,3,100.0,1,1,100.0,0,0.0,0.0,0.0,0,1,0,0,0,Matches,4658e309
-1326,Tobias Kempe,de GER,MF,Darmstadt 98,Bundesliga,34,1989,15.0,413,557,74.1,6804,2095,223,251,88.8,127,160,79.4,48,101,47.5,2,2.1,2.5,-0.1,28,38,5,3,44,Matches,d7cdfd81
+1326,Tobias Kempe,de GER,MF,Darmstadt,Bundesliga,34,1989,15.0,413,557,74.1,6804,2095,223,251,88.8,127,160,79.4,48,101,47.5,2,2.1,2.5,-0.1,28,38,5,3,44,Matches,d7cdfd81
 1327,Milos Kerkez,hu HUN,DF,Bournemouth,Premier League,19,2003,21.9,613,844,72.6,9811,3390,322,375,85.9,237,333,71.2,43,94,45.7,1,0.8,1.0,+0.2,12,34,14,9,44,Matches,0ad53bdc
 1328,Kaine Kesler-Hayden,eng ENG,MFDF,Aston Villa,Premier League,20,2002,0.1,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,9b066938
 1329,Reda Khadra,de GER,FWMF,Reims,Ligue 1,22,2001,15.2,289,389,74.3,4676,1169,131,162,80.9,118,149,79.2,21,41,51.2,3,3.5,2.4,-0.5,22,21,19,9,40,Matches,88acf83f
@@ -1333,12 +1333,12 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1332,Abdukodir Khusanov,uz UZB,DF,Lens,Ligue 1,19,2004,9.0,383,439,87.2,7213,2415,140,152,92.1,203,219,92.7,36,59,61.0,0,0.1,0.2,-0.1,1,28,1,0,23,Matches,d17ce930
 1333,Kiké,es ESP,FWMF,Alaves,La Liga,33,1989,15.8,200,301,66.4,2973,589,105,147,71.4,67,95,70.5,11,19,57.9,2,2.0,1.4,0.0,18,15,8,2,32,Matches,e897d8ba
 1334,Luca Kilian,de GER,DF,FC Cologne,Bundesliga,23,1999,7.1,241,317,76.0,4399,1173,87,103,84.5,131,154,85.1,19,51,37.3,0,0.0,0.0,0.0,1,11,0,0,12,Matches,610aa1e9
-1335,Max Kilman,eng ENG,DF,Wolves,Premier League,26,1997,38.0,1979,2309,85.7,36846,13119,766,824,93.0,1008,1087,92.7,183,346,52.9,0,1.4,1.1,-1.4,17,109,11,1,117,Matches,d0f72bf1
+1335,Max Kilman,eng ENG,DF,Wolverhampton Wanderers,Premier League,26,1997,38.0,1979,2309,85.7,36846,13119,766,824,93.0,1008,1087,92.7,183,346,52.9,0,1.4,1.1,-1.4,17,109,11,1,117,Matches,d0f72bf1
 1336,Joshua Kimmich,de GER,MFDF,Bayern Munich,Bundesliga,28,1995,24.2,1951,2267,86.1,35635,10089,809,864,93.6,923,1013,91.1,187,320,58.4,6,7.1,9.3,-1.1,72,188,51,18,229,Matches,49296448
 1337,Jakub Kiwior,pl POL,DF,Arsenal,Premier League,23,2000,10.5,523,625,83.7,8555,3042,270,303,89.1,214,249,85.9,34,58,58.6,3,0.9,0.6,+2.1,6,43,8,3,55,Matches,dc3e663e
 1338,Simon Kjær,dk DEN,DF,AC Milan,Serie A,34,1989,13.0,735,833,88.2,13856,5025,257,274,93.8,409,435,94.0,62,108,57.4,1,0.8,0.6,+0.2,4,42,1,0,52,Matches,8b8a56ce
 1339,Davy Klaassen,nl NED,MF,Inter,Serie A,30,1993,2.3,82,95,86.3,1290,289,46,52,88.5,28,29,96.6,6,7,85.7,0,0.2,0.2,-0.2,3,6,1,0,7,Matches,15fd5593
-1340,Christoph Klarer,at AUT,DF,Darmstadt 98,Bundesliga,23,2000,26.2,1044,1200,87.0,20473,6575,336,363,92.6,586,633,92.6,111,176,63.1,2,0.9,1.0,+1.1,12,58,4,1,64,Matches,144e8717
+1340,Christoph Klarer,at AUT,DF,Darmstadt,Bundesliga,23,2000,26.2,1044,1200,87.0,20473,6575,336,363,92.6,586,633,92.6,111,176,63.1,2,0.9,1.0,+1.1,12,58,4,1,64,Matches,144e8717
 1341,Tim Kleindienst,de GER,FW,FC Heidenheim,Bundesliga,27,1995,31.9,516,874,59.0,7296,1708,295,462,63.9,147,231,63.6,30,47,63.8,3,3.3,2.0,-0.3,27,58,10,2,73,Matches,258a6f4d
 1342,Lukas Klostermann,de GER,DF,RasenBallsport Leipzig,Bundesliga,27,1996,16.0,1035,1155,89.6,19235,6293,340,372,91.4,610,647,94.3,77,112,68.8,0,0.4,0.9,-0.4,5,77,7,0,90,Matches,ca8033cb
 1343,Justin Kluivert,nl NED,MFFW,Bournemouth,Premier League,24,1999,21.3,288,421,68.4,4393,1193,147,194,75.8,104,137,75.9,18,32,56.3,1,1.9,1.6,-0.9,21,10,24,2,50,Matches,4c3a6744
@@ -1374,7 +1374,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1373,Therence Koudou,fr FRA,DF,Reims,Ligue 1,18,2004,3.5,142,173,82.1,2412,704,62,69,89.9,66,73,90.4,10,21,47.6,0,0.3,0.3,-0.3,5,8,3,2,14,Matches,059a83b8
 1374,Jules Koundé,fr FRA,DF,Barcelona,La Liga,24,1998,32.2,2478,2757,89.9,41514,13135,1192,1263,94.4,1090,1164,93.6,156,237,65.8,2,2.2,2.6,-0.2,23,267,20,5,245,Matches,4d1666ff
 1375,Boubakar Kouyaté,ml MLI,DF,Montpellier,Ligue 1,26,1997,21.4,719,873,82.4,14305,5064,217,251,86.5,387,436,88.8,99,155,63.9,2,1.3,0.4,+0.7,5,49,1,0,58,Matches,562a4799
-1376,Cheikhou Kouyaté,sn SEN,MF,Nott'ham Forest,Premier League,33,1989,2.4,47,74,63.5,604,159,32,43,74.4,11,19,57.9,1,2,50.0,0,0.0,0.0,0.0,1,3,0,0,5,Matches,8d3c902d
+1376,Cheikhou Kouyaté,sn SEN,MF,Nottingham Forest,Premier League,33,1989,2.4,47,74,63.5,604,159,32,43,74.4,11,19,57.9,1,2,50.0,0,0.0,0.0,0.0,1,3,0,0,5,Matches,8d3c902d
 1377,Mateo Kovačić,hr CRO,MF,Manchester City,Premier League,29,1994,17.2,1435,1527,94.0,20506,4603,835,862,96.9,514,544,94.5,41,57,71.9,0,1.6,1.9,-1.6,21,120,15,0,100,Matches,79c0821a
 1378,Viktor Kovalenko,ua UKR,MF,Empoli,Serie A,27,1996,6.8,179,250,71.6,2662,743,100,122,82.0,63,87,72.4,11,27,40.7,1,0.8,0.6,+0.2,8,15,5,2,20,Matches,9d60028d
 1379,Matej Kovar,cz CZE,GK,Bayer Leverkusen,Bundesliga,23,2000,1.0,17,17,100.0,376,274,4,4,100.0,9,9,100.0,4,4,100.0,0,0.0,0.0,0.0,0,0,0,0,0,Matches,bc67a0e1
@@ -1459,7 +1459,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1458,Stefan Lekovic,rs SRB,DF,Villarreal,La Liga,19,2004,0.3,12,14,85.7,210,29,7,8,87.5,3,4,75.0,2,2,100.0,0,0.0,0.0,0.0,0,0,0,0,0,Matches,d633fd46
 1459,Iñigo Lekue,es ESP,DF,Athletic Club,La Liga,30,1993,22.2,1012,1273,79.5,17290,6247,440,499,88.2,489,577,84.7,69,143,48.3,2,1.1,0.9,+0.9,17,86,16,7,119,Matches,59b7d823
 1460,Thomas Lemar,fr FRA,MF,Atletico Madrid,La Liga,27,1995,1.8,71,84,84.5,1019,285,41,46,89.1,25,29,86.2,2,6,33.3,0,0.0,0.1,0.0,1,10,1,0,13,Matches,4dbd0916
-1461,Mario Lemina,ga GAB,MF,Wolves,Premier League,29,1993,33.0,1261,1470,85.8,20364,5341,654,718,91.1,485,550,88.2,92,146,63.0,1,1.5,1.3,-0.5,20,65,8,3,76,Matches,2b471f99
+1461,Mario Lemina,ga GAB,MF,Wolverhampton Wanderers,Premier League,29,1993,33.0,1261,1470,85.8,20364,5341,654,718,91.1,485,550,88.2,92,146,63.0,1,1.5,1.3,-0.5,20,65,8,3,76,Matches,2b471f99
 1462,Álvaro Lemos,es ESP,DF,Las Palmas,La Liga,30,1993,2.8,145,185,78.4,2198,488,89,95,93.7,46,60,76.7,9,23,39.1,0,0.0,0.1,0.0,0,12,2,0,17,Matches,31d45cc8
 1463,Ruben Lendinez,es ESP,DF,Valencia,La Liga,20,2003,0.1,6,6,100.0,90,11,3,3,100.0,3,3,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,755da865
 1464,Clément Lenglet,fr FRA,DF,Aston Villa,Premier League,28,1995,12.8,822,918,89.5,15524,5173,302,319,94.7,431,457,94.3,82,127,64.6,1,0.8,0.5,+0.2,2,34,3,0,51,Matches,4f28a6ff
@@ -1494,7 +1494,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1493,Stanislav Lobotka,sk SVK,MF,Napoli,Serie A,28,1994,36.5,2081,2278,91.4,34504,8906,999,1071,93.3,885,945,93.7,152,192,79.2,1,1.3,1.6,-0.3,23,212,22,1,188,Matches,e1cbb531
 1494,Manuel Locatelli,it ITA,MF,Juventus,Serie A,25,1998,33.4,1703,1988,85.7,34595,11134,578,638,90.6,848,926,91.6,259,363,71.3,4,1.4,2.4,+2.6,26,229,30,5,232,Matches,a8a874f1
 1495,Bradley Locko,fr FRA,DF,Brest,Ligue 1,21,2002,32.9,1544,1852,83.4,25861,8098,760,863,88.1,607,701,86.6,127,205,62.0,3,1.6,1.9,+1.4,24,109,37,26,129,Matches,40221fa7
-1496,Tom Lockyer,wls WAL,DF,Luton Town,Premier League,28,1994,13.0,301,422,71.3,6628,3120,81,104,77.9,158,189,83.6,57,113,50.4,1,0.6,0.3,+0.4,3,37,4,0,37,Matches,37118440
+1496,Tom Lockyer,wls WAL,DF,Luton,Premier League,28,1994,13.0,301,422,71.3,6628,3120,81,104,77.9,158,189,83.6,57,113,50.4,1,0.6,0.3,+0.4,3,37,4,0,37,Matches,37118440
 1497,Renan Lodi,br BRA,DF,Marseille,Ligue 1,25,1998,13.7,579,748,77.4,9900,2568,252,283,89.0,264,325,81.2,47,95,49.5,0,1.3,1.3,-1.3,14,37,11,7,51,Matches,ed9f7cfe
 1498,Ruben Loftus-Cheek,eng ENG,MF,AC Milan,Serie A,27,1996,23.0,619,733,84.4,8563,1765,380,420,90.5,185,221,83.7,25,36,69.4,1,2.4,2.0,-1.4,25,50,12,1,74,Matches,e97fd090
 1499,Elysée Logbo,fr FRA,FW,Le Havre,Ligue 1,19,2004,2.8,31,40,77.5,349,37,18,23,78.3,7,10,70.0,1,2,50.0,0,0.1,0.2,-0.1,3,2,0,0,2,Matches,daa11a4f
@@ -1555,7 +1555,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1554,Gabriel Magalhães,br BRA,DF,Arsenal,Premier League,25,1997,33.8,1914,2157,88.7,32123,10388,841,885,95.0,942,1013,93.0,108,199,54.3,0,0.7,0.7,-0.7,3,143,9,1,117,Matches,67ac5bb8
 1555,Soungoutou Magassa,fr FRA,DFMF,Monaco,Ligue 1,19,2003,15.0,871,998,87.3,16582,5928,300,331,90.6,470,511,92.0,87,129,67.4,0,0.1,0.5,-0.1,2,86,2,1,92,Matches,dfc5d4fa
 1556,Giulio Maggiore,it ITA,MF,Salernitana,Serie A,25,1998,20.0,619,797,77.7,10161,3055,298,353,84.4,250,298,83.9,50,86,58.1,2,1.1,0.8,+0.9,11,58,4,1,64,Matches,957e4c87
-1557,Matej Maglica,hr CRO,DF,Darmstadt 98,Bundesliga,24,1998,18.9,759,999,76.0,15428,5811,237,265,89.4,409,475,86.1,105,224,46.9,0,0.7,1.0,-0.7,9,60,5,0,62,Matches,36cf2caf
+1557,Matej Maglica,hr CRO,DF,Darmstadt,Bundesliga,24,1998,18.9,759,999,76.0,15428,5811,237,265,89.4,409,475,86.1,105,224,46.9,0,0.7,1.0,-0.7,9,60,5,0,62,Matches,36cf2caf
 1558,Giangiacomo Magnani,it ITA,DF,Verona,Serie A,27,1995,27.2,785,994,79.0,17901,6086,187,223,83.9,454,513,88.5,138,233,59.2,0,0.2,0.5,-0.2,6,76,2,1,79,Matches,cce9f582
 1559,Hugo Magnetti,fr FRA,MF,Brest,Ligue 1,25,1998,26.0,1008,1143,88.2,16762,3382,435,491,88.6,464,499,93.0,64,87,73.6,0,1.8,2.5,-1.8,24,92,13,7,101,Matches,d4d35152
 1560,Yohann Magnin,fr FRA,MF,Clermont Foot,Ligue 1,26,1997,18.7,698,836,83.5,12081,2932,313,368,85.1,290,333,87.1,72,95,75.8,0,0.7,1.1,-0.7,9,59,7,4,71,Matches,caa7aaea
@@ -1596,12 +1596,12 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1595,Reinildo Mandava,mz MOZ,DF,Atletico Madrid,La Liga,29,1994,8.1,353,414,85.3,5330,2062,190,210,90.5,140,157,89.2,15,29,51.7,1,0.6,0.5,+0.4,5,21,3,1,36,Matches,c20bdcd7
 1596,Aïssa Mandi,dz ALG,DF,Villarreal,La Liga,31,1991,12.4,671,734,91.4,13380,5393,235,257,91.4,343,355,96.6,88,108,81.5,0,0.7,0.4,-0.7,2,57,4,0,55,Matches,fbd6378b
 1597,Rolando Mandragora,it ITA,MF,Fiorentina,Serie A,26,1997,17.6,606,761,79.6,10908,3071,265,306,86.6,256,292,87.7,69,115,60.0,3,1.6,1.7,+1.4,13,83,20,3,93,Matches,c7259b83
-1598,Orel Mangala,be BEL,MF,Nott'ham Forest,Premier League,25,1998,17.4,570,646,88.2,9021,2312,292,321,91.0,225,247,91.1,37,47,78.7,0,0.2,0.3,-0.2,6,39,1,0,45,Matches,a572e291
+1598,Orel Mangala,be BEL,MF,Nottingham Forest,Premier League,25,1998,17.4,570,646,88.2,9021,2312,292,321,91.0,225,247,91.1,37,47,78.7,0,0.2,0.3,-0.2,6,39,1,0,45,Matches,a572e291
 1599,Orel Mangala,be BEL,MF,Lyon,Ligue 1,25,1998,4.4,154,182,84.6,2433,634,66,77,85.7,66,72,91.7,11,17,64.7,0,0.7,0.6,-0.7,7,17,2,0,26,Matches,a572e291
 1600,Vito Mannone,it ITA,GK,Lille,Ligue 1,35,1988,1.0,27,38,71.1,772,553,5,5,100.0,13,13,100.0,9,20,45.0,0,0.0,0.0,0.0,0,2,0,0,0,Matches,c4173f1a
 1601,Kostas Manolas,gr GRE,DF,Salernitana,Serie A,32,1991,5.4,276,303,91.1,5479,1918,73,78,93.6,176,182,96.7,22,35,62.9,0,0.1,0.0,-0.1,1,7,3,1,10,Matches,c707411f
 1602,Javier Manquillo,es ESP,DFMF,Celta Vigo,La Liga,29,1994,8.3,357,436,81.9,5551,2183,179,198,90.4,160,193,82.9,11,26,42.3,1,0.2,0.4,+0.8,1,22,4,0,25,Matches,758dd7f0
-1603,Braydon Manu,gh GHA,MF,Darmstadt 98,Bundesliga,26,1997,1.9,24,33,72.7,353,119,14,16,87.5,9,11,81.8,1,3,33.3,0,0.1,0.0,-0.1,3,4,0,0,1,Matches,e9a97974
+1603,Braydon Manu,gh GHA,MF,Darmstadt,Bundesliga,26,1997,1.9,24,33,72.7,353,119,14,16,87.5,9,11,81.8,1,3,33.3,0,0.1,0.0,-0.1,3,4,0,0,1,Matches,e9a97974
 1604,Benson Manuel,ao ANG,MFFW,Burnley,Premier League,26,1997,1.3,48,59,81.4,693,153,27,27,100.0,16,22,72.7,3,4,75.0,0,0.0,0.2,0.0,1,2,3,2,2,Matches,d7f99582
 1605,Faitout Maouassa,fr FRA,DFMF,Granada,La Liga,25,1998,2.5,58,97,59.8,926,409,27,39,69.2,24,29,82.8,5,22,22.7,1,0.5,0.4,+0.5,5,4,1,1,6,Matches,e54a9890
 1606,Faitout Maouassa,fr FRA,MFDF,Lens,Ligue 1,25,1998,0.8,20,29,69.0,313,129,12,17,70.6,6,7,85.7,1,3,33.3,0,0.1,0.1,-0.1,2,0,1,1,0,Matches,e54a9890
@@ -1701,13 +1701,13 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1700,Oliver McBurnie,sct SCO,FW,Sheffield United,Premier League,27,1996,14.2,242,408,59.3,2917,746,163,256,63.7,57,97,58.8,4,7,57.1,3,2.0,2.0,+1.0,12,27,5,1,30,Matches,78b8ac63
 1701,James McConnell,eng ENG,MF,Liverpool,Premier League,18,2004,0.0,5,6,83.3,93,29,2,2,100.0,3,3,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,1,Matches,bf973eeb
 1702,John McGinn,sct SCO,MFFW,Aston Villa,Premier League,28,1994,33.3,972,1223,79.5,17953,5844,434,489,88.8,396,462,85.7,130,217,59.9,4,4.6,4.9,-0.6,44,124,52,14,189,Matches,90f91999
-1703,Scott McKenna,sct SCO,DF,Nott'ham Forest,Premier League,26,1996,4.6,137,186,73.7,2769,1280,38,48,79.2,82,109,75.2,17,28,60.7,0,0.2,0.2,-0.2,3,10,3,0,10,Matches,4e5a4cbc
+1703,Scott McKenna,sct SCO,DF,Nottingham Forest,Premier League,26,1996,4.6,137,186,73.7,2769,1280,38,48,79.2,82,109,75.2,17,28,60.7,0,0.2,0.2,-0.2,3,10,3,0,10,Matches,4e5a4cbc
 1704,Weston McKennie,us USA,MFDF,Juventus,Serie A,24,1998,28.8,898,1172,76.6,15437,4433,456,541,84.3,328,430,76.3,104,148,70.3,7,3.9,3.2,+3.1,41,52,28,11,92,Matches,01c3aff5
 1705,Dwight McNeil,eng ENG,MFFW,Everton,Premier League,23,1999,32.1,874,1266,69.0,14956,5035,465,534,87.1,263,371,70.9,116,252,46.0,6,8.8,8.2,-2.8,69,72,54,20,114,Matches,fc15fb84
 1706,Scott McTominay,sct SCO,MFFW,Manchester United,Premier League,26,1996,21.1,528,655,80.6,7877,2012,307,356,86.2,174,206,84.5,30,41,73.2,1,0.8,0.5,+0.2,11,63,9,0,64,Matches,d93c2511
 1707,Facundo Medina,ar ARG,DF,Lens,Ligue 1,24,1999,30.2,1823,2112,86.3,32296,11954,738,813,90.8,885,958,92.4,149,256,58.2,3,1.8,2.6,+1.2,25,205,31,7,219,Matches,6f5ec8bb
 1708,Ben Mee,eng ENG,DF,Brentford,Premier League,33,1989,14.1,511,667,76.6,9030,3658,218,249,87.6,235,285,82.5,49,103,47.6,0,0.3,0.7,-0.3,6,45,4,2,49,Matches,8df7a2fb
-1709,Marvin Mehlem,de GER,MF,Darmstadt 98,Bundesliga,25,1997,16.5,448,587,76.3,7028,1674,235,279,84.2,167,200,83.5,28,51,54.9,2,1.1,1.5,+0.9,22,34,14,3,46,Matches,10876d02
+1709,Marvin Mehlem,de GER,MF,Darmstadt,Bundesliga,25,1997,16.5,448,587,76.3,7028,1674,235,279,84.2,167,200,83.5,28,51,54.9,2,1.1,1.5,+0.9,22,34,14,3,46,Matches,10876d02
 1710,Bamo Meïté,ci CIV,DF,Marseille,Ligue 1,21,2001,7.1,462,507,91.1,7455,2273,216,229,94.3,206,221,93.2,25,36,69.4,0,0.0,0.1,0.0,1,26,1,0,29,Matches,04ac78d2
 1711,Bamo Meïté,ci CIV,DF,Lorient,Ligue 1,21,2001,1.6,48,56,85.7,761,413,23,25,92.0,22,22,100.0,2,7,28.6,0,0.0,0.0,0.0,0,2,1,0,1,Matches,04ac78d2
 1712,Hannibal Mejbri,tn TUN,MFFW,Manchester United,Premier League,20,2003,1.5,31,38,81.6,442,143,21,21,100.0,7,9,77.8,3,6,50.0,0,0.4,0.5,-0.4,2,6,1,0,6,Matches,ca22ccb0
@@ -1729,7 +1729,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1728,Ferland Mendy,fr FRA,DF,Real Madrid,La Liga,28,1995,19.1,1201,1275,94.2,16396,4875,759,781,97.2,356,383,93.0,41,50,82.0,0,0.9,0.7,-0.9,11,63,10,1,84,Matches,3cefcaef
 1729,Formose Mendy,sn SEN,DF,Lorient,Ligue 1,22,2001,14.0,587,739,79.4,11323,4269,233,286,81.5,264,299,88.3,74,119,62.2,0,0.1,0.3,-0.1,2,56,4,1,61,Matches,c21983bf
 1730,Nampalys Mendy,sn SEN,MF,Lens,Ligue 1,31,1992,11.7,577,653,88.4,9505,2648,271,292,92.8,248,273,90.8,43,64,67.2,1,1.1,1.7,-0.1,9,68,12,2,84,Matches,1598599e
-1731,Teden Mengi,eng ENG,DF,Luton Town,Premier League,21,2002,27.4,728,938,77.6,14286,5525,256,296,86.5,378,431,87.7,82,177,46.3,0,0.3,0.6,-0.3,6,62,5,0,54,Matches,91748070
+1731,Teden Mengi,eng ENG,DF,Luton,Premier League,21,2002,27.4,728,938,77.6,14286,5525,256,296,86.5,378,431,87.7,82,177,46.3,0,0.3,0.6,-0.3,6,62,5,0,54,Matches,91748070
 1732,Chris Mepham,wls WAL,DF,Bournemouth,Premier League,25,1997,6.9,296,359,82.5,5965,1994,96,115,83.5,163,184,88.6,35,55,63.6,1,0.4,0.5,+0.6,3,34,4,0,25,Matches,fed96827
 1733,Jorge Meré,es ESP,DF,Cadiz,La Liga,26,1997,7.5,166,233,71.2,3605,1173,45,54,83.3,92,106,86.8,28,66,42.4,0,0.0,0.0,0.0,0,15,1,0,15,Matches,9f979eb2
 1734,Alex Meret,it ITA,GK,Napoli,Serie A,26,1997,30.8,769,914,84.1,18457,10706,137,137,100.0,447,452,98.9,185,321,57.6,0,0.1,0.0,-0.1,1,1,0,0,0,Matches,9413b19f
@@ -1793,7 +1793,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1792,Enzo Mongo,fr FRA,DF,Nantes,Ligue 1,18,2005,0.1,0,2,0.0,0,0,0,0,,0,2,0.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,575b1a7b
 1793,Ilario Monterisi,it ITA,DF,Frosinone,Serie A,21,2001,16.3,802,997,80.4,13842,6423,350,392,89.3,379,447,84.8,60,123,48.8,2,0.4,0.3,+1.6,5,47,7,1,47,Matches,31b252fc
 1794,César Montes,mx MEX,DF,Almeria,La Liga,26,1997,19.9,750,973,77.1,15594,5775,224,266,84.2,430,487,88.3,86,196,43.9,0,0.2,0.4,-0.2,4,51,7,1,52,Matches,28e957d7
-1795,Gonzalo Montiel,ar ARG,DF,Nott'ham Forest,Premier League,26,1997,8.9,292,386,75.6,4600,1987,155,172,90.1,112,154,72.7,16,38,42.1,2,1.4,0.9,+0.6,9,22,9,1,28,Matches,374d5158
+1795,Gonzalo Montiel,ar ARG,DF,Nottingham Forest,Premier League,26,1997,8.9,292,386,75.6,4600,1987,155,172,90.1,112,154,72.7,16,38,42.1,2,1.4,0.9,+0.6,9,22,9,1,28,Matches,374d5158
 1796,Lorenzo Montipò,it ITA,GK,Verona,Serie A,27,1996,37.0,783,1272,61.6,28541,23677,96,97,99.0,285,297,96.0,401,870,46.1,1,0.0,0.2,+1.0,1,49,1,0,0,Matches,c1d95617
 1797,Kieffer Moore,wls WAL,FWMF,Bournemouth,Premier League,30,1992,1.2,28,42,66.7,272,91,22,29,75.9,4,8,50.0,0,0,,0,0.2,0.3,-0.2,2,2,2,0,4,Matches,01ce9e70
 1798,Mikey Moore,eng ENG,MF,Tottenham,Premier League,15,2007,0.0,4,5,80.0,51,11,3,4,75.0,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,1,Matches,00953a9d
@@ -1807,7 +1807,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1806,Ilaix Moriba,gn GUI,MFFW,Getafe,La Liga,20,2003,6.7,150,204,73.5,2286,471,89,115,77.4,45,58,77.6,10,16,62.5,2,0.6,0.4,+1.4,5,11,4,0,21,Matches,f4c69aa6
 1807,Manu Morlanes,es ESP,MF,Mallorca,La Liga,24,1999,17.9,669,809,82.7,10611,2959,352,395,89.1,236,269,87.7,54,85,63.5,2,2.0,2.0,0.0,16,74,14,3,104,Matches,a0255c67
 1808,Nikola Moro,hr CRO,MF,Bologna,Serie A,25,1998,9.3,469,572,82.0,8059,1920,227,258,88.0,182,211,86.3,47,66,71.2,0,0.4,0.8,-0.4,11,59,10,3,58,Matches,ff579c7e
-1809,Carlton Morris,eng ENG,FWMF,Luton Town,Premier League,27,1995,31.8,484,751,64.4,6404,1199,310,415,74.7,132,209,63.2,18,34,52.9,4,2.8,1.6,+1.2,22,27,11,0,56,Matches,2da834f1
+1809,Carlton Morris,eng ENG,FWMF,Luton,Premier League,27,1995,31.8,484,751,64.4,6404,1199,310,415,74.7,132,209,63.2,18,34,52.9,4,2.8,1.6,+1.2,22,27,11,0,56,Matches,2da834f1
 1810,Cristhian Mosquera,es ESP,DF,Valencia,La Liga,19,2004,34.2,1454,1646,88.3,27551,8196,500,543,92.1,808,859,94.1,134,211,63.5,0,0.0,0.2,0.0,1,45,0,0,77,Matches,dc1ce4f5
 1811,Yerson Mosquera,co COL,DF,Villarreal,La Liga,22,2001,13.7,628,734,85.6,11494,3926,225,246,91.5,350,373,93.8,45,89,50.6,1,0.3,0.5,+0.7,5,32,3,2,36,Matches,1e159d70
 1812,Dany Mota,pt POR,FWMF,Monza,Serie A,25,1998,22.8,625,836,74.8,10962,1870,316,373,84.7,222,289,76.8,75,108,69.4,3,3.0,3.1,0.0,34,29,21,11,57,Matches,efc9e31f
@@ -1822,8 +1822,8 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1821,François Mughe,cm CMR,MFDF,Marseille,Ligue 1,19,2004,2.0,29,45,64.4,492,219,12,18,66.7,12,17,70.6,3,4,75.0,0,0.1,0.2,-0.1,2,1,5,3,7,Matches,7af655fe
 1822,Nordi Mukiele,fr FRA,DF,Paris Saint Germain,Ligue 1,25,1997,8.8,486,578,84.1,7865,2275,235,266,88.3,208,231,90.0,28,45,62.2,0,0.1,0.4,-0.1,3,20,4,1,32,Matches,ac73ec79
 1823,Samuele Mulattieri,it ITA,FWMF,Sassuolo,Serie A,22,2000,5.1,81,116,69.8,1042,85,49,67,73.1,26,31,83.9,1,5,20.0,0,0.3,0.5,-0.3,6,4,0,0,1,Matches,30297946
-1824,Andreas Müller,de GER,MF,Darmstadt 98,Bundesliga,23,2000,3.9,129,168,76.8,1945,472,73,81,90.1,48,60,80.0,5,17,29.4,0,0.0,0.1,0.0,1,10,0,0,13,Matches,2244908c
-1825,Jannik Müller,de GER,DFMF,Darmstadt 98,Bundesliga,29,1994,12.6,424,549,77.2,8305,2641,152,189,80.4,217,254,85.4,50,86,58.1,0,0.1,0.2,-0.1,2,28,4,3,31,Matches,796a5f30
+1824,Andreas Müller,de GER,MF,Darmstadt,Bundesliga,23,2000,3.9,129,168,76.8,1945,472,73,81,90.1,48,60,80.0,5,17,29.4,0,0.0,0.1,0.0,1,10,0,0,13,Matches,2244908c
+1825,Jannik Müller,de GER,DFMF,Darmstadt,Bundesliga,29,1994,12.6,424,549,77.2,8305,2641,152,189,80.4,217,254,85.4,50,86,58.1,0,0.1,0.2,-0.1,2,28,4,3,31,Matches,796a5f30
 1826,Kevin Müller,de GER,GK,FC Heidenheim,Bundesliga,32,1991,34.0,1104,1482,74.5,34968,23711,76,77,98.7,571,576,99.1,457,826,55.3,0,0.0,0.1,0.0,1,25,1,0,0,Matches,f256f213
 1827,Marcus Müller,de GER,MF,Mainz 05,Bundesliga,20,2002,0.2,3,5,60.0,53,2,1,2,50.0,2,3,66.7,0,0,,0,0.0,0.1,0.0,0,0,0,0,1,Matches,3c151571
 1828,Thomas Müller,de GER,MFFW,Bayern Munich,Bundesliga,33,1989,18.4,602,810,74.3,9003,2348,339,402,84.3,211,287,73.5,33,67,49.3,9,8.4,7.9,+0.6,51,52,43,10,82,Matches,3c6089ab
@@ -1838,7 +1838,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1837,Finley Munroe,eng ENG,MF,Aston Villa,Premier League,18,2005,0.0,1,1,100.0,16,0,0,0,,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,36625c27
 1838,Arijanet Muric,xk KVX,GK,Burnley,Premier League,24,1998,10.0,404,585,69.1,11273,8376,67,68,98.5,196,207,94.7,140,302,46.4,0,0.2,0.1,-0.2,4,16,1,0,1,Matches,99aa1a84
 1839,Luis Muriel,co COL,FWMF,Atalanta,Serie A,32,1991,4.5,170,241,70.5,2821,831,93,117,79.5,56,75,74.7,18,34,52.9,1,1.7,1.4,-0.7,15,17,11,5,24,Matches,eb2fe5b6
-1840,Murillo,br BRA,DF,Nott'ham Forest,Premier League,21,2002,31.0,1122,1459,76.9,22965,10556,387,440,88.0,571,656,87.0,154,326,47.2,2,1.2,0.6,+0.8,7,101,11,0,89,Matches,1704b0b8
+1840,Murillo,br BRA,DF,Nottingham Forest,Premier League,21,2002,31.0,1122,1459,76.9,22965,10556,387,440,88.0,571,656,87.0,154,326,47.2,2,1.2,0.6,+0.8,7,101,11,0,89,Matches,1704b0b8
 1841,Vedat Muriqi,xk KVX,FW,Mallorca,La Liga,29,1994,25.9,411,660,62.3,6079,999,225,338,66.6,130,196,66.3,26,41,63.4,2,2.6,1.8,-0.6,34,42,13,2,40,Matches,0cadc46d
 1842,Alex Murphy,ie IRL,DFFW,Newcastle United,Premier League,19,2004,0.1,17,17,100.0,275,81,10,10,100.0,5,5,100.0,2,2,100.0,0,0.0,0.0,0.0,0,2,0,0,1,Matches,f1c42eb3
 1843,Jacob Murphy,eng ENG,FWDF,Newcastle United,Premier League,28,1995,13.2,343,519,66.1,5229,2012,200,244,82.0,117,175,66.9,19,61,31.1,7,5.0,3.4,+2.0,31,32,30,8,52,Matches,de112b84
@@ -1860,7 +1860,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1859,Nacho,es ESP,DF,Real Madrid,La Liga,33,1990,19.4,1183,1281,92.3,19465,7898,574,598,96.0,532,561,94.8,65,98,66.3,1,1.2,0.9,-0.2,5,47,3,1,55,Matches,2946f9a1
 1860,Bilal Nadir,ma MAR,MFFW,Marseille,Ligue 1,19,2003,1.3,41,47,87.2,570,100,26,26,100.0,12,15,80.0,2,2,100.0,0,0.1,0.1,-0.1,2,3,2,0,4,Matches,226673c2
 1861,Mahamadou Nagida,cm CMR,DF,Rennes,Ligue 1,18,2005,1.2,47,65,72.3,815,214,24,28,85.7,17,24,70.8,5,8,62.5,0,0.3,0.3,-0.3,3,2,3,3,2,Matches,8bfbf257
-1862,Marvelous Nakamba,zw ZIM,MF,Luton Town,Premier League,29,1994,12.6,356,423,84.2,5622,1605,184,203,90.6,126,143,88.1,27,42,64.3,0,0.4,0.5,-0.4,7,27,2,1,36,Matches,de5b5570
+1862,Marvelous Nakamba,zw ZIM,MF,Luton,Premier League,29,1994,12.6,356,423,84.2,5622,1605,184,203,90.6,126,143,88.1,27,42,64.3,0,0.4,0.5,-0.4,7,27,2,1,36,Matches,de5b5570
 1863,Keito Nakamura,jp JPN,FWMF,Reims,Ligue 1,23,2000,15.3,292,400,73.0,4714,1083,136,172,79.1,113,145,77.9,26,45,57.8,1,1.3,2.2,-0.3,14,28,16,2,56,Matches,d97af612
 1864,Nahitan Nández,uy URU,MFDF,Cagliari,Serie A,27,1995,26.0,544,916,59.4,9670,3591,265,341,77.7,189,301,62.8,72,205,35.1,3,2.5,2.5,+0.5,43,47,31,15,76,Matches,95facda1
 1865,Matija Nastasić,rs SRB,DF,Mallorca,La Liga,30,1993,25.1,788,992,79.4,16422,6494,246,277,88.8,411,480,85.6,123,215,57.2,0,0.6,0.7,-0.6,5,60,8,2,64,Matches,f35430a4
@@ -1882,9 +1882,9 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1881,Loïc Nego,hu HUN,DFMF,Le Havre,Ligue 1,32,1991,17.3,481,639,75.3,7463,3221,256,309,82.8,186,252,73.8,25,44,56.8,3,1.0,1.6,+2.0,13,30,19,11,64,Matches,c3b6fa1e
 1882,Álvaro Negredo,es ESP,FWMF,Cadiz,La Liga,37,1985,0.6,10,22,45.5,165,9,5,10,50.0,3,3,100.0,1,4,25.0,0,0.1,0.1,-0.1,1,0,1,1,0,Matches,63b0ca6b
 1883,Reiss Nelson,eng ENG,FW,Arsenal,Premier League,23,1999,3.0,127,144,88.2,1674,298,80,83,96.4,31,36,86.1,6,12,50.0,0,0.6,0.4,-0.6,5,1,6,2,5,Matches,c5bdb6e3
-1884,Zack Nelson,eng ENG,MFDF,Luton Town,Premier League,18,2004,0.1,4,4,100.0,41,0,2,2,100.0,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,de0abf23
+1884,Zack Nelson,eng ENG,MFDF,Luton,Premier League,18,2004,0.1,4,4,100.0,41,0,2,2,100.0,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,de0abf23
 1885,Neto,br BRA,GK,Bournemouth,Premier League,34,1989,32.0,692,1060,65.3,20318,15023,95,97,97.9,360,371,97.0,236,585,40.3,0,0.0,0.0,0.0,0,23,0,0,0,Matches,a9dc785c
-1886,Pedro Neto,pt POR,FWMF,Wolves,Premier League,23,2000,16.8,538,722,74.5,8269,1984,308,354,87.0,154,210,73.3,49,98,50.0,9,4.4,3.7,+4.6,38,23,29,12,54,Matches,7ba2eaa9
+1886,Pedro Neto,pt POR,FWMF,Wolverhampton Wanderers,Premier League,23,2000,16.8,538,722,74.5,8269,1984,308,354,87.0,154,210,73.3,49,98,50.0,9,4.4,3.7,+4.6,38,23,29,12,54,Matches,7ba2eaa9
 1887,Luca Netz,de GER,DF,Borussia M.Gladbach,Bundesliga,20,2003,24.7,945,1220,77.5,14370,5250,516,586,88.1,335,419,80.0,58,136,42.6,4,3.0,3.1,+1.0,37,38,23,8,81,Matches,e79269bd
 1888,Manuel Neuer,de GER,GK,Bayern Munich,Bundesliga,37,1986,22.8,754,876,86.1,18448,11570,140,141,99.3,411,418,98.3,203,317,64.0,0,0.0,0.0,0.0,0,14,0,0,8,Matches,8778c910
 1889,Florian Neuhaus,de GER,MF,Borussia M.Gladbach,Bundesliga,26,1997,13.6,470,567,82.9,7851,2269,240,273,87.9,175,201,87.1,40,60,66.7,2,1.8,2.6,+0.2,19,59,14,5,74,Matches,36a59ba4
@@ -1894,7 +1894,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1893,Cyril Ngonge,be BEL,FWMF,Verona,Serie A,23,2000,15.9,234,361,64.8,4279,1264,104,147,70.7,91,120,75.8,32,61,52.5,2,1.7,1.6,+0.3,21,25,13,8,44,Matches,2b8360f1
 1894,Cyril Ngonge,be BEL,FW,Napoli,Serie A,23,2000,3.5,107,144,74.3,1788,439,58,65,89.2,37,50,74.0,11,23,47.8,0,0.8,0.5,-0.8,9,8,5,2,11,Matches,2b8360f1
 1895,Steve Ngoura,fr FRA,FWMF,Le Havre,Ligue 1,18,2005,2.5,33,50,66.0,569,200,15,22,68.2,16,24,66.7,2,3,66.7,1,0.1,0.2,+0.9,1,5,2,0,9,Matches,731f1f5a
-1896,Moussa Niakhate,sn SEN,DF,Nott'ham Forest,Premier League,27,1996,16.2,618,775,79.7,11445,4223,237,252,94.0,310,381,81.4,66,123,53.7,0,0.1,0.3,-0.1,3,30,5,1,39,Matches,00242715
+1896,Moussa Niakhate,sn SEN,DF,Nottingham Forest,Premier League,27,1996,16.2,618,775,79.7,11445,4223,237,252,94.0,310,381,81.4,66,123,53.7,0,0.1,0.3,-0.1,3,30,5,1,39,Matches,00242715
 1897,M'Baye Niang,sn SEN,FW,Empoli,Serie A,28,1994,7.9,90,140,64.3,1379,305,50,72,69.4,28,39,71.8,8,18,44.4,1,0.9,0.2,+0.1,9,8,3,2,11,Matches,2054d037
 1898,Tanguy Nianzou,fr FRA,DF,Sevilla,La Liga,21,2002,3.5,137,156,87.8,2623,726,43,50,86.0,80,87,92.0,12,15,80.0,0,0.0,0.0,0.0,0,14,0,0,14,Matches,5853ac44
 1899,Shamar Nicholson,jm JAM,FW,Clermont Foot,Ligue 1,26,1997,16.5,272,386,70.5,4088,711,143,200,71.5,87,126,69.0,20,25,80.0,3,1.1,1.0,+1.9,18,25,6,0,33,Matches,e33fb79d
@@ -1919,11 +1919,11 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1918,Ernest Nuamah,gh GHA,FWMF,Lyon,Ligue 1,19,2003,20.4,535,692,77.3,8568,1884,273,319,85.6,193,246,78.5,44,75,58.7,2,3.8,5.2,-1.8,29,30,31,5,74,Matches,234a703c
 1919,Alexander Nübel,de GER,GK,VfB Stuttgart,Bundesliga,26,1996,30.0,998,1218,81.9,24812,17557,199,200,99.5,539,556,96.9,258,456,56.6,0,0.0,0.0,0.0,0,13,1,0,1,Matches,afb0c500
 1920,Kasim Nuhu,gh GHA,DF,Hoffenheim,Bundesliga,28,1995,0.1,1,3,33.3,25,0,0,0,,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,93a50d2c
-1921,Matheus Nunes,pt POR,MF,Wolves,Premier League,24,1998,2.0,87,106,82.1,1077,279,59,68,86.8,23,26,88.5,2,6,33.3,0,0.1,0.2,-0.1,3,6,1,0,8,Matches,e6af02e0
+1921,Matheus Nunes,pt POR,MF,Wolverhampton Wanderers,Premier League,24,1998,2.0,87,106,82.1,1077,279,59,68,86.8,23,26,88.5,2,6,33.3,0,0.1,0.2,-0.1,3,6,1,0,8,Matches,e6af02e0
 1922,Matheus Nunes,pt POR,MF,Manchester City,Premier League,24,1998,7.3,373,443,84.2,5054,783,233,255,91.4,115,133,86.5,11,23,47.8,2,1.1,1.5,+0.9,9,23,16,2,34,Matches,e6af02e0
 1923,Darwin Núñez,uy URU,FW,Liverpool,Premier League,24,1999,22.7,341,493,69.2,4780,1020,196,251,78.1,101,147,68.7,22,37,59.5,8,6.0,4.5,+2.0,33,23,26,0,54,Matches,4d77b365
 1924,Unai Núñez,es ESP,DF,Celta Vigo,La Liga,26,1997,31.1,1303,1635,79.7,26581,10797,410,472,86.9,712,807,88.2,168,314,53.5,0,0.8,1.0,-0.8,10,97,2,0,106,Matches,be170419
-1925,Fabian Nürnberger,bg BUL,DFMF,Darmstadt 98,Bundesliga,24,1999,16.8,713,895,79.7,11202,3439,388,430,90.2,261,315,82.9,46,97,47.4,1,2.0,2.6,-1.0,30,52,26,12,70,Matches,178018f9
+1925,Fabian Nürnberger,bg BUL,DFMF,Darmstadt,Bundesliga,24,1999,16.8,713,895,79.7,11202,3439,388,430,90.2,261,315,82.9,46,97,47.4,1,2.0,2.6,-1.0,30,52,26,12,70,Matches,178018f9
 1926,Ethan Nwaneri,eng ENG,FW,Arsenal,Premier League,16,2007,0.2,15,18,83.3,209,56,10,13,76.9,5,5,100.0,0,0,,0,0.0,0.0,0.0,1,1,2,0,2,Matches,7f94982c
 1927,Simeon Nwankwo,ng NGA,FW,Salernitana,Serie A,31,1992,7.6,83,133,62.4,1082,151,52,76,68.4,22,27,81.5,2,2,100.0,0,0.6,0.4,-0.6,5,8,1,0,7,Matches,80dbbd10
 1928,Gerzino Nyamsi,fr FRA,DF,Strasbourg,Ligue 1,26,1997,12.1,555,632,87.8,11520,4040,136,156,87.2,345,362,95.3,66,101,65.3,0,0.2,0.1,-0.2,4,19,0,0,25,Matches,6043997c
@@ -1946,7 +1946,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1945,Álvaro Odriozola,es ESP,DF,Real Sociedad,La Liga,27,1995,4.4,212,244,86.9,3435,996,102,112,91.1,95,105,90.5,9,13,69.2,0,0.2,0.2,-0.2,2,10,3,3,8,Matches,1d1691ad
 1946,Tim Oermann,de GER,DF,Bochum,Bundesliga,19,2003,7.9,181,262,69.1,3043,1352,92,113,81.4,71,94,75.5,16,33,48.5,0,0.3,0.4,-0.3,4,22,5,3,25,Matches,57ec75bf
 1947,Odeluga Offiah,eng ENG,DF,Brighton,Premier League,20,2002,1.4,63,80,78.8,851,196,39,41,95.1,21,24,87.5,2,7,28.6,0,0.0,0.0,0.0,0,1,1,0,4,Matches,65c3efa2
-1948,Chiedozie Ogbene,ie IRL,MFDF,Luton Town,Premier League,26,1997,22.2,589,790,74.6,8171,2314,365,409,89.2,175,234,74.8,22,57,38.6,1,3.1,3.5,-2.1,25,24,18,5,53,Matches,788c0277
+1948,Chiedozie Ogbene,ie IRL,MFDF,Luton,Premier League,26,1997,22.2,589,790,74.6,8171,2314,365,409,89.2,175,234,74.8,22,57,38.6,1,3.1,3.5,-2.1,25,24,18,5,53,Matches,788c0277
 1949,Angelo Ogbonna,it ITA,DF,West Ham,Premier League,35,1988,7.1,171,214,79.9,3291,1109,60,67,89.6,94,104,90.4,14,38,36.8,0,0.0,0.1,0.0,0,6,0,0,4,Matches,74b2cd7e
 1950,Florent Ogier,fr FRA,DF,Clermont Foot,Ligue 1,34,1989,10.5,425,512,83.0,7821,3241,160,172,93.0,206,231,89.2,44,90,48.9,1,0.5,0.5,+0.5,1,13,0,0,17,Matches,6993927b
 1951,Noah Okafor,ch SUI,FWMF,AC Milan,Serie A,23,2000,9.9,120,193,62.2,1802,438,56,84,66.7,52,73,71.2,4,14,28.6,2,1.2,0.5,+0.8,8,3,9,3,15,Matches,ca607d59
@@ -1967,7 +1967,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1966,Warmed Omari,km COM,DF,Rennes,Ligue 1,23,2000,23.0,1162,1291,90.0,23681,8572,330,374,88.2,661,701,94.3,150,175,85.7,0,0.3,0.6,-0.3,5,100,4,0,123,Matches,4534a352
 1967,Becir Omeragic,ch SUI,DFMF,Montpellier,Ligue 1,21,2002,25.7,904,1060,85.3,17025,5657,341,378,90.2,443,476,93.1,98,165,59.4,0,0.7,0.4,-0.7,10,63,2,0,71,Matches,c284d6fb
 1968,Jonas Omlin,ch SUI,GK,Borussia M.Gladbach,Bundesliga,29,1994,7.0,208,276,75.4,5517,3723,38,38,100.0,106,108,98.1,64,130,49.2,1,0.4,0.0,+0.6,1,1,0,0,0,Matches,c631f952
-1969,Andrew Omobamidele,ie IRL,DF,Nott'ham Forest,Premier League,21,2002,8.7,271,310,87.4,5197,1449,78,91,85.7,174,189,92.1,16,25,64.0,0,0.1,0.0,-0.1,2,9,0,0,8,Matches,c393a6c4
+1969,Andrew Omobamidele,ie IRL,DF,Nottingham Forest,Premier League,21,2002,8.7,271,310,87.4,5197,1449,78,91,85.7,174,189,92.1,16,25,64.0,0,0.1,0.0,-0.1,2,9,0,0,8,Matches,c393a6c4
 1970,Samu Omorodion,es ESP,FW,Alaves,La Liga,19,2004,21.3,232,322,72.0,3200,468,142,180,78.9,68,93,73.1,8,13,61.5,1,1.3,0.6,-0.3,16,11,5,0,18,Matches,dc44b03c
 1971,Samu Omorodion,es ESP,FW,Granada,La Liga,19,2004,0.9,10,15,66.7,178,6,3,5,60.0,4,4,100.0,2,2,100.0,0,0.0,0.0,0.0,2,0,0,0,0,Matches,dc44b03c
 1972,Amadou Onana,be BEL,MF,Everton,Premier League,21,2001,23.2,871,1036,84.1,14568,4039,444,499,89.0,312,357,87.4,85,115,73.9,0,2.7,1.4,-2.7,18,102,14,1,107,Matches,828657ff
@@ -1976,7 +1976,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1975,Ryan One,sct SCO,FW,Sheffield United,Premier League,17,2006,0.1,1,1,100.0,7,0,1,1,100.0,0,0,,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,d4aa4582
 1976,Karim Onisiwo,at AUT,FWMF,Mainz 05,Bundesliga,31,1992,16.6,205,338,60.7,2977,710,117,166,70.5,52,88,59.1,19,31,61.3,3,1.3,1.3,+1.7,16,19,9,5,27,Matches,f26834c7
 1977,Tyler Onyango,eng ENG,MF,Everton,Premier League,20,2003,0.0,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,d86a1f3e
-1978,Fred Onyedinma,eng ENG,DFMF,Luton Town,Premier League,26,1996,4.5,91,135,67.4,1431,352,45,58,77.6,42,61,68.9,2,7,28.6,0,0.1,0.1,-0.1,2,4,2,1,6,Matches,387d06b2
+1978,Fred Onyedinma,eng ENG,DFMF,Luton,Premier League,26,1996,4.5,91,135,67.4,1431,352,45,58,77.6,42,61,68.9,2,7,28.6,0,0.1,0.1,-0.1,2,4,2,1,6,Matches,387d06b2
 1979,Frank Onyeka,ng NGA,MF,Brentford,Premier League,25,1998,12.9,299,396,75.5,4662,1127,159,181,87.8,114,152,75.0,18,35,51.4,2,1.8,1.4,+0.2,12,23,11,5,33,Matches,2944f86f
 1980,Loïs Openda,be BEL,FW,RasenBallsport Leipzig,Bundesliga,23,2000,30.0,348,524,66.4,4561,1025,211,281,75.1,92,128,71.9,13,31,41.9,7,5.8,4.6,+1.2,35,21,21,5,45,Matches,8652a85c
 1981,Royce Openda Owaga,ga GAB,FW,Lorient,Ligue 1,21,2002,0.2,2,3,66.7,27,15,1,2,50.0,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,a758ca47
@@ -1985,7 +1985,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1984,Gift Orban,ng NGA,FW,Lyon,Ligue 1,21,2002,5.3,73,103,70.9,1022,169,40,52,76.9,19,26,73.1,5,11,45.5,0,0.0,0.2,0.0,0,3,2,0,6,Matches,de17db90
 1985,Willi Orban,hu HUN,DF,RasenBallsport Leipzig,Bundesliga,30,1992,17.6,1251,1396,89.6,23362,8621,395,432,91.4,763,813,93.8,83,124,66.9,0,0.4,0.8,-0.4,7,67,4,1,97,Matches,20030c06
 1986,Ivan Ordets,ua UKR,DF,Bochum,Bundesliga,31,1992,20.9,473,653,72.4,9071,2797,157,215,73.0,268,325,82.5,44,89,49.4,0,0.5,1.7,-0.5,4,21,1,0,44,Matches,86c75897
-1987,Divock Origi,be BEL,FW,Nott'ham Forest,Premier League,28,1995,6.7,92,144,63.9,1357,327,59,82,72.0,19,32,59.4,9,13,69.2,1,2.1,0.8,-1.1,7,7,5,1,14,Matches,43a166b4
+1987,Divock Origi,be BEL,FW,Nottingham Forest,Premier League,28,1995,6.7,92,144,63.9,1357,327,59,82,72.0,19,32,59.4,9,13,69.2,1,2.1,0.8,-1.1,7,7,5,1,14,Matches,43a166b4
 1988,Gaetano Oristanio,it ITA,FWMF,Cagliari,Serie A,20,2002,12.3,164,242,67.8,2772,783,90,110,81.8,47,69,68.1,20,39,51.3,1,1.1,1.0,-0.1,15,15,11,7,26,Matches,5cfc74fc
 1989,Aimar Oroz,es ESP,MF,Osasuna,La Liga,21,2001,26.0,839,1035,81.1,12423,2859,485,560,86.6,288,329,87.5,41,63,65.1,1,1.6,2.2,-0.6,26,68,18,0,103,Matches,7c363088
 1990,Riccardo Orsolini,it ITA,FWMF,Bologna,Serie A,26,1997,19.9,490,731,67.0,8021,2233,269,312,86.2,142,219,64.8,59,121,48.8,2,4.4,3.9,-2.4,36,22,22,4,71,Matches,e14ec482
@@ -1993,7 +1993,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 1992,Eneko Ortiz,es ESP,DF,Alaves,La Liga,20,2003,0.2,3,4,75.0,43,31,2,2,100.0,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,1,0,1,Matches,dc5ea86b
 1993,Asier Osambela,es ESP,MF,Osasuna,La Liga,19,2004,0.1,2,5,40.0,17,2,2,3,66.7,0,1,0.0,0,0,,0,0.0,0.0,0.0,0,1,0,0,0,Matches,e87c44a9
 1994,Ben Osborn,eng ENG,DFMF,Sheffield United,Premier League,28,1994,15.2,448,608,73.7,7007,2650,253,281,90.0,145,194,74.7,35,90,38.9,2,0.9,0.9,+1.1,13,34,11,8,55,Matches,79bc4c45
-1995,Gabriel Osho,ng NGA,DF,Luton Town,Premier League,24,1998,20.5,580,706,82.2,10931,4019,195,222,87.8,342,384,89.1,41,87,47.1,0,0.1,0.2,-0.1,2,30,3,1,37,Matches,cd889153
+1995,Gabriel Osho,ng NGA,DF,Luton,Premier League,24,1998,20.5,580,706,82.2,10931,4019,195,222,87.8,342,384,89.1,41,87,47.1,0,0.1,0.2,-0.1,2,30,3,1,37,Matches,cd889153
 1996,Victor Osimhen,ng NGA,FW,Napoli,Serie A,24,1998,22.0,194,290,66.9,2461,399,120,158,75.9,52,72,72.2,4,13,30.8,3,3.1,0.9,-0.1,23,12,6,0,23,Matches,8c90fd7a
 1997,Milutin Osmajić,me MNE,MF,Cadiz,La Liga,24,1999,0.1,2,3,66.7,32,0,1,1,100.0,1,1,100.0,0,0,,0,0.0,0.0,0.0,1,0,0,0,0,Matches,375ed9d7
 1998,Patrick Osterhage,de GER,MF,Bochum,Bundesliga,23,2000,20.7,658,835,78.8,9287,2817,378,439,86.1,200,248,80.6,35,59,59.3,1,0.8,0.7,+0.2,13,49,13,2,64,Matches,9662c9ec
@@ -2111,7 +2111,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2110,Jens Petter Hauge,no NOR,MFFW,Eintracht Frankfurt,Bundesliga,23,1999,1.6,69,85,81.2,1097,270,33,39,84.6,31,36,86.1,4,6,66.7,0,0.1,0.4,-0.1,2,4,4,0,6,Matches,12c35abe
 2111,Germán Pezzella,ar ARG,DF,Real Betis,La Liga,32,1991,30.7,1277,1485,86.0,23691,8483,443,475,93.3,724,811,89.3,94,168,56.0,0,0.3,0.3,-0.3,4,49,4,1,64,Matches,8c725b43
 2112,Giuseppe Pezzella,it ITA,DF,Empoli,Serie A,25,1997,12.1,434,585,74.2,6940,2645,237,271,87.5,160,197,81.2,29,77,37.7,0,0.5,1.2,-0.5,8,33,15,11,44,Matches,149c5f5d
-2113,Luca Pfeiffer,de GER,FWMF,Darmstadt 98,Bundesliga,26,1996,18.0,290,414,70.0,4273,930,169,216,78.2,96,137,70.1,16,32,50.0,4,1.7,1.0,+2.3,19,20,8,1,37,Matches,83e1f40e
+2113,Luca Pfeiffer,de GER,FWMF,Darmstadt,Bundesliga,26,1996,18.0,290,414,70.0,4273,930,169,216,78.2,96,137,70.1,16,32,50.0,4,1.7,1.0,+2.3,19,20,8,1,37,Matches,83e1f40e
 2114,Patric Pfeiffer,de GER,DF,Augsburg,Bundesliga,23,1999,5.7,193,267,72.3,4034,1515,56,65,86.2,105,132,79.5,30,58,51.7,1,0.8,0.6,+0.2,4,15,3,1,19,Matches,d07d0aeb
 2115,Maximilian Philipp,de GER,FWMF,Freiburg,Bundesliga,29,1994,3.6,81,109,74.3,1056,161,47,54,87.0,24,32,75.0,2,3,66.7,0,0.4,0.4,-0.4,3,6,2,1,6,Matches,061e8e23
 2116,Kalvin Phillips,eng ENG,MF,West Ham,Premier League,27,1995,3.4,141,179,78.8,2507,567,62,74,83.8,64,77,83.1,12,20,60.0,0,0.0,0.0,0.0,0,24,0,0,19,Matches,4f565d77
@@ -2138,7 +2138,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2137,Paul Pogba,fr FRA,MF,Juventus,Serie A,30,1993,0.6,27,35,77.1,425,113,13,14,92.9,11,13,84.6,2,4,50.0,0,0.0,0.1,0.0,1,5,2,0,5,Matches,867239d3
 2138,Ole Pohlmann,de GER,MF,Borussia Dortmund,Bundesliga,22,2001,0.6,13,20,65.0,164,2,9,9,100.0,3,5,60.0,0,4,0.0,0,0.1,0.0,-0.1,1,0,0,0,0,Matches,822b83e8
 2139,Matteo Politano,it ITA,FW,Napoli,Serie A,29,1993,26.2,994,1292,76.9,16623,5282,526,581,90.5,315,403,78.2,115,207,55.6,7,6.6,6.0,+0.4,71,75,76,23,164,Matches,5e861944
-2140,Sebastian Polter,de GER,FW,Darmstadt 98,Bundesliga,32,1991,5.0,65,112,58.0,872,241,31,52,59.6,26,39,66.7,1,1,100.0,1,0.6,0.5,+0.4,3,5,2,1,13,Matches,3745e8bd
+2140,Sebastian Polter,de GER,FW,Darmstadt,Bundesliga,32,1991,5.0,65,112,58.0,872,241,31,52,59.6,26,39,66.7,1,1,100.0,1,0.6,0.5,+0.4,3,5,2,1,13,Matches,3745e8bd
 2141,Julien Ponceau,fr FRA,MF,Lorient,Ligue 1,22,2000,24.9,1014,1200,84.5,15686,3946,516,575,89.7,377,424,88.9,69,106,65.1,2,2.7,1.9,-0.7,35,84,30,3,154,Matches,e546b2e3
 2142,Marin Pongračić,hr CRO,DF,Lecce,Serie A,25,1997,35.8,1583,1872,84.6,34979,12707,363,424,85.6,931,1012,92.0,272,395,68.9,0,0.4,0.6,-0.4,11,119,5,0,134,Matches,2a6cd437
 2143,Nick Pope,eng ENG,GK,Newcastle United,Premier League,31,1992,14.9,307,399,76.9,7910,4836,59,60,98.3,168,172,97.7,79,165,47.9,0,0.0,0.0,0.0,0,5,0,0,0,Matches,4b40d9ca
@@ -2215,11 +2215,11 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2214,Mateo Retegui,it ITA,FW,Genoa,Serie A,24,1999,24.6,265,412,64.3,3135,410,177,233,76.0,61,104,58.7,6,15,40.0,2,0.7,0.6,+1.3,11,10,5,0,17,Matches,e7695e6c
 2215,Marco Reus,de GER,MFFW,Borussia Dortmund,Bundesliga,34,1989,17.8,588,707,83.2,8017,2071,339,374,90.6,172,202,85.1,30,46,65.2,8,5.1,3.7,+2.9,36,38,20,2,64,Matches,36a3ff67
 2216,Elvis Rexhbeçaj,xk KVX,MF,Augsburg,Bundesliga,25,1997,22.1,523,709,73.8,8584,2372,240,297,80.8,212,272,77.9,44,75,58.7,0,0.5,1.3,-0.5,13,63,18,5,91,Matches,1ae836b1
-2217,Gio Reyna,us USA,FWMF,Nott'ham Forest,Premier League,20,2002,2.6,118,140,84.3,1768,374,69,74,93.2,40,45,88.9,7,13,53.8,1,0.5,0.4,+0.5,7,5,2,0,12,Matches,7fa4e703
+2217,Gio Reyna,us USA,FWMF,Nottingham Forest,Premier League,20,2002,2.6,118,140,84.3,1768,374,69,74,93.2,40,45,88.9,7,13,53.8,1,0.5,0.4,+0.5,7,5,2,0,12,Matches,7fa4e703
 2218,Gio Reyna,us USA,MFFW,Borussia Dortmund,Bundesliga,20,2002,3.1,166,193,86.0,2376,582,105,112,93.8,51,63,81.0,5,7,71.4,0,0.8,1.1,-0.8,7,15,7,2,20,Matches,7fa4e703
 2219,Chadi Riad,ma MAR,DF,Real Betis,La Liga,20,2003,24.0,1074,1198,89.6,19044,5584,423,451,93.8,568,600,94.7,62,111,55.9,0,0.2,0.2,-0.2,2,20,0,0,34,Matches,b3b9b8b8
 2220,Alexsandro Ribeiro,br BRA,DF,Lille,Ligue 1,23,1999,24.7,1615,1804,89.5,29871,10802,584,618,94.5,868,934,92.9,128,201,63.7,0,0.5,0.7,-0.5,5,83,5,0,82,Matches,102c9665
-2221,Rodrigo Ribeiro,pt POR,MFFW,Nott'ham Forest,Premier League,18,2005,0.2,6,8,75.0,89,35,2,4,50.0,3,3,100.0,0,0,,0,0.0,0.0,0.0,0,1,0,0,2,Matches,484a3eae
+2221,Rodrigo Ribeiro,pt POR,MFFW,Nottingham Forest,Premier League,18,2005,0.2,6,8,75.0,89,35,2,4,50.0,3,3,100.0,0,0,,0,0.0,0.0,0.0,0,1,0,0,2,Matches,484a3eae
 2222,Samuele Ricci,it ITA,MF,Torino,Serie A,21,2001,26.6,1121,1310,85.6,18378,4368,524,574,91.3,496,551,90.0,71,117,60.7,2,2.3,2.4,-0.3,26,103,24,4,122,Matches,9823be92
 2223,Declan Rice,eng ENG,MF,Arsenal,Premier League,24,1999,35.8,2041,2295,88.9,34242,9378,958,1031,92.9,910,975,93.3,137,210,65.2,8,5.3,4.8,+2.7,47,240,39,2,278,Matches,1c7012b8
 2224,Chris Richards,us USA,DFMF,Crystal Palace,Premier League,23,2000,23.3,778,942,82.6,13337,4341,362,413,87.7,341,389,87.7,58,100,58.0,1,0.4,0.2,+0.6,6,41,2,0,43,Matches,0a3d6d2b
@@ -2227,7 +2227,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2226,Richarlison,br BRA,FW,Tottenham,Premier League,26,1997,16.6,267,392,68.1,3761,956,153,193,79.3,85,119,71.4,10,15,66.7,4,2.1,1.4,+1.9,15,21,13,1,38,Matches,fa031b34
 2227,Marco Richter,de GER,MFFW,Mainz 05,Bundesliga,25,1997,8.0,184,291,63.2,3183,1076,91,111,82.0,59,98,60.2,26,58,44.8,0,1.3,2.1,-1.3,11,23,11,3,30,Matches,f972644c
 2228,Diego Rico,es ESP,DF,Getafe,La Liga,30,1993,28.2,993,1495,66.4,17450,8646,482,570,84.6,384,566,67.8,104,267,39.0,7,3.8,3.4,+3.2,39,106,40,32,119,Matches,d9ba39fc
-2229,Clemens Riedel,de GER,DF,Darmstadt 98,Bundesliga,20,2003,8.4,490,576,85.1,9609,3088,164,185,88.6,266,286,93.0,55,84,65.5,0,0.7,0.3,-0.7,6,37,3,0,47,Matches,77cfae67
+2229,Clemens Riedel,de GER,DF,Darmstadt,Bundesliga,20,2003,8.4,490,576,85.1,9609,3088,164,185,88.6,266,286,93.0,55,84,65.5,0,0.7,0.3,-0.7,6,37,3,0,47,Matches,77cfae67
 2230,Fabian Rieder,ch SUI,MF,Rennes,Ligue 1,21,2002,4.1,169,212,79.7,3101,976,63,76,82.9,84,97,86.6,16,29,55.2,0,0.6,0.3,-0.6,4,25,6,1,41,Matches,c2bd8585
 2231,Jaïro Riedewald,nl NED,MFFW,Crystal Palace,Premier League,26,1996,2.6,87,113,77.0,1422,331,37,42,88.1,40,46,87.0,5,13,38.5,0,0.0,0.1,0.0,0,5,2,0,10,Matches,7a1f2c08
 2232,Manuel Riemann,de GER,GK,Bochum,Bundesliga,34,1988,33.0,1031,1715,60.1,36529,30871,129,133,97.0,332,343,96.8,566,1226,46.2,0,0.2,0.4,-0.2,4,92,7,2,19,Matches,9f941969
@@ -2272,7 +2272,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2271,Luka Romero,ar ARG,FW,Almeria,La Liga,18,2004,4.9,137,148,92.6,1744,338,93,98,94.9,37,40,92.5,1,1,100.0,0,0.1,0.1,-0.1,2,7,2,1,14,Matches,ca6edaa0
 2272,Oriol Romeu,es ESP,MF,Barcelona,La Liga,31,1991,10.4,717,806,89.0,11315,2753,372,399,93.2,291,319,91.2,38,59,64.4,1,1.3,0.9,-0.3,8,80,8,1,66,Matches,4b511457
 2273,Valentin Rongier,fr FRA,MF,Marseille,Ligue 1,28,1994,9.5,504,577,87.3,9308,2852,178,209,85.2,267,285,93.7,43,62,69.4,0,0.8,1.2,-0.8,9,72,10,1,73,Matches,ed45c4a5
-2274,Frank Ronstadt,de GER,DFMF,Darmstadt 98,Bundesliga,26,1997,0.8,35,42,83.3,479,178,21,23,91.3,13,15,86.7,0,1,0.0,0,0.1,0.1,-0.1,2,2,2,1,2,Matches,51d29173
+2274,Frank Ronstadt,de GER,DFMF,Darmstadt,Bundesliga,26,1997,0.8,35,42,83.3,479,178,21,23,91.3,13,15,86.7,0,1,0.0,0,0.1,0.1,-0.1,2,2,2,1,2,Matches,51d29173
 2275,Marten de Roon,nl NED,MFDF,Atalanta,Serie A,32,1991,28.9,1446,1712,84.5,26689,8394,564,630,89.5,690,779,88.6,159,239,66.5,5,1.2,1.2,+3.8,23,147,20,3,178,Matches,2a1beb34
 2276,Unai Ropero,es ESP,MF,Alaves,La Liga,21,2001,0.1,4,5,80.0,46,20,3,3,100.0,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,7868c973
 2277,Vitor Roque,br BRA,FW,Barcelona,La Liga,18,2005,3.6,49,67,73.1,615,67,34,41,82.9,11,15,73.3,1,1,100.0,0,0.0,0.0,0.0,1,3,0,0,2,Matches,cb00f1e6
@@ -2285,7 +2285,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2284,Nicolò Rovella,it ITA,MF,Lazio,Serie A,21,2001,14.6,851,976,87.2,14115,3415,412,437,94.3,351,381,92.1,66,104,63.5,2,0.5,0.6,+1.5,10,68,5,0,56,Matches,e58cbfd5
 2285,Amir Rrahmani,xk KVX,DF,Napoli,Serie A,29,1994,28.9,2028,2255,89.9,39408,13051,735,776,94.7,1008,1067,94.5,260,366,71.0,0,0.9,0.7,-0.9,14,153,3,0,113,Matches,4b3e1a38
 2286,Ruan,br BRA,DF,Sassuolo,Serie A,24,1999,16.8,593,698,85.0,11580,3616,190,218,87.2,327,367,89.1,66,91,72.5,0,0.6,0.4,-0.6,4,22,3,0,33,Matches,a378a02a
-2287,Pelly Ruddock Mpanzu,cd COD,MF,Luton Town,Premier League,30,1993,12.2,268,364,73.6,4413,1102,123,141,87.2,110,143,76.9,16,36,44.4,0,0.4,1.4,-0.4,6,17,13,2,34,Matches,a9b1c319
+2287,Pelly Ruddock Mpanzu,cd COD,MF,Luton,Premier League,30,1993,12.2,268,364,73.6,4413,1102,123,141,87.2,110,143,76.9,16,36,44.4,0,0.4,1.4,-0.4,6,17,13,2,34,Matches,a9b1c319
 2288,Antonio Rüdiger,de GER,DF,Real Madrid,La Liga,30,1993,30.1,1630,1815,89.8,30058,11111,625,654,95.6,860,908,94.7,130,219,59.4,0,1.2,1.0,-1.2,5,90,11,2,88,Matches,18b896d6
 2289,Fabian Rüdlin,de GER,MF,Freiburg,Bundesliga,26,1997,0.1,4,5,80.0,89,35,1,1,100.0,2,3,66.7,1,1,100.0,0,0.0,0.0,0.0,0,0,0,0,1,Matches,96cfb5e2
 2290,Javier Rueda Garcia,es ESP,MFDF,Celta Vigo,La Liga,21,2002,0.2,14,16,87.5,268,73,4,5,80.0,7,8,87.5,2,2,100.0,0,0.0,0.0,0.0,0,1,0,0,1,Matches,9ace87ba
@@ -2297,7 +2297,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2296,Sergio Ruiz,es ESP,MF,Granada,La Liga,28,1994,27.7,1080,1283,84.2,18617,5626,490,541,90.6,466,517,90.1,96,151,63.6,4,1.3,1.8,+2.7,12,68,23,3,113,Matches,1f423a54
 2297,Julian Ryerson,no NOR,DF,Borussia Dortmund,Bundesliga,25,1997,19.6,974,1129,86.3,14916,3144,503,549,91.6,399,448,89.1,43,70,61.4,1,2.7,2.8,-1.7,14,46,7,5,64,Matches,009a4f60
 2298,Frederik Rønnow,dk DEN,GK,Union Berlin,Bundesliga,30,1992,33.0,951,1316,72.3,26908,19806,173,173,100.0,475,483,98.3,296,651,45.5,0,0.1,0.1,-0.1,1,36,1,0,1,Matches,a70b8345
-2299,José Sá,pt POR,GK,Wolves,Premier League,30,1993,33.7,720,1097,65.6,17257,11201,186,190,97.9,360,369,97.6,162,522,31.0,1,0.0,0.0,+1.0,1,8,0,0,1,Matches,903b6e8b
+2299,José Sá,pt POR,GK,Wolverhampton Wanderers,Premier League,30,1993,33.7,720,1097,65.6,17257,11201,186,190,97.9,360,369,97.6,162,522,31.0,1,0.0,0.0,+1.0,1,8,0,0,1,Matches,903b6e8b
 2300,Youssouf Sabaly,sn SEN,DF,Real Betis,La Liga,30,1993,11.6,540,656,82.3,7544,2477,314,352,89.2,192,223,86.1,16,38,42.1,1,0.5,0.7,+0.5,4,33,10,1,47,Matches,fbbb9269
 2301,Emmanuel Sabbi,us USA,FWMF,Le Havre,Ligue 1,25,1997,17.6,258,368,70.1,3538,1097,147,190,77.4,82,112,73.2,10,20,50.0,1,1.4,1.1,-0.4,10,21,9,3,36,Matches,2e1b7c83
 2302,Stefano Sabelli,it ITA,DF,Genoa,Serie A,30,1993,27.0,611,977,62.5,10552,4661,307,377,81.4,228,347,65.7,61,164,37.2,1,1.9,1.9,-0.9,20,58,35,15,88,Matches,0ccac09c
@@ -2326,7 +2326,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2325,Diadie Samassékou,ml MLI,MF,Hoffenheim,Bundesliga,27,1996,0.0,2,2,100.0,25,0,1,1,100.0,1,1,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,08593525
 2326,Mama Samba Baldé,gw GNB,FWMF,Lyon,Ligue 1,27,1995,6.1,88,135,65.2,1223,294,51,66,77.3,26,43,60.5,4,7,57.1,3,2.3,1.2,+0.7,13,4,4,0,11,Matches,fb14aa28
 2327,Brice Samba,fr FRA,GK,Lens,Ligue 1,29,1994,33.0,880,1122,78.4,23308,15854,172,172,100.0,404,411,98.3,289,519,55.7,0,0.2,0.2,-0.2,2,18,2,0,4,Matches,60d90c55
-2328,Albert Sambi Lokonga,be BEL,MF,Luton Town,Premier League,23,1999,14.5,669,766,87.3,11099,3318,319,348,91.7,253,285,88.8,55,76,72.4,3,1.4,0.8,+1.6,9,68,6,1,72,Matches,1b4f1169
+2328,Albert Sambi Lokonga,be BEL,MF,Luton,Premier League,23,1999,14.5,669,766,87.3,11099,3318,319,348,91.7,253,285,88.8,55,76,72.4,3,1.4,0.8,+1.6,9,68,6,1,72,Matches,1b4f1169
 2329,Junior Sambia,fr FRA,DFMF,Salernitana,Serie A,26,1996,11.5,397,508,78.1,6404,2412,213,238,89.5,135,182,74.2,38,63,60.3,2,0.9,0.6,+1.1,12,30,10,5,41,Matches,24eb7ed6
 2330,Fede San Emeterio,es ESP,MF,Cadiz,La Liga,26,1997,1.7,43,52,82.7,818,265,13,15,86.7,21,23,91.3,7,8,87.5,0,0.1,0.2,-0.1,1,3,1,1,4,Matches,efecd633
 2331,Antonio Sanabria,py PAR,FWMF,Torino,Serie A,27,1996,23.7,494,624,79.2,7261,1214,287,339,84.7,143,177,80.8,33,47,70.2,0,1.4,0.9,-1.4,15,39,10,1,57,Matches,0a447501
@@ -2346,17 +2346,17 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2345,Leroy Sané,de GER,FW,Bayern Munich,Bundesliga,27,1996,23.7,878,1098,80.0,12860,3036,538,612,87.9,254,311,81.7,57,98,58.2,11,10.8,9.5,+0.2,72,43,47,2,113,Matches,2b114be3
 2346,Sadibou Sané,sn SEN,DF,Metz,Ligue 1,19,2004,9.4,254,317,80.1,5406,1557,69,82,84.1,140,161,87.0,43,68,63.2,0,0.0,0.1,0.0,1,10,2,2,19,Matches,b2009f99
 2347,Arouna Sangante,sn SEN,DF,Le Havre,Ligue 1,21,2002,29.9,1233,1521,81.1,24085,9176,453,525,86.3,586,667,87.9,166,270,61.5,0,1.2,0.9,-1.2,17,93,9,2,107,Matches,17bb562c
-2348,Ibrahim Sangaré,ci CIV,MF,Nott'ham Forest,Premier League,25,1997,11.5,339,425,79.8,5477,1680,181,207,87.4,115,136,84.6,32,50,64.0,0,0.4,0.4,-0.4,7,34,5,0,44,Matches,bced0375
+2348,Ibrahim Sangaré,ci CIV,MF,Nottingham Forest,Premier League,25,1997,11.5,339,425,79.8,5477,1680,181,207,87.4,115,136,84.6,32,50,64.0,0,0.4,0.4,-0.4,7,34,5,0,44,Matches,bced0375
 2349,Morgan Sanson,fr FRA,MF,Nice,Ligue 1,28,1994,21.8,630,836,75.4,10830,2818,289,331,87.3,240,300,80.0,71,147,48.3,3,4.0,3.8,-1.0,43,50,20,5,75,Matches,6e7f1353
 2350,Nicola Sansone,it ITA,FWMF,Lecce,Serie A,31,1991,8.5,207,277,74.7,3177,948,115,129,89.1,62,79,78.5,18,40,45.0,2,1.3,0.9,+0.7,17,24,10,2,36,Matches,7eb97a8e
 2351,Baptiste Santamaria,fr FRA,MF,Rennes,Ligue 1,28,1995,21.4,1055,1207,87.4,19511,5191,409,452,90.5,468,519,90.2,138,171,80.7,1,0.6,1.6,+0.4,13,104,15,0,134,Matches,5e22e2a4
 2352,Jesús Santiago,es ESP,MF,Getafe,La Liga,19,2004,7.3,144,189,76.2,2242,445,80,96,83.3,56,67,83.6,7,15,46.7,0,0.4,0.2,-0.4,6,18,4,0,15,Matches,bc49fd34
-2353,Andrey Santos,br BRA,MF,Nott'ham Forest,Premier League,19,2004,0.1,6,6,100.0,90,31,4,4,100.0,2,2,100.0,0,0,,0,0.0,0.0,0.0,0,1,0,0,0,Matches,dd745366
+2353,Andrey Santos,br BRA,MF,Nottingham Forest,Premier League,19,2004,0.1,6,6,100.0,90,31,4,4,100.0,2,2,100.0,0,0,,0,0.0,0.0,0.0,0,1,0,0,0,Matches,dd745366
 2354,Andrey Santos,br BRA,MF,Strasbourg,Ligue 1,19,2004,9.2,444,511,86.9,7717,2017,186,209,89.0,216,235,91.9,32,43,74.4,0,1.0,0.8,-1.0,6,49,3,0,48,Matches,dd745366
 2355,Tiago Santos,pt POR,DF,Lille,Ligue 1,21,2002,26.3,1113,1396,79.7,18957,4850,509,582,87.5,483,582,83.0,94,178,52.8,2,2.3,2.6,-0.3,27,83,25,10,105,Matches,3eeebc87
 2356,Paco Sanz,es ESP,DF,Almeria,La Liga,18,2004,0.3,7,10,70.0,154,79,2,3,66.7,4,5,80.0,1,2,50.0,0,0.0,0.0,0.0,0,0,0,0,0,Matches,b7aa8fd8
 2357,Riccardo Saponara,it ITA,FWMF,Verona,Serie A,31,1991,3.8,87,124,70.2,1465,387,38,45,84.4,36,52,69.2,8,11,72.7,0,0.2,0.2,-0.2,3,8,3,1,14,Matches,3bb7af3b
-2358,Pablo Sarabia,es ESP,MFFW,Wolves,Premier League,31,1992,19.4,684,976,70.1,11034,3731,377,439,85.9,195,263,74.1,73,168,43.5,7,5.9,4.9,+1.1,51,59,40,6,109,Matches,9744ff80
+2358,Pablo Sarabia,es ESP,MFFW,Wolverhampton Wanderers,Premier League,31,1992,19.4,684,976,70.1,11034,3731,377,439,85.9,195,263,74.1,73,168,43.5,7,5.9,4.9,+1.1,51,59,40,6,109,Matches,9744ff80
 2359,Amin Sarr,se SWE,FWMF,Lyon,Ligue 1,22,2001,1.1,13,20,65.0,147,11,6,10,60.0,4,4,100.0,0,1,0.0,0,0.2,0.1,-0.2,1,1,1,0,1,Matches,d5326924
 2360,Amin Sarr,se SWE,FWMF,Wolfsburg,Bundesliga,22,2001,4.3,95,130,73.1,1094,215,62,76,81.6,17,24,70.8,4,4,100.0,0,0.2,0.2,-0.2,2,5,5,0,12,Matches,d5326924
 2361,Bouna Sarr,sn SEN,DF,Bayern Munich,Bundesliga,31,1992,1.2,92,104,88.5,1371,286,53,58,91.4,35,40,87.5,3,4,75.0,0,0.0,0.1,0.0,0,9,1,1,2,Matches,1a4b9094
@@ -2385,9 +2385,9 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2384,Kenneth Schmidt,de GER,DF,Freiburg,Bundesliga,21,2002,0.8,43,48,89.6,749,239,18,18,100.0,22,25,88.0,2,2,100.0,0,0.1,0.1,-0.1,2,2,1,1,4,Matches,7d31f1cb
 2385,Niklas Schmidt,de GER,MF,Toulouse,Ligue 1,25,1998,14.1,679,840,80.8,13440,4232,263,306,85.9,296,337,87.8,107,159,67.3,1,2.4,2.6,-1.4,28,80,16,7,106,Matches,b9ae8560
 2386,Benno Schmitz,de GER,DF,FC Cologne,Bundesliga,28,1994,12.8,502,709,70.8,7950,3765,258,301,85.7,189,261,72.4,39,88,44.3,1,0.3,1.1,+0.7,5,41,16,6,70,Matches,ad00b1a8
-2387,Fabian Schnellhardt,de GER,MF,Darmstadt 98,Bundesliga,29,1994,2.6,149,172,86.6,2555,498,59,66,89.4,77,83,92.8,9,13,69.2,0,0.1,0.1,-0.1,2,9,1,0,15,Matches,8575037f
+2387,Fabian Schnellhardt,de GER,MF,Darmstadt,Bundesliga,29,1994,2.6,149,172,86.6,2555,498,59,66,89.4,77,83,92.8,9,13,69.2,0,0.1,0.1,-0.1,2,9,1,0,15,Matches,8575037f
 2388,Jan Schöppner,de GER,MF,FC Heidenheim,Bundesliga,24,1999,22.2,444,668,66.5,7530,2508,214,293,73.0,176,240,73.3,40,78,51.3,2,1.5,1.4,+0.5,13,40,10,0,72,Matches,932bfcac
-2389,Marcel Schuhen,de GER,GK,Darmstadt 98,Bundesliga,30,1993,31.0,1064,1496,71.1,31713,23490,163,164,99.4,505,514,98.2,395,814,48.5,0,0.0,0.2,0.0,0,42,3,0,5,Matches,5fa2e0cf
+2389,Marcel Schuhen,de GER,GK,Darmstadt,Bundesliga,30,1993,31.0,1064,1496,71.1,31713,23490,163,164,99.4,505,514,98.2,395,814,48.5,0,0.0,0.2,0.0,0,42,3,0,5,Matches,5fa2e0cf
 2390,Perr Schuurs,nl NED,DF,Torino,Serie A,23,1999,8.6,359,406,88.4,6478,1868,141,155,91.0,187,199,94.0,27,41,65.9,0,0.0,0.4,0.0,0,17,1,1,19,Matches,e613313c
 2391,Marvin Schwäbe,de GER,GK,FC Cologne,Bundesliga,28,1995,34.0,1014,1305,77.7,26489,17868,171,172,99.4,553,565,97.9,289,557,51.9,0,0.1,0.2,-0.1,2,23,1,0,3,Matches,87436846
 2392,Alexander Schwolow,de GER,GK,Union Berlin,Bundesliga,31,1992,1.0,29,36,80.6,814,589,4,4,100.0,15,15,100.0,10,17,58.8,0,0.0,0.0,0.0,0,0,0,0,0,Matches,0d55d942
@@ -2402,9 +2402,9 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2401,Nicolas Seiwald,at AUT,MF,RasenBallsport Leipzig,Bundesliga,22,2001,8.0,320,390,82.1,5471,1792,148,167,88.6,139,162,85.8,27,43,62.8,2,0.3,0.4,+1.7,5,25,6,0,33,Matches,28c6e925
 2402,Nikola Sekulov,it ITA,FW,Juventus,Serie A,21,2002,0.1,1,2,50.0,3,0,0,1,0.0,0,0,,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,b2e08cb6
 2403,Davie Selke,de GER,FW,FC Cologne,Bundesliga,28,1995,14.1,144,234,61.5,1808,325,86,123,69.9,42,73,57.5,3,4,75.0,0,0.4,0.3,-0.4,11,12,4,0,17,Matches,1238a3f9
-2404,Matz Sels,be BEL,GK,Nott'ham Forest,Premier League,31,1992,16.0,263,378,69.6,7689,5794,66,66,100.0,102,104,98.1,92,203,45.3,0,0.1,0.1,-0.1,1,14,3,0,0,Matches,834b5c4c
+2404,Matz Sels,be BEL,GK,Nottingham Forest,Premier League,31,1992,16.0,263,378,69.6,7689,5794,66,66,100.0,102,104,98.1,92,203,45.3,0,0.1,0.1,-0.1,1,14,3,0,0,Matches,834b5c4c
 2405,Matz Sels,be BEL,GK,Strasbourg,Ligue 1,31,1992,19.0,452,619,73.0,12321,8610,90,90,100.0,213,216,98.6,144,307,46.9,0,0.5,0.1,-0.5,1,11,1,0,0,Matches,834b5c4c
-2406,Nélson Semedo,pt POR,DFMF,Wolves,Premier League,29,1993,34.3,1474,1849,79.7,21759,7306,876,969,90.4,495,616,80.4,69,158,43.7,1,1.7,1.8,-0.7,24,101,25,10,138,Matches,d04b94db
+2406,Nélson Semedo,pt POR,DFMF,Wolverhampton Wanderers,Premier League,29,1993,34.3,1474,1849,79.7,21759,7306,876,969,90.4,495,616,80.4,69,158,43.7,1,1.7,1.8,-0.7,24,101,25,10,138,Matches,d04b94db
 2407,Vivaldo Semedo,pt POR,FW,Udinese,Serie A,18,2005,0.1,0,1,0.0,0,0,0,0,,0,1,0.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,b6baba31
 2408,Antoine Semenyo,gh GHA,FW,Bournemouth,Premier League,23,2000,23.4,452,647,69.9,6944,1597,254,324,78.4,160,214,74.8,25,49,51.0,2,3.2,2.3,-1.2,29,28,28,7,64,Matches,efd2ec23
 2409,Marvin Senaya,tg TOG,DFMF,Strasbourg,Ligue 1,22,2001,23.8,871,1120,77.8,15097,5149,369,431,85.6,416,518,80.3,67,127,52.8,1,2.8,1.9,-1.8,21,63,21,18,74,Matches,1d383c10
@@ -2413,11 +2413,11 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2412,Suat Serdar,de GER,MF,Verona,Serie A,26,1997,18.4,445,602,73.9,8940,2516,169,209,80.9,179,228,78.5,86,126,68.3,2,1.4,0.9,+0.6,17,56,14,1,68,Matches,b3325a30
 2413,Benjamin Šeško,si SVN,FW,RasenBallsport Leipzig,Bundesliga,20,2003,17.0,215,330,65.2,2541,538,135,183,73.8,53,77,68.8,4,10,40.0,2,1.1,1.3,+0.9,12,8,7,0,22,Matches,3260690c
 2414,Kevin Sessa,de GER,MFFW,FC Heidenheim,Bundesliga,23,2000,11.2,331,450,73.6,5953,1904,133,163,81.6,138,176,78.4,42,66,63.6,0,1.3,1.7,-1.3,17,40,13,2,51,Matches,fd82af8c
-2415,Aaron Seydel,de GER,FW,Darmstadt 98,Bundesliga,27,1996,6.9,110,190,57.9,1535,254,66,99,66.7,33,65,50.8,4,6,66.7,0,0.7,0.6,-0.7,9,9,1,0,10,Matches,85b6462d
+2415,Aaron Seydel,de GER,FW,Darmstadt,Bundesliga,27,1996,6.9,110,190,57.9,1535,254,66,99,66.7,33,65,50.8,4,6,66.7,0,0.7,0.6,-0.7,9,9,1,0,10,Matches,85b6462d
 2416,Andres Sfait,ro ROU,DFMF,Salernitana,Serie A,18,2004,0.3,4,6,66.7,70,57,2,2,100.0,2,2,100.0,0,1,0.0,0,0.1,0.0,-0.1,1,1,1,0,1,Matches,4fb7cc15
 2417,Stephan El Shaarawy,it ITA,FWDF,Roma,Serie A,30,1992,19.3,545,662,82.3,8516,1723,305,350,87.1,194,228,85.1,37,51,72.5,4,2.3,1.8,+1.7,20,23,12,5,44,Matches,d3aaad90
 2418,Luke Shaw,eng ENG,DF,Manchester United,Premier League,28,1995,10.7,531,648,81.9,8242,3114,273,306,89.2,201,237,84.8,31,65,47.7,0,1.0,0.9,-1.0,13,33,7,0,45,Matches,9c94165b
-2419,James Shea,eng ENG,GK,Luton Town,Premier League,32,1991,0.2,6,9,66.7,239,215,0,0,,3,3,100.0,3,6,50.0,0,0.0,0.0,0.0,0,1,0,0,0,Matches,ee7c0a5e
+2419,James Shea,eng ENG,GK,Luton,Premier League,32,1991,0.2,6,9,66.7,239,215,0,0,,3,3,100.0,3,6,50.0,0,0.0,0.0,0.0,0,1,0,0,0,Matches,ee7c0a5e
 2420,Eldor Shomurodov,uz UZB,FWMF,Cagliari,Serie A,28,1995,10.4,153,230,66.5,2048,487,97,131,74.0,44,59,74.6,6,14,42.9,3,1.7,1.1,+1.3,10,10,5,2,18,Matches,57469b2d
 2421,Steven Shpendi,al ALB,FWMF,Empoli,Serie A,20,2003,4.6,57,76,75.0,717,101,36,44,81.8,16,19,84.2,0,0,,1,0.5,0.2,+0.5,5,3,3,0,6,Matches,fd987f24
 2422,Sofiane Sidi Ali,fr FRA,MF,Marseille,Ligue 1,28,1995,0.2,6,7,85.7,121,38,2,2,100.0,2,3,66.7,2,2,100.0,0,0.0,0.0,0.0,0,0,0,0,1,Matches,1609700b
@@ -2427,7 +2427,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2426,André Silva,pt POR,FW,Real Sociedad,La Liga,27,1995,8.1,134,165,81.2,1654,172,91,99,91.9,34,40,85.0,2,2,100.0,0,0.3,0.2,-0.3,5,5,1,0,7,Matches,3effaa34
 2427,Bernardo Silva,pt POR,MFFW,Manchester City,Premier League,28,1994,28.6,1671,1936,86.3,25138,5246,993,1052,94.4,534,620,86.1,106,158,67.1,9,7.6,8.0,+1.4,64,100,49,10,177,Matches,3eb22ec9
 2428,Caio Henrique Oliveira Silva,br BRA,DF,Monaco,Ligue 1,26,1997,6.9,376,464,81.0,6295,2068,175,196,89.3,168,197,85.3,28,53,52.8,5,1.3,2.3,+3.7,13,26,15,2,33,Matches,30af8b93
-2429,Fábio Silva,pt POR,FW,Wolves,Premier League,21,2002,2.9,61,76,80.3,779,174,37,43,86.0,16,18,88.9,1,4,25.0,0,0.2,0.1,-0.2,4,7,0,0,10,Matches,e7aa9d7c
+2429,Fábio Silva,pt POR,FW,Wolverhampton Wanderers,Premier League,21,2002,2.9,61,76,80.3,779,174,37,43,86.0,16,18,88.9,1,4,25.0,0,0.2,0.1,-0.2,4,7,0,0,10,Matches,e7aa9d7c
 2430,Rui Silva,pt POR,GK,Real Betis,La Liga,29,1994,27.5,669,958,69.8,18063,12611,124,124,100.0,324,327,99.1,218,501,43.5,0,0.0,0.0,0.0,0,8,0,0,1,Matches,ea83bfa6
 2431,Thiago Silva,br BRA,DF,Chelsea,Premier League,38,1984,28.1,2166,2287,94.7,38542,15513,887,918,96.6,1119,1157,96.7,143,186,76.9,1,1.0,0.6,0.0,9,125,10,1,102,Matches,86e7deaf
 2432,Marco Silvestri,it ITA,GK,Udinese,Serie A,32,1991,17.0,324,451,71.8,8621,6421,69,71,97.2,173,178,97.2,82,201,40.8,0,0.0,0.0,0.0,0,2,0,0,0,Matches,0d422df7
@@ -2446,7 +2446,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2445,Ibrahima Sissoko,ml MLI,MF,Strasbourg,Ligue 1,25,1997,18.2,614,752,81.6,11019,3046,242,286,84.6,298,355,83.9,59,87,67.8,1,1.7,1.9,-0.7,12,67,7,1,88,Matches,0f8418aa
 2446,Moussa Sissoko,fr FRA,MF,Nantes,Ligue 1,33,1989,20.2,547,681,80.3,8769,2582,258,312,82.7,233,274,85.0,33,49,67.3,0,1.1,0.8,-1.1,14,41,9,3,74,Matches,2acd49b9
 2447,Antonio Sivera,es ESP,GK,Alaves,La Liga,26,1996,34.0,651,1105,58.9,23568,18918,107,107,100.0,205,208,98.6,336,784,42.9,0,0.1,0.1,-0.1,4,41,2,0,0,Matches,9970da54
-2448,Tim Skarke,de GER,FWDF,Darmstadt 98,Bundesliga,26,1996,26.7,622,855,72.7,10477,2900,307,364,84.3,219,294,74.5,72,127,56.7,0,2.1,3.0,-2.1,31,38,33,14,80,Matches,65857fdf
+2448,Tim Skarke,de GER,FWDF,Darmstadt,Bundesliga,26,1996,26.7,622,855,72.7,10477,2900,307,364,84.3,219,294,74.5,72,127,56.7,0,2.1,3.0,-2.1,31,38,33,14,80,Matches,65857fdf
 2449,Ellyes Skhiri,tn TUN,MF,Eintracht Frankfurt,Bundesliga,28,1995,24.1,1082,1287,84.1,17184,4753,541,593,91.2,432,495,87.3,71,120,59.2,2,1.0,1.9,+1.0,19,76,16,0,110,Matches,c2211709
 2450,Oliver Skipp,eng ENG,MFDF,Tottenham,Premier League,22,2000,7.9,351,383,91.6,5258,1454,199,210,94.8,123,131,93.9,19,24,79.2,0,0.6,0.5,-0.6,7,37,3,0,37,Matches,6250083a
 2451,Leo Skiri Østigård,no NOR,DF,Napoli,Serie A,23,1999,18.1,1172,1339,87.5,22293,8252,377,411,91.7,671,723,92.8,110,177,62.1,0,0.1,0.3,-0.1,3,68,4,0,76,Matches,b35a7399
@@ -2509,7 +2509,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2508,Angelo Stiller,de GER,MF,Hoffenheim,Bundesliga,22,2001,0.9,36,43,83.7,683,273,17,19,89.5,13,13,100.0,5,7,71.4,0,0.0,0.1,0.0,1,7,1,1,7,Matches,3b1ed320
 2509,Angelo Stiller,de GER,MF,VfB Stuttgart,Bundesliga,22,2001,29.9,2346,2637,89.0,37536,11544,1147,1231,93.2,981,1047,93.7,141,243,58.0,5,5.1,5.4,-0.1,51,229,29,6,220,Matches,3b1ed320
 2510,Kevin Stöger,at AUT,MF,Bochum,Bundesliga,29,1993,29.6,1363,2028,67.2,25253,10738,604,760,79.5,508,711,71.4,208,415,50.1,10,9.9,9.8,+0.1,127,195,76,25,283,Matches,e5649a78
-2511,Filip Stojilković,ch SUI,FWMF,Darmstadt 98,Bundesliga,23,2000,1.7,10,21,47.6,176,45,3,8,37.5,7,12,58.3,0,0,,0,0.0,0.0,0.0,0,2,1,0,3,Matches,0cbe584d
+2511,Filip Stojilković,ch SUI,FWMF,Darmstadt,Bundesliga,23,2000,1.7,10,21,47.6,176,45,3,8,37.5,7,12,58.3,0,0,,0,0.0,0.0,0.0,0,2,1,0,3,Matches,0cbe584d
 2512,John Stones,eng ENG,DFMF,Manchester City,Premier League,29,1994,11.8,781,839,93.1,12375,2872,402,426,94.4,322,335,96.1,41,54,75.9,0,0.2,0.4,-0.2,6,53,1,0,57,Matches,5eecec3d
 2513,Thomas Strakosha,al ALB,GK,Brentford,Premier League,28,1995,1.5,52,71,73.2,1509,977,6,6,100.0,27,28,96.4,19,37,51.4,0,0.0,0.0,0.0,0,1,0,0,0,Matches,339fe0e8
 2514,Jørgen Strand Larsen,no NOR,FW,Celta Vigo,La Liga,23,2000,31.8,423,618,68.4,5082,766,286,370,77.3,85,132,64.4,15,23,65.2,3,2.5,2.1,+0.5,24,21,15,3,25,Matches,f553b2b3
@@ -2553,7 +2553,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2552,James Tarkowski,eng ENG,DF,Everton,Premier League,30,1992,38.0,1195,1550,77.1,25219,10527,396,474,83.5,588,683,86.1,196,335,58.5,1,2.5,2.7,-1.5,22,127,23,3,130,Matches,15ea812b
 2553,César Tárrega,es ESP,DF,Valencia,La Liga,21,2002,0.1,5,5,100.0,90,22,1,1,100.0,4,4,100.0,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,59c29820
 2554,Jimi Tauriainen,eng ENG,FW,Chelsea,Premier League,19,2004,0.0,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,cac9e583
-2555,Nuno Tavares,pt POR,DF,Nott'ham Forest,Premier League,23,2000,5.1,201,274,73.4,2954,1132,117,136,86.0,69,96,71.9,11,28,39.3,0,0.5,0.4,-0.5,2,14,2,0,24,Matches,a65c844b
+2555,Nuno Tavares,pt POR,DF,Nottingham Forest,Premier League,23,2000,5.1,201,274,73.4,2954,1132,117,136,86.0,69,96,71.9,11,28,39.3,0,0.5,0.4,-0.5,2,14,2,0,24,Matches,a65c844b
 2556,Marcus Tavernier,eng ENG,FW,Bournemouth,Premier League,24,1999,23.5,658,920,71.5,10699,3392,358,421,85.0,222,282,78.7,60,142,42.3,4,5.2,4.2,-1.2,44,46,35,7,84,Matches,5c0da4a4
 2557,Elayis Tavsan,nl NED,MFFW,Verona,Serie A,22,2001,0.6,7,8,87.5,143,42,3,3,100.0,3,3,100.0,1,2,50.0,0,0.0,0.0,0.0,0,0,1,0,2,Matches,928143e7
 2558,Charlie Taylor,eng ENG,DF,Burnley,Premier League,29,1993,25.9,995,1312,75.8,16535,5292,520,590,88.1,380,488,77.9,76,169,45.0,1,1.2,1.7,-0.2,15,69,19,14,82,Matches,cc2d7ad5
@@ -2595,7 +2595,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2594,Antonio Tikvić,hr CRO,DF,Udinese,Serie A,19,2004,0.0,0,0,,0,0,0,0,,0,0,,0,0,,0,0.0,0.0,0.0,0,0,0,0,0,Matches,d1ac669b
 2595,Jurriën Timber,nl NED,DF,Arsenal,Premier League,22,2001,0.8,66,74,89.2,982,221,35,36,97.2,30,33,90.9,1,2,50.0,0,0.0,0.0,0.0,0,11,0,0,8,Matches,41034650
 2596,Jean-Clair Todibo,fr FRA,DF,Nice,Ligue 1,23,1999,29.5,2228,2487,89.6,38405,14380,982,1034,95.0,1068,1136,94.0,143,265,54.0,2,1.6,1.2,+0.4,9,113,7,1,150,Matches,88f130ed
-2597,Harry Toffolo,eng ENG,DF,Nott'ham Forest,Premier League,27,1995,16.2,424,590,71.9,6959,2983,207,244,84.8,159,216,73.6,41,96,42.7,3,1.5,1.2,+1.5,18,40,10,10,42,Matches,a105d46a
+2597,Harry Toffolo,eng ENG,DF,Nottingham Forest,Premier League,27,1995,16.2,424,590,71.9,6959,2983,207,244,84.8,159,216,73.6,41,96,42.7,3,1.5,1.2,+1.5,18,40,10,10,42,Matches,a105d46a
 2598,Umut Tohumcu,de GER,MF,Hoffenheim,Bundesliga,18,2004,11.2,366,419,87.4,5711,1505,203,216,94.0,134,150,89.3,24,33,72.7,2,1.1,2.0,+0.9,9,45,11,2,46,Matches,e547d3cf
 2599,Corentin Tolisso,fr FRA,MF,Lyon,Ligue 1,28,1994,19.3,1059,1257,84.2,19107,5916,452,513,88.1,447,510,87.6,124,168,73.8,1,1.8,3.6,-0.8,26,126,30,11,153,Matches,652d4c37
 2600,Jeremy Toljan,de GER,DF,Sassuolo,Serie A,28,1994,23.1,775,1007,77.0,12656,5032,396,432,91.7,300,378,79.4,58,140,41.4,5,1.6,2.0,+3.4,18,52,20,7,79,Matches,a96e5dc0
@@ -2613,19 +2613,19 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2612,Óliver Torres,es ESP,MF,Sevilla,La Liga,28,1994,18.0,714,883,80.9,10966,3224,402,439,91.6,233,284,82.0,54,108,50.0,1,2.2,2.5,-1.2,22,75,18,8,96,Matches,58a9a4d9
 2613,Pau Torres,es ESP,DF,Aston Villa,Premier League,26,1997,27.4,1562,1788,87.4,29096,9616,524,566,92.6,887,952,93.2,126,226,55.8,0,0.4,0.7,-0.4,8,141,12,1,128,Matches,532e1e4f
 2614,Lucas Torró,es ESP,MF,Osasuna,La Liga,29,1994,19.9,604,798,75.7,9666,2491,298,368,81.0,250,310,80.6,40,71,56.3,0,0.6,0.6,-0.6,9,56,6,0,60,Matches,0e4fef6e
-2615,Fabio Torsiello,it ITA,FWDF,Darmstadt 98,Bundesliga,18,2005,1.7,21,27,77.8,367,173,10,10,100.0,6,8,75.0,3,7,42.9,0,0.0,0.1,0.0,0,2,2,1,4,Matches,9b5d89b3
+2615,Fabio Torsiello,it ITA,FWDF,Darmstadt,Bundesliga,18,2005,1.7,21,27,77.8,367,173,10,10,100.0,6,8,75.0,3,7,42.9,0,0.0,0.1,0.0,0,2,2,1,4,Matches,9b5d89b3
 2616,Ahmed Touba,dz ALG,DF,Lecce,Serie A,25,1998,3.1,115,137,83.9,2095,472,38,42,90.5,64,76,84.2,11,14,78.6,0,0.0,0.0,0.0,0,4,0,0,2,Matches,f25de136
 2617,Abdoulaye Touré,gn GUI,MF,Le Havre,Ligue 1,29,1994,25.4,1031,1238,83.3,18110,5195,413,483,85.5,475,546,87.0,92,122,75.4,0,0.9,0.9,-0.9,12,119,7,0,148,Matches,ef7cd87a
 2618,Souleymane Touré,fr FRA,DF,Lorient,Ligue 1,20,2003,22.8,1144,1280,89.4,18783,6849,508,550,92.4,508,550,92.4,77,106,72.6,1,0.4,1.6,+0.6,7,66,5,2,73,Matches,01fd01e8
 2619,Lucas Tousart,fr FRA,MF,Union Berlin,Bundesliga,26,1997,17.5,389,523,74.4,6364,1878,184,232,79.3,151,183,82.5,33,51,64.7,0,0.9,0.4,-0.9,7,33,2,0,51,Matches,71ec39ef
-2620,Andros Townsend,eng ENG,MFFW,Luton Town,Premier League,32,1991,13.4,304,432,70.4,5162,1225,148,173,85.5,111,147,75.5,32,74,43.2,3,1.3,1.8,+1.7,18,23,16,12,35,Matches,b28bbd58
+2620,Andros Townsend,eng ENG,MFFW,Luton,Premier League,32,1991,13.4,304,432,70.4,5162,1225,148,173,85.5,111,147,75.5,32,74,43.2,3,1.3,1.8,+1.7,18,23,16,12,35,Matches,b28bbd58
 2621,James Trafford,eng ENG,GK,Burnley,Premier League,20,2002,28.0,1009,1541,65.5,23601,16311,318,323,98.5,451,464,97.2,235,735,32.0,0,0.0,0.1,0.0,0,24,1,0,6,Matches,259fea27
 2622,Adama Traoré,es ESP,FWMF,Fulham,Premier League,27,1996,4.2,97,139,69.8,1487,457,52,62,83.9,38,52,73.1,5,12,41.7,3,0.7,0.9,+2.3,7,3,9,4,16,Matches,9a28eba4
 2623,Bénie Traoré,ci CIV,FWMF,Sheffield United,Premier League,20,2002,4.3,55,71,77.5,775,185,34,38,89.5,19,23,82.6,1,1,100.0,0,0.5,0.5,-0.5,4,2,7,1,9,Matches,77816c91
 2624,Bénie Traoré,ci CIV,FWMF,Nantes,Ligue 1,20,2002,5.6,99,148,66.9,1513,448,58,73,79.5,30,42,71.4,6,17,35.3,1,0.9,1.3,+0.1,8,9,4,2,15,Matches,77816c91
 2625,Bertrand Traoré,bf BFA,DFFW,Aston Villa,Premier League,27,1995,0.1,2,3,66.7,15,0,1,1,100.0,0,0,,0,1,0.0,0,0.0,0.0,0.0,0,0,0,0,0,Matches,c47541e0
 2626,Bertrand Traoré,bf BFA,MF,Villarreal,La Liga,27,1995,6.3,167,213,78.4,2751,847,88,108,81.5,55,68,80.9,17,26,65.4,0,0.4,0.7,-0.4,5,13,12,2,30,Matches,c47541e0
-2627,Boubacar Traoré,ml MLI,MF,Wolves,Premier League,21,2001,9.1,383,455,84.2,5849,1360,207,234,88.5,138,158,87.3,23,34,67.6,0,0.4,0.3,-0.4,6,34,7,3,29,Matches,999ceb5f
+2627,Boubacar Traoré,ml MLI,MF,Wolverhampton Wanderers,Premier League,21,2001,9.1,383,455,84.2,5849,1360,207,234,88.5,138,158,87.3,23,34,67.6,0,0.4,0.3,-0.4,6,34,7,3,29,Matches,999ceb5f
 2628,Chaka Traorè,ci CIV,FW,AC Milan,Serie A,18,2004,0.2,9,11,81.8,121,19,5,5,100.0,4,5,80.0,0,1,0.0,0,0.0,0.0,0.0,0,0,0,0,0,Matches,ee6e2b92
 2629,Daouda Traoré,fr FRA,MF,Nice,Ligue 1,17,2006,0.2,9,9,100.0,130,26,5,5,100.0,4,4,100.0,0,0,,0,0.0,0.0,0.0,0,2,0,0,1,Matches,b26afd1e
 2630,Hamari Traoré,ml MLI,DF,Real Sociedad,La Liga,31,1992,25.5,1204,1509,79.8,21398,6928,512,585,87.5,548,664,82.5,118,202,58.4,2,1.5,2.2,+0.5,29,112,31,10,129,Matches,a4b1028a
@@ -2644,7 +2644,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2643,Kostas Tsimikas,gr GRE,DF,Liverpool,Premier League,27,1996,7.5,383,500,76.6,6585,1715,185,206,89.8,145,183,79.2,42,85,49.4,3,1.0,1.3,+2.0,16,16,7,4,31,Matches,f315ca93
 2644,Viktor Tsyhankov,ua UKR,MFFW,Girona,La Liga,25,1997,22.8,726,920,78.9,10334,2850,452,518,87.3,202,252,80.2,39,72,54.2,7,5.9,6.5,+1.1,34,44,49,8,89,Matches,f7e87032
 2645,Stefano Turati,it ITA,GK,Frosinone,Serie A,21,2001,30.5,775,1065,72.8,17065,12766,240,240,100.0,391,400,97.8,140,419,33.4,0,0.0,0.0,0.0,0,6,0,0,0,Matches,bf168004
-2646,Matt Turner,us USA,GK,Nott'ham Forest,Premier League,29,1994,17.0,398,578,68.9,12363,9869,87,87,100.0,147,151,97.4,162,330,49.1,0,0.0,0.0,0.0,0,10,0,0,0,Matches,4a51ba65
+2646,Matt Turner,us USA,GK,Nottingham Forest,Premier League,29,1994,17.0,398,578,68.9,12363,9869,87,87,100.0,147,151,97.4,162,330,49.1,0,0.0,0.0,0.0,0,10,0,0,0,Matches,4a51ba65
 2647,Beñat Turrientes,es ESP,MF,Real Sociedad,La Liga,21,2002,18.7,598,707,84.6,10126,2148,292,320,91.3,239,260,91.9,54,86,62.8,1,0.5,0.6,+0.5,9,47,3,0,51,Matches,068f4dec
 2648,Tuta,br BRA,DF,Eintracht Frankfurt,Bundesliga,24,1999,28.9,1614,1906,84.7,29332,10105,648,706,91.8,830,911,91.1,121,228,53.1,2,2.1,2.0,-0.1,12,118,16,2,138,Matches,35d64857
 2649,Destiny Udogie,it ITA,DF,Tottenham,Premier League,20,2002,26.6,1235,1440,85.8,16731,5145,775,844,91.8,400,460,87.0,19,33,57.6,3,2.2,2.0,+0.8,24,115,13,0,155,Matches,7cd520e8
@@ -2704,7 +2704,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2703,Jonathan Viera,es ESP,MF,Almeria,La Liga,33,1989,10.1,468,545,85.9,6398,1491,289,315,91.7,137,158,86.7,19,35,54.3,3,2.7,1.3,+0.3,27,37,14,1,68,Matches,efa708aa
 2704,Emanuel Vignato,it ITA,MFFW,Salernitana,Serie A,22,2000,3.5,90,120,75.0,1419,407,48,57,84.2,29,39,74.4,7,10,70.0,1,0.3,0.1,+0.7,5,11,0,0,11,Matches,ec5dae45
 2705,Samuele Vignato,it ITA,MFFW,Monza,Serie A,19,2004,3.8,107,128,83.6,1743,428,61,68,89.7,34,40,85.0,11,15,73.3,0,0.2,0.2,-0.2,4,9,2,0,13,Matches,a14d0ab0
-2706,Oscar Vilhelmsson,se SWE,FWMF,Darmstadt 98,Bundesliga,19,2003,15.3,123,212,58.0,1513,234,78,115,67.8,32,54,59.3,3,11,27.3,1,0.7,0.6,+0.3,11,5,2,0,7,Matches,e7f4869a
+2706,Oscar Vilhelmsson,se SWE,FWMF,Darmstadt,Bundesliga,19,2003,15.3,123,212,58.0,1513,234,78,115,67.8,32,54,59.3,3,11,27.3,1,0.7,0.6,+0.3,11,5,2,0,7,Matches,e7f4869a
 2707,Toni Villa,es ESP,FW,Girona,La Liga,28,1995,0.1,7,9,77.8,119,18,2,2,100.0,4,5,80.0,1,1,100.0,0,0.0,0.0,0.0,0,0,0,0,1,Matches,636eae97
 2708,Asier Villalibre,es ESP,FW,Athletic Club,La Liga,25,1997,5.7,88,124,71.0,1078,184,61,79,77.2,17,25,68.0,3,4,75.0,1,1.0,0.7,0.0,9,7,5,0,10,Matches,57be54ec
 2709,Gonzalo Villar,es ESP,MF,Granada,La Liga,25,1998,20.0,775,937,82.7,12511,3285,415,457,90.8,269,319,84.3,66,103,64.1,3,2.2,2.2,+0.8,14,71,15,3,74,Matches,bdc74a8f
@@ -2722,7 +2722,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2721,Vitinha,pt POR,MF,Paris Saint Germain,Ligue 1,23,2000,23.6,1659,1850,89.7,27065,6716,833,895,93.1,640,691,92.6,124,158,78.5,4,3.1,4.0,+0.9,37,155,32,2,182,Matches,3b029691
 2722,Vitinho,br BRA,DFMF,Burnley,Premier League,24,1999,25.7,715,994,71.9,11588,3536,373,445,83.8,282,398,70.9,45,84,53.6,2,1.3,1.2,+0.7,11,56,19,4,66,Matches,9295dc1c
 2723,Daniel Vivian,es ESP,DF,Athletic Club,La Liga,24,1999,32.0,1442,1719,83.9,28805,10952,459,510,90.0,808,895,90.3,167,276,60.5,0,0.7,0.6,-0.7,6,105,5,1,123,Matches,ab7bf91d
-2724,Odysseas Vlachodimos,gr GRE,GK,Nott'ham Forest,Premier League,29,1994,5.0,141,176,80.1,3965,2847,21,21,100.0,73,73,100.0,47,80,58.8,0,0.0,0.0,0.0,1,0,0,0,1,Matches,03df04ff
+2724,Odysseas Vlachodimos,gr GRE,GK,Nottingham Forest,Premier League,29,1994,5.0,141,176,80.1,3965,2847,21,21,100.0,73,73,100.0,47,80,58.8,0,0.0,0.0,0.0,1,0,0,0,1,Matches,03df04ff
 2725,Dušan Vlahović,rs SRB,FW,Juventus,Serie A,23,2000,25.6,380,542,70.1,5845,888,192,253,75.9,150,188,79.8,18,34,52.9,4,2.3,1.6,+1.7,29,21,14,1,46,Matches,79443529
 2726,Nikola Vlašić,hr CRO,MFFW,Torino,Serie A,25,1997,29.0,806,998,80.8,11878,3431,442,509,86.8,291,348,83.6,37,61,60.7,2,2.9,3.6,-0.9,35,96,31,9,150,Matches,aa8e289e
 2727,Alessandro Vogliacco,it ITA,DF,Genoa,Serie A,24,1998,13.0,494,626,78.9,9349,3512,186,204,91.2,235,272,86.4,59,120,49.2,1,0.5,0.5,+0.5,13,41,12,7,49,Matches,6841f107
@@ -2766,7 +2766,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2765,Mateusz Wieteska,pl POL,DF,Cagliari,Serie A,26,1997,10.7,374,462,81.0,7391,3331,121,134,90.3,214,241,88.8,38,78,48.7,1,0.6,0.3,+0.4,5,28,5,1,33,Matches,3ecc8c5f
 2766,Mateusz Wieteska,pl POL,DF,Clermont Foot,Ligue 1,26,1997,1.9,89,114,78.1,1763,785,23,30,76.7,56,60,93.3,8,21,38.1,0,0.0,0.0,0.0,0,11,0,0,6,Matches,3ecc8c5f
 2767,Iñaki Williams,gh GHA,FW,Athletic Club,La Liga,29,1994,31.6,668,995,67.1,8942,2406,444,557,79.7,191,285,67.0,18,55,32.7,3,6.3,5.8,-3.3,44,29,53,17,78,Matches,6a99e0b1
-2768,Neco Williams,wls WAL,DF,Nott'ham Forest,Premier League,22,2001,18.2,519,785,66.1,8061,3375,287,331,86.7,185,288,64.2,32,99,32.3,1,1.6,1.7,-0.6,11,43,17,11,47,Matches,dd323728
+2768,Neco Williams,wls WAL,DF,Nottingham Forest,Premier League,22,2001,18.2,519,785,66.1,8061,3375,287,331,86.7,185,288,64.2,32,99,32.3,1,1.6,1.7,-0.6,11,43,17,11,47,Matches,dd323728
 2769,Nico Williams,es ESP,FW,Athletic Club,La Liga,21,2002,25.1,579,828,69.9,9035,2545,321,374,85.8,196,265,74.0,43,101,42.6,11,5.7,7.5,+5.3,47,26,48,22,66,Matches,afdc14d7
 2770,Willian,br BRA,FW,Fulham,Premier League,34,1988,22.8,932,1145,81.4,16128,3848,460,513,89.7,337,407,82.8,109,157,69.4,2,3.9,4.5,-1.9,44,59,69,9,153,Matches,8b9ebd03
 2771,Joe Willock,eng ENG,MF,Newcastle United,Premier League,23,1999,4.7,136,164,82.9,2092,658,76,82,92.7,42,55,76.4,12,16,75.0,0,0.6,0.6,-0.6,7,16,3,1,17,Matches,a3b03921
@@ -2783,17 +2783,17 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2782,Marius Wolf,de GER,DF,Borussia Dortmund,Bundesliga,28,1995,13.0,687,896,76.7,11614,4213,313,362,86.5,307,367,83.7,53,115,46.1,1,1.6,2.3,-0.6,11,61,16,7,59,Matches,fa661778
 2783,Nick Woltemade,de GER,FWMF,Werder Bremen,Bundesliga,21,2002,13.2,316,412,76.7,4609,1137,178,219,81.3,94,112,83.9,24,38,63.2,0,1.7,1.8,-1.7,24,22,16,1,43,Matches,7ca196eb
 2784,Jeong Woo-yeong,kr KOR,MFFW,VfB Stuttgart,Bundesliga,23,1999,7.0,275,326,84.4,3475,721,188,209,90.0,57,73,78.1,12,15,80.0,3,1.6,1.6,+1.4,9,21,3,1,22,Matches,6190474d
-2785,Chris Wood,nz NZL,FW,Nott'ham Forest,Premier League,31,1991,20.1,278,433,64.2,3403,791,179,261,68.6,69,107,64.5,7,11,63.6,1,2.1,1.1,-1.1,22,19,3,0,30,Matches,4e9a0555
-2786,Cauley Woodrow,eng ENG,FWMF,Luton Town,Premier League,28,1994,4.7,110,152,72.4,1530,250,66,82,80.5,31,40,77.5,4,12,33.3,1,1.2,0.9,-0.2,9,5,4,4,6,Matches,d3085b49
+2785,Chris Wood,nz NZL,FW,Nottingham Forest,Premier League,31,1991,20.1,278,433,64.2,3403,791,179,261,68.6,69,107,64.5,7,11,63.6,1,2.1,1.1,-1.1,22,19,3,0,30,Matches,4e9a0555
+2786,Cauley Woodrow,eng ENG,FWMF,Luton,Premier League,28,1994,4.7,110,152,72.4,1530,250,66,82,80.5,31,40,77.5,4,12,33.3,1,1.2,0.9,-0.2,9,5,4,4,6,Matches,d3085b49
 2787,Christopher Wooh,cm CMR,DF,Rennes,Ligue 1,21,2001,15.4,675,789,85.6,13895,5198,181,206,87.9,402,438,91.8,80,123,65.0,0,0.7,0.4,-0.7,6,57,3,0,61,Matches,b003239d
-2788,Joe Worrall,eng ENG,DF,Nott'ham Forest,Premier League,26,1997,4.9,138,164,84.1,2910,1068,25,30,83.3,98,105,93.3,14,27,51.9,0,0.2,0.3,-0.2,2,5,0,0,8,Matches,a5212312
+2788,Joe Worrall,eng ENG,DF,Nottingham Forest,Premier League,26,1997,4.9,138,164,84.1,2910,1068,25,30,83.3,98,105,93.3,14,27,51.9,0,0.2,0.3,-0.2,2,5,0,0,8,Matches,a5212312
 2789,Xeber,es ESP,FWMF,Alaves,La Liga,26,1997,3.4,68,100,68.0,991,239,46,53,86.8,17,23,73.9,4,10,40.0,0,0.6,0.5,-0.6,6,3,1,0,6,Matches,d2c8aacc
 2790,Granit Xhaka,ch SUI,MF,Bayer Leverkusen,Bundesliga,30,1992,31.3,3020,3292,91.7,47359,13206,1681,1777,94.6,1063,1138,93.4,208,258,80.6,0,2.7,5.9,-2.7,41,370,54,0,392,Matches,e61b8aee
 2791,Antal Yaakobishvili,hu HUN,DF,Girona,La Liga,19,2004,0.7,37,42,88.1,715,266,15,17,88.2,14,14,100.0,7,10,70.0,0,0.3,0.1,-0.3,1,1,0,0,0,Matches,cd59a7e6
 2792,Lamine Yamal,es ESP,FW,Barcelona,La Liga,16,2007,24.5,903,1132,79.8,12868,3009,572,650,88.0,262,337,77.7,44,77,57.1,5,6.2,6.5,-1.2,38,39,52,16,80,Matches,82ec26c1
 2793,Roman Yaremchuk,ua UKR,FW,Valencia,La Liga,27,1995,10.3,142,210,67.6,1794,404,98,130,75.4,30,43,69.8,6,6,100.0,0,0.1,0.2,-0.1,5,13,4,0,20,Matches,cb641b9d
 2794,Yehor Yarmoliuk,ua UKR,MF,Brentford,Premier League,19,2004,7.6,221,298,74.2,3416,801,117,140,83.6,80,102,78.4,12,28,42.9,0,0.1,0.6,-0.1,3,17,10,1,35,Matches,907a5d7c
-2795,Ryan Yates,eng ENG,MF,Nott'ham Forest,Premier League,25,1997,22.1,659,829,79.5,10612,2717,315,375,84.0,280,326,85.9,37,67,55.2,1,0.8,0.6,+0.2,7,59,10,0,73,Matches,c1fe2a48
+2795,Ryan Yates,eng ENG,MF,Nottingham Forest,Premier League,25,1997,22.1,659,829,79.5,10612,2717,315,375,84.0,280,326,85.9,37,67,55.2,1,0.8,0.6,+0.2,7,59,10,0,73,Matches,c1fe2a48
 2796,Yusuf Yazıcı,tr TUR,MFFW,Lille,Ligue 1,26,1997,14.6,377,489,77.1,5416,1323,215,261,82.4,110,140,78.6,23,37,62.2,2,1.9,3.1,+0.1,18,37,11,1,48,Matches,f5c8b425
 2797,Kelvin Yeboah,it ITA,FW,Montpellier,Ligue 1,23,2000,3.1,58,79,73.4,762,190,35,40,87.5,18,26,69.2,1,4,25.0,0,0.3,0.1,-0.3,5,3,0,0,5,Matches,ea0893d6
 2798,Bertuğ Yıldırım,tr TUR,FW,Rennes,Ligue 1,21,2002,5.2,73,106,68.9,1066,194,37,51,72.5,26,40,65.0,4,6,66.7,1,0.7,0.2,+0.3,4,7,1,0,11,Matches,7410d325
@@ -2835,7 +2835,7 @@ Rk,Player,Nation,Pos,Squad,Comp,Age,Born,90s,TCmp,TAtt,TCmp%,TotDist,PrgDist,SCm
 2834,Edon Zhegrova,xk KVX,FW,Lille,Ligue 1,24,1999,25.4,764,1043,73.3,12061,3392,408,473,86.3,296,394,75.1,42,115,36.5,6,6.2,7.8,-0.2,46,43,53,13,90,Matches,34a88e3e
 2835,Piotr Zieliński,pl POL,MF,Napoli,Serie A,29,1994,21.4,1037,1255,82.6,15627,5245,585,626,93.5,326,394,82.7,78,155,50.3,2,3.4,3.2,-1.4,48,129,35,2,131,Matches,a5296e55
 2836,David Zima,cz CZE,DF,Torino,Serie A,22,2000,1.0,36,43,83.7,679,120,10,11,90.9,23,26,88.5,2,5,40.0,0,0.0,0.0,0.0,0,0,0,0,1,Matches,acf7e795
-2837,Christoph Zimmermann,de GER,DF,Darmstadt 98,Bundesliga,30,1993,13.6,455,555,82.0,9024,3318,159,179,88.8,236,266,88.7,59,95,62.1,0,0.1,0.3,-0.1,3,33,2,0,34,Matches,2d5f03bf
+2837,Christoph Zimmermann,de GER,DF,Darmstadt,Bundesliga,30,1993,13.6,455,555,82.0,9024,3318,159,179,88.8,236,266,88.7,59,95,62.1,0,0.1,0.3,-0.1,3,33,2,0,34,Matches,2d5f03bf
 2838,Oleksandr Zinchenko,ua UKR,DF,Arsenal,Premier League,26,1996,19.1,1374,1568,87.6,23132,6928,653,706,92.5,601,667,90.1,95,134,70.9,2,2.5,2.9,-0.5,29,154,49,4,229,Matches,51cf8561
 2839,Joshua Zirkzee,nl NED,FW,Bologna,Serie A,22,2001,30.7,710,917,77.4,9106,1752,446,539,82.7,166,213,77.9,32,46,69.6,4,5.2,2.5,-1.2,43,40,28,0,86,Matches,028e70b9
 2840,Luck Zogbé,ci CIV,DF,Brest,Ligue 1,18,2005,0.1,5,7,71.4,57,12,4,4,100.0,1,1,100.0,0,2,0.0,0,0.0,0.0,0.0,0,0,0,0,0,Matches,3725b44f
